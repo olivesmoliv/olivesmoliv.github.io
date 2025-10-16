@@ -296,7 +296,7 @@
             "number": 24,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Whenever you gain 3 or more life, put a +1/+1 counter on target creature you control. If that creature had power 2 or less, gather allies 1. [i](Put a +1/+1 counter on an Army you control. It's also an Ally. If you don't control an Army, create a 0/0 green Ally Army creature token first.)[/i]",
+            "rules_text": "Whenever you gain 3 or more life, put a +1/+1 counter on target creature you control. If that creature had power 2 or less, amass Allies 1. [i](Put a +1/+1 counter on an Army you control. It's also an Ally. If you don't control an Army, create a 0/0 black Ally Army creature token first.)[/i]",
             "flavor_text": "[i]\u201cMy loneliness... my fear... for you, my child, I shall put them aside.\u201d[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -306,6 +306,26 @@
             "artist": "parako :]",
             "alias": "",
             "position": "18",
+            "notes": ""
+        },
+        {
+            "card_name": "Kris's Knife",
+            "color": "",
+            "rarity": "rare",
+            "type": "Artifact \u2014 Equipment",
+            "number": 53,
+            "color_identity": "C",
+            "cost": "{2}",
+            "rules_text": "Whenever equipped creature attacks, darken X, where X is its power. [i](Put X +1/+1 counters on target artifact or land you control. If it isn't a creature, it becomes a 0/0 creature with haste in addition to its other types.)[/i]\nEquip {4}",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "DTR",
+            "loyalty": "",
+            "artist": "GhostBento",
+            "alias": "",
+            "position": "20",
             "notes": ""
         },
         {
@@ -346,6 +366,26 @@
             "artist": "ade_ri_00B",
             "alias": "",
             "position": "24",
+            "notes": ""
+        },
+        {
+            "card_name": "Jevil, Court Jester",
+            "color": "BR",
+            "rarity": "rare",
+            "type": "Legendary Creature \u2014 Devil Clown",
+            "number": 35,
+            "color_identity": "BR",
+            "cost": "{2}{B}{R}",
+            "rules_text": "[i]Chaos! Chaos! \u2014 [/i]The first noncreature spell you cast on each of your turns has cascade. [i](When you cast that spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)[/i]\nWhenever you cast a spell from exile, each opponent loses 1 life.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "DTR",
+            "loyalty": "",
+            "artist": "Pea-HAw",
+            "alias": "",
+            "position": "25",
             "notes": ""
         },
         {
@@ -405,7 +445,7 @@
             "loyalty": "",
             "artist": "noaharbre",
             "alias": "",
-            "position": "30",
+            "position": "29",
             "notes": ""
         },
         {
@@ -424,6 +464,26 @@
             "set": "DTR",
             "loyalty": "",
             "artist": "2--0",
+            "alias": "",
+            "position": "31",
+            "notes": ""
+        },
+        {
+            "card_name": "Tenna, TV Host",
+            "color": "UR",
+            "rarity": "rare",
+            "type": "Legendary Artifact Creature \u2014 Robot",
+            "number": 50,
+            "color_identity": "UR",
+            "cost": "{2}{U}{R}",
+            "rules_text": "[i]It's TV Time!! \u2014[/i] Whenever you cast your first artifact spell each turn, create your choice of a Food, Clue or a Junk token. [i]\n[/i]Whenever you activate an ability of an artifact, if it's not a mana ability, put a +1/+1 counter on Tenna.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "DTR",
+            "loyalty": "",
+            "artist": "starleska!",
             "alias": "",
             "position": "32",
             "notes": ""
@@ -445,7 +505,7 @@
             "loyalty": "",
             "artist": "hanada_03",
             "alias": "",
-            "position": "35",
+            "position": "34",
             "notes": ""
         },
         {
@@ -465,7 +525,7 @@
             "loyalty": "",
             "artist": "piinsk_pic",
             "alias": "",
-            "position": "36",
+            "position": "35",
             "notes": ""
         },
         {
@@ -485,7 +545,7 @@
             "loyalty": "",
             "artist": "toby_Sgr",
             "alias": "",
-            "position": "37",
+            "position": "36",
             "notes": ""
         },
         {
@@ -505,7 +565,7 @@
             "loyalty": "",
             "artist": "fynori",
             "alias": "",
-            "position": "38",
+            "position": "37",
             "notes": ""
         },
         {
@@ -525,7 +585,27 @@
             "loyalty": "",
             "artist": "theweevilguy",
             "alias": "",
-            "position": "39",
+            "position": "38",
+            "notes": ""
+        },
+        {
+            "card_name": "Asgore, Berguntr\u00fccking",
+            "color": "WBG",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Goat Noble",
+            "number": 27,
+            "color_identity": "WBG",
+            "cost": "{1}{W}{B}{G}",
+            "rules_text": "Asgore gets +1/+1 for each soul counter you have. \nWhenever a nontoken Human you control dies, you get a soul counter.\nPay seven soul counters: Destroy all creatures you don't control. Activate only as a sorcery.",
+            "flavor_text": "[i][/i]",
+            "pt": "4/4",
+            "special_text": "",
+            "shape": "normal",
+            "set": "DTR",
+            "loyalty": "",
+            "artist": "Jorge Zapata",
+            "alias": "",
+            "position": "40",
             "notes": ""
         },
         {
@@ -545,7 +625,7 @@
             "loyalty": "",
             "artist": "darmicy",
             "alias": "",
-            "position": "42",
+            "position": "41",
             "notes": ""
         },
         {
@@ -553,7 +633,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Ranger",
-            "number": 4,
+            "number": 3,
             "color_identity": "W",
             "cost": "{4}{W}",
             "rules_text": "Ward {2}\n[i]Quick Draw \u2014 [/i]Clover has first strike during your turn.\n[i]Justice \u2014 [/i]Whenever you're dealt damage, put that many +1/+1 counters on Clover.",
@@ -565,7 +645,7 @@
             "loyalty": "",
             "artist": "pankerdotpng",
             "alias": "",
-            "position": "45",
+            "position": "44",
             "notes": ""
         },
         {
@@ -585,7 +665,7 @@
             "loyalty": "",
             "artist": "0606_nmkn",
             "alias": "",
-            "position": "47",
+            "position": "46",
             "notes": ""
         },
         {
@@ -596,7 +676,7 @@
             "number": 42,
             "color_identity": "WG",
             "cost": "{G}{W}",
-            "rules_text": "Whenever you gain life for the first time during each of your turns, gather allies X, where X is the amount of life you gained. [i](Put X +1/+1 counters on an Army you control. It's also an Ally. If you don't control an Army, create a 0/0 green Ally Army creature token first.)[/i]",
+            "rules_text": "Whenever you gain life for the first time during each of your turns, amass Allies X, where X is the amount of life you gained. [i](Put a X +1/+1 counters on an Army you control. It's also an Ally. If you don't control an Army, create a 0/0 black Ally Army creature token first.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -605,7 +685,7 @@
             "loyalty": "",
             "artist": "sayer",
             "alias": "",
-            "position": "48",
+            "position": "47",
             "notes": ""
         },
         {
@@ -625,7 +705,7 @@
             "loyalty": "",
             "artist": "thejesterghost",
             "alias": "",
-            "position": "49",
+            "position": "48",
             "notes": ""
         },
         {
@@ -645,7 +725,7 @@
             "loyalty": "",
             "artist": "Barilzard",
             "alias": "",
-            "position": "50",
+            "position": "49",
             "notes": ""
         },
         {
@@ -653,7 +733,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Legendary Creature",
-            "number": 3,
+            "number": 1,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "When this creature enters the battlefield, darken X, where X is the number of creatures that entered under your control this turn. [i](Put X +1/+1 counters on target artifact or land you control. If it isn't a creature, it becomes a 0/0 creature with haste in addition to its other types.)[/i]\nShatter {4} [i](You may cast this from the battlefield for its shatter cost.)[/i]",
@@ -665,9 +745,80 @@
             "loyalty": "",
             "artist": "WalkingMelonsAAA",
             "alias": "",
-            "position": "51",
+            "position": "50",
+            "notes": ""
+        },
+        {
+            "card_name": "True Pacifist",
+            "color": "W",
+            "rarity": "rare",
+            "type": "Enchantment",
+            "number": 7,
+            "color_identity": "W",
+            "cost": "{1}{W}",
+            "rules_text": "At the beginning of your upkeep, amass Allies 1. [i](Put a +1/+1 counter on an Army you control. It's also an Ally. If you don't control an Army, create a 0/0 black Ally Army creature token first.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "DTR",
+            "loyalty": "",
+            "artist": "nyusus_Ut",
+            "alias": "",
+            "position": "52",
+            "notes": ""
+        },
+        {
+            "card_name": "Enemy Approaching",
+            "color": "W",
+            "rarity": "rare",
+            "type": "Enchantment",
+            "number": 4,
+            "color_identity": "WB",
+            "cost": "{W}",
+            "rules_text": "Whenever a creature you control enters, put a love counter on Enemy Approaching and you gain 1 life.\n{2}{B}: Transform Enemy Approaching.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "modal double faced",
+            "set": "DTR",
+            "loyalty": "",
+            "artist": "Nyusu_Ut",
+            "alias": "",
+            "position": "53",
+            "card_name2": "But Nobody Came",
+            "color2": "B",
+            "type2": "Enchantment",
+            "cost2": "{2}{B}",
+            "rules_text2": "Whenever a creature you control dies, put a love counter on But Nobody Came.\nAt the beginning of your upkeep, target opponent loses life equal to the number of love counters on But Nobody Came.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "cattycupid",
+            "alias2": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Punch Card",
+            "color": "",
+            "rarity": "rare",
+            "type": "Artifact",
+            "number": 55,
+            "color_identity": "C",
+            "cost": "{4}",
+            "rules_text": "Creature cards in your hand have warp. The warp cost is equal to their mana cost minus {2}. [i](You may cast a card from your hand for its warp cost. Exile that permanent at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "DTR",
+            "loyalty": "",
+            "artist": "medora-the-human",
+            "alias": "",
+            "position": "54",
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

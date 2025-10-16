@@ -1,17 +1,17 @@
 ﻿[
     {
         "card_name": "Clover, Soul of Justice",
-        "number": 4,
+        "number": 3,
         "shape": "normal",
         "set": "DTR",
-        "position": "45"
+        "position": "44"
     },
     {
         "card_name": "Proceed",
         "number": 9,
         "shape": "normal",
         "set": "DTR",
-        "position": "37"
+        "position": "36"
     },
     {
         "card_name": "Frisk, Determined Child",
@@ -35,11 +35,11 @@
         "position": "2"
     },
     {
-        "card_name": "Noelle Holiday, Snowcaster",
-        "number": 5,
-        "shape": "normal",
+        "card_name": "Enemy Approaching",
+        "number": 4,
+        "shape": "modal double faced",
         "set": "DTR",
-        "position": "42"
+        "position": "53"
     },
     {
         "card_name": "Rouxls Kaard, Duke of Puzzles",
@@ -53,7 +53,7 @@
         "number": 13,
         "shape": "normal",
         "set": "DTR",
-        "position": "49"
+        "position": "48"
     },
     {
         "card_name": "Now's Your Chance",
@@ -70,11 +70,11 @@
         "position": "18"
     },
     {
-        "card_name": "Papyrus, Aspiring Guard",
-        "number": 6,
+        "card_name": "Noelle Holiday, Snowcaster",
+        "number": 5,
         "shape": "normal",
         "set": "DTR",
-        "position": "47"
+        "position": "41"
     },
     {
         "card_name": "e"
@@ -84,7 +84,7 @@
         "number": 14,
         "shape": "normal",
         "set": "DTR",
-        "position": "35"
+        "position": "34"
     },
     {
         "card_name": "Red, Royal Guard",
@@ -97,7 +97,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Papyrus, Aspiring Guard",
+        "number": 6,
+        "shape": "normal",
+        "set": "DTR",
+        "position": "46"
     },
     {
         "card_name": "e"
@@ -111,6 +115,25 @@
         "shape": "normal",
         "set": "DTR",
         "position": "24"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "True Pacifist",
+        "number": 7,
+        "shape": "normal",
+        "set": "DTR",
+        "position": "52"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -143,21 +166,25 @@
         "position": "5"
     },
     {
-        "card_name": "e"
+        "card_name": "Jevil, Court Jester",
+        "number": 35,
+        "shape": "normal",
+        "set": "DTR",
+        "position": "25"
     },
     {
         "card_name": "Kris, the Cage",
         "number": 36,
         "shape": "normal",
         "set": "DTR",
-        "position": "38"
+        "position": "37"
     },
     {
         "card_name": "Ralsei, Prince of the Dark",
         "number": 42,
         "shape": "normal",
         "set": "DTR",
-        "position": "48"
+        "position": "47"
     },
     {
         "card_name": "e"
@@ -222,7 +249,7 @@
         "number": 26,
         "shape": "normal",
         "set": "DTR",
-        "position": "50"
+        "position": "49"
     },
     {
         "card_name": "e"
@@ -239,7 +266,7 @@
         "number": 43,
         "shape": "normal",
         "set": "DTR",
-        "position": "39"
+        "position": "38"
     },
     {
         "card_name": "Mad Mew Mew",
@@ -253,13 +280,17 @@
         "number": 31,
         "shape": "normal",
         "set": "DTR",
+        "position": "31"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tenna, TV Host",
+        "number": 50,
+        "shape": "normal",
+        "set": "DTR",
         "position": "32"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -272,7 +303,7 @@
         "number": 46,
         "shape": "normal",
         "set": "DTR",
-        "position": "30"
+        "position": "29"
     },
     {
         "card_name": "er"
@@ -288,13 +319,20 @@
     },
     {
         "card_name": "er"
+    },
+    {
+        "card_name": "Asgore, Berguntr\u00fccking",
+        "number": 27,
+        "shape": "normal",
+        "set": "DTR",
+        "position": "40"
     },
     {
         "card_name": "Chara, First Fallen",
         "number": 30,
         "shape": "normal",
         "set": "DTR",
-        "position": "36"
+        "position": "35"
     },
     {
         "card_name": "Susie, Hope Crossed Heart",
@@ -318,9 +356,6 @@
         "position": "7"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -335,16 +370,24 @@
     "a->colorless",
     {
         "card_name": "Mystery Man",
-        "number": 3,
+        "number": 1,
         "shape": "normal",
         "set": "DTR",
-        "position": "51"
+        "position": "50"
     },
     {
-        "card_name": "e"
+        "card_name": "Kris's Knife",
+        "number": 53,
+        "shape": "normal",
+        "set": "DTR",
+        "position": "20"
     },
     {
-        "card_name": "e"
+        "card_name": "Punch Card",
+        "number": 55,
+        "shape": "normal",
+        "set": "DTR",
+        "position": "54"
     },
     {
         "card_name": "e"

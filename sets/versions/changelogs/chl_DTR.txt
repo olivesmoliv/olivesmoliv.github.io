@@ -1,4 +1,49 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Kris's Knife added.
+Jevil, Court Jester added.
+Tenna, TV Host added.
+Asgore, Berguntrücking added.
+True Pacifist added.
+Enemy Approaching added.
+Punch Card added.
+
+
+Toriel, Caring Mother
+rules_text: Whenever you gain 3 or more life, put a +1/+1 counter on target creature you control. If that creature had power 2 or less, gather allies 1. [i](Put a +1/+1 counter on an Army you control. It's also an Ally. If you don't control an Army, create a 0/0 green Ally Army creature token first.)[/i] => Whenever you gain 3 or more life, put a +1/+1 counter on target creature you control. If that creature had power 2 or less, amass Allies 1. [i](Put a +1/+1 counter on an Army you control. It's also an Ally. If you don't control an Army, create a 0/0 black Ally Army creature token first.)[/i]
+
+Seam, Stitched Shopkeep
+
+Doctor W.D. Gaster
+
+Rise of the Amalgamates
+
+Chara, First Fallen
+
+Proceed
+
+Kris, the Cage
+
+The Roaring Knight
+
+Noelle Holiday, Snowcaster
+
+Clover, Soul of Justice
+
+Papyrus, Aspiring Guard
+
+Ralsei, Prince of the Dark
+rules_text: Whenever you gain life for the first time during each of your turns, gather allies X, where X is the amount of life you gained. [i](Put X +1/+1 counters on an Army you control. It's also an Ally. If you don't control an Army, create a 0/0 green Ally Army creature token first.)[/i] => Whenever you gain life for the first time during each of your turns, amass Allies X, where X is the amount of life you gained. [i](Put a X +1/+1 counters on an Army you control. It's also an Ally. If you don't control an Army, create a 0/0 black Ally Army creature token first.)[/i]
+
+Frisk, Fallen Child
+
+Alphys, Royal Scientist
+
+Mystery Man
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
