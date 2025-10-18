@@ -1,4 +1,79 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+The Legend of DELTA RUNE added.
+Elnina, Moon Girl added.
+Mad Dummy added.
+Berdly, Unparalleled Gamer added.
+Jackenstein, Dark Dweller added.
+
+
+Sans, Easiest Enemy
+
+Mettaton EX, TV Star
+
+Now's Your Chance
+
+Ceroba Ketsukane
+
+Red, Royal Guard
+
+Rouxls Kaard, Duke of Puzzles
+
+Toriel, Caring Mother
+
+Kris's Knife
+
+Noelle, Frostmancer
+
+Susie, Violent Axe
+
+Jevil, Court Jester
+
+Susie, Hope Crossed Heart
+
+Sans, the Prankster
+
+Seam, Stitched Shopkeep
+
+Doctor W.D. Gaster
+
+Tenna, TV Host
+
+Rise of the Amalgamates
+
+Chara, First Fallen
+
+Proceed
+
+Kris, the Cage
+
+The Roaring Knight
+
+Asgore, Berguntrücking
+
+Noelle Holiday, Snowcaster
+
+Clover, Soul of Justice
+
+Papyrus, Aspiring Guard
+
+Ralsei, Prince of the Dark
+
+Frisk, Fallen Child
+
+Alphys, Royal Scientist
+
+Mystery Man
+
+True Pacifist
+
+Enemy Approaching
+
+Punch Card
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Kris's Knife added.
