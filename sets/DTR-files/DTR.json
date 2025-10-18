@@ -93,7 +93,7 @@
             "color": "WR",
             "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Cat Spirit",
-            "number": 36,
+            "number": 33,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
             "rules_text": "At the beginning of combat on your turn, you may have target artifact or enchantment you control become a Spirit creature with base power and toughness equal to Mad Mew Mew's until end of turn. If you do, Mad Mew Mew becomes an artifact and loses all other types until end of turn.",
@@ -113,7 +113,7 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Robot",
-            "number": 46,
+            "number": 43,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
             "rules_text": "At the beginning of your upkeep, target opponent faces a villainous choice \u2014 They draw a card and you create two treasure tokens, or they create a treasure token and you draw two cards.",
@@ -133,7 +133,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Spider Assassin",
-            "number": 38,
+            "number": 35,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
             "rules_text": "Whenever one or more creatures you control attack, create a Food token.\nAs long you control three or more Foods, Foods you control are also Treasures in addition to their other types and have \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d",
@@ -153,7 +153,7 @@
             "color": "WUBRG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Plant Nightmare",
-            "number": 30,
+            "number": 28,
             "color_identity": "WUBRG",
             "cost": "{W}{U}{B}{R}{G}",
             "rules_text": "As Flowey enters, if you cast it, exile any number of permanents you control until Flowey leaves the battlefield.\nFlowey has vigilance if there is a white card exiled with it. The same is true for blue and flying, black and lifelink, red and first strike, and green and trample. \nFlowey gets +1/+1 for each nonland card exiled with it.",
@@ -173,7 +173,7 @@
             "color": "WRG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Fish Knight",
-            "number": 50,
+            "number": 46,
             "color_identity": "WRG",
             "cost": "{2}{R}{G}{W}",
             "rules_text": "Undying [i](When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]\nSacrifice Undyne: Creatures you control gain indestructible and haste until end of turn.",
@@ -193,7 +193,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Skeleton",
-            "number": 43,
+            "number": 40,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "Ward {2}\nWhenever another source you control deals exactly 1 damage to a permanent or player, put a karma counter on Sans. This ability triggers only twice each turn.\nAt the beginning of your end step, Sans deals damage equal to the number of karma counters on him to each opponent.",
@@ -213,7 +213,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Robot",
-            "number": 37,
+            "number": 34,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
             "rules_text": "Whenever you cast a spell, if it isn't the first spell you cast this turn and doesn't share a card type with the last spell you cast this turn, put a rating counter on Mettaton, then you may draw a card and discard a card.\n[i]Finale \u2014 [/i]{X}{U}{R}, Remove X rating counters from Mettaton: Mettaton deals twice X damage to each opponent.",
@@ -253,7 +253,7 @@
             "color": "WR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Fox Wizard Ally",
-            "number": 25,
+            "number": 24,
             "color_identity": "WR",
             "cost": "{R}{W}",
             "rules_text": "[i]A Mother's Love \u2014 [/i]As long as Ceroba is equipped, she has double strike.\nSacrifice an Equipment attached to Ceroba: She gains indestructible until end of turn.",
@@ -333,7 +333,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
-            "number": 53,
+            "number": 49,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "Whenever equipped creature attacks, darken X, where X is its power. [i](Put X +1/+1 counters on target artifact or land you control. If it isn't a creature, it becomes a 0/0 creature with haste in addition to its other types.)[/i]\nEquip {4}",
@@ -353,7 +353,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Legendary Snow Creature \u2014 Elk Warlock",
-            "number": 39,
+            "number": 36,
             "color_identity": "WU",
             "cost": "{W}{U}",
             "rules_text": "[i]IceShock \u2014 [/i]Whenever Noelle enters or attacks, you may pay {S}. If you do, tap target creature and put a stun counter on it. \n[i]Snowgrave \u2014 [/i]If one or more stun counters would be put on a creature an opponent controls that already has two stun or more stun counters on it, instead exile that creature, and put a +1/+1 counter on Noelle.",
@@ -393,7 +393,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Devil Clown",
-            "number": 33,
+            "number": 30,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
             "rules_text": "[i]Chaos! Chaos! \u2014 [/i]The first noncreature spell you cast on each of your turns has cascade. [i](When you cast that spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)[/i]\nWhenever you cast a spell from exile, each opponent loses 1 life.",
@@ -413,7 +413,7 @@
             "color": "BRG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Dinosaur Knight",
-            "number": 48,
+            "number": 44,
             "color_identity": "BRG",
             "cost": "{B}{R}{G}",
             "rules_text": "Whenever one or more creatures you control with counters on them deal combat damage to a player, darken 2. [i](Put two +1/+1 counters on target artifact or land you control. If it isn't a creature, it becomes a 0/0 creature with haste in addition to its other types.)[/i]\n[i]Pick up the Pen[/i] \u2014 Whenever another land creature you control dies, you may return it to the battlefield tapped. Do this only once per turn.",
@@ -433,7 +433,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Skeleton Ally",
-            "number": 44,
+            "number": 41,
             "color_identity": "WG",
             "cost": "{G}{W}",
             "rules_text": "Whenever another nontoken creature you control enters, create a Food token.\n[i]Prank \u2014 [/i]Whenever you sacrifice a Food, tap target nonland permanent an opponent controls.",
@@ -453,7 +453,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Cat Toy",
-            "number": 45,
+            "number": 42,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "Enchantments you control are Shards in addition to their other types with \u201c{2}, Sacrifice this permanent: Scry 1, then draw a card.\u201d\nWhenever an enchantment you control leaves the battlefield, put a +1/+1 counter on target creature you control.",
@@ -473,7 +473,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Scientist",
-            "number": 28,
+            "number": 27,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
             "rules_text": "[i]Across Space and Time[/i] \u2014 When Doctor W.D. Gaster enters, if it's not a token, each opponent creates a token that's a copy of it, except they lose all abilities and are goaded for the rest of the game. [i](They attack each combat if able and attack a player other than you if able.)[/i]\nWhen another creature named Doctor W.D. Gaster leaves the battlefield, put a +1/+1 counter on Gaster and draw a card.",
@@ -485,7 +485,7 @@
             "loyalty": "",
             "artist": "2--0",
             "alias": "",
-            "position": "28",
+            "position": "27",
             "notes": ""
         },
         {
@@ -493,7 +493,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Robot",
-            "number": 49,
+            "number": 45,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
             "rules_text": "[i]It's TV Time!! \u2014[/i] Whenever you cast your first artifact spell each turn, create your choice of a Food, Clue or a Junk token. [i]\n[/i]Whenever you activate an ability of an artifact, if it's not a mana ability, put a +1/+1 counter on Tenna.",
@@ -505,7 +505,7 @@
             "loyalty": "",
             "artist": "starleska!",
             "alias": "",
-            "position": "29",
+            "position": "28",
             "notes": ""
         },
         {
@@ -525,7 +525,7 @@
             "loyalty": "",
             "artist": "hanada_03",
             "alias": "",
-            "position": "31",
+            "position": "30",
             "notes": ""
         },
         {
@@ -533,7 +533,7 @@
             "color": "WBR",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Human",
-            "number": 27,
+            "number": 26,
             "color_identity": "WBR",
             "cost": "{R}{W}{B}",
             "rules_text": "Whenever Chara enters or attacks, exile the top card of your library. You may play cards exiled with Chara this turn.\nWhenever you cast your third spell from exile each turn, up to one target creature gets -0/-99 until end of turn.",
@@ -545,7 +545,7 @@
             "loyalty": "",
             "artist": "piinsk_pic",
             "alias": "",
-            "position": "32",
+            "position": "31",
             "notes": ""
         },
         {
@@ -565,7 +565,7 @@
             "loyalty": "",
             "artist": "toby_Sgr",
             "alias": "",
-            "position": "33",
+            "position": "32",
             "notes": ""
         },
         {
@@ -573,7 +573,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Knight",
-            "number": 34,
+            "number": 31,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
             "rules_text": "First strike\nWhen Kris enters, you may darken 2. [i](Put two +1/+1 counters on target artifact or land you control. If it isn't a creature, it becomes a 0/0 creature with haste in addition to its other types.)[/i]\nWhenever another artifact or land creature you control dies, put +1/+1 counters equal to its power on Kris.",
@@ -585,7 +585,7 @@
             "loyalty": "",
             "artist": "fynori",
             "alias": "",
-            "position": "34",
+            "position": "33",
             "notes": ""
         },
         {
@@ -593,7 +593,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Nightmare Knight",
-            "number": 42,
+            "number": 39,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
             "rules_text": "Whenever a land you control is put into a graveyard from the battlefield for the second time each turn, create a 6/6 black Nightmare creature token with trample.\n[i]Knight's Blade \u2014 [/i]At the beginning of your end step, you may darken 2. [i](Put two +1/+1 counters on target artifact or land you control. If it isn't a creature, it becomes a 0/0 creature with haste in addition to its other types.)[/i]",
@@ -605,7 +605,7 @@
             "loyalty": "",
             "artist": "theweevilguy",
             "alias": "",
-            "position": "35",
+            "position": "34",
             "notes": ""
         },
         {
@@ -613,7 +613,7 @@
             "color": "WBG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Goat Noble",
-            "number": 24,
+            "number": 23,
             "color_identity": "WBG",
             "cost": "{1}{W}{B}{G}",
             "rules_text": "Asgore gets +1/+1 for each soul counter you have. \nWhenever a nontoken Human you control dies, you get a soul counter.\nPay seven soul counters: Destroy all creatures you don't control. Activate only as a sorcery.",
@@ -625,7 +625,7 @@
             "loyalty": "",
             "artist": "Jorge Zapata",
             "alias": "",
-            "position": "36",
+            "position": "35",
             "notes": ""
         },
         {
@@ -645,7 +645,7 @@
             "loyalty": "",
             "artist": "darmicy",
             "alias": "",
-            "position": "37",
+            "position": "36",
             "notes": ""
         },
         {
@@ -665,7 +665,7 @@
             "loyalty": "",
             "artist": "pankerdotpng",
             "alias": "",
-            "position": "40",
+            "position": "37",
             "notes": ""
         },
         {
@@ -685,7 +685,7 @@
             "loyalty": "",
             "artist": "pillowpriscus",
             "alias": "",
-            "position": "41",
+            "position": "38",
             "notes": ""
         },
         {
@@ -705,7 +705,7 @@
             "loyalty": "",
             "artist": "0606_nmkn",
             "alias": "",
-            "position": "42",
+            "position": "39",
             "notes": ""
         },
         {
@@ -713,7 +713,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Ally Noble",
-            "number": 41,
+            "number": 38,
             "color_identity": "WG",
             "cost": "{G}{W}",
             "rules_text": "Whenever you gain life for the first time during each of your turns, amass Allies X, where X is the amount of life you gained. [i](Put a X +1/+1 counters on an Army you control. It's also an Ally. If you don't control an Army, create a 0/0 black Ally Army creature token first.)[/i]",
@@ -725,7 +725,7 @@
             "loyalty": "",
             "artist": "sayer",
             "alias": "",
-            "position": "43",
+            "position": "40",
             "notes": ""
         },
         {
@@ -745,7 +745,7 @@
             "loyalty": "",
             "artist": "thejesterghost",
             "alias": "",
-            "position": "44",
+            "position": "41",
             "notes": ""
         },
         {
@@ -753,7 +753,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Dinosaur Scientist",
-            "number": 23,
+            "number": 22,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
             "rules_text": "Whenever you cast an amalgam creature spell, copy it. [i](Non-Human creatures with three or more creature types are amalgams. A copy of a creature spell becomes a token.)[/i]",
@@ -765,7 +765,7 @@
             "loyalty": "",
             "artist": "Barilzard",
             "alias": "",
-            "position": "45",
+            "position": "42",
             "notes": ""
         },
         {
@@ -785,7 +785,7 @@
             "loyalty": "",
             "artist": "WalkingMelonsAAA",
             "alias": "",
-            "position": "46",
+            "position": "43",
             "notes": ""
         },
         {
@@ -805,7 +805,7 @@
             "loyalty": "",
             "artist": "nyusus_Ut",
             "alias": "",
-            "position": "48",
+            "position": "44",
             "notes": ""
         },
         {
@@ -825,7 +825,7 @@
             "loyalty": "",
             "artist": "Nyusu_Ut",
             "alias": "",
-            "position": "49",
+            "position": "45",
             "card_name2": "But Nobody Came",
             "color2": "B",
             "type2": "Enchantment",
@@ -844,7 +844,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Artifact",
-            "number": 55,
+            "number": 51,
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "Creature cards in your hand have warp. The warp cost is equal to their mana cost minus {2}. [i](You may cast a card from your hand for its warp cost. Exile that permanent at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
@@ -856,7 +856,7 @@
             "loyalty": "",
             "artist": "medora-the-human",
             "alias": "",
-            "position": "50",
+            "position": "46",
             "notes": ""
         },
         {
@@ -864,7 +864,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Spirit",
-            "number": 35,
+            "number": 32,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
             "rules_text": "When Mad Dummy enters, create two Dummy tokens. [i](They're {4} 0/1 colorless Scarecrow artifact creatures.)[/i]\n{2}{B}{R}, Sacrifice an artifact: Each opponent loses life equal to that artifact's mana value. Activate only as a sorcery.",
@@ -876,7 +876,7 @@
             "loyalty": "",
             "artist": "\u305b\u304d",
             "alias": "",
-            "position": "51",
+            "position": "47",
             "notes": ""
         },
         {
@@ -896,7 +896,7 @@
             "loyalty": "",
             "artist": "wata_lemon03",
             "alias": "",
-            "position": "52",
+            "position": "48",
             "notes": ""
         },
         {
@@ -904,7 +904,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Scarecrow",
-            "number": 32,
+            "number": 29,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
             "rules_text": "Trample\n[i]Taking Too Long \u2014 [/i]Whenever a player casts a noncreature spell, Jackenstein deals 4 damage to them.",
@@ -916,9 +916,9 @@
             "loyalty": "",
             "artist": "bromojumbo",
             "alias": "",
-            "position": "53",
+            "position": "49",
             "notes": ""
         }
     ],
-    "version": 3
+    "version": 4
 }
