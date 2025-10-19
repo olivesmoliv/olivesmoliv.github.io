@@ -77,11 +77,11 @@
         "position": "36"
     },
     {
-        "card_name": "Proceed",
-        "number": 9,
+        "card_name": "Rouxls Kaard, Duke of Puzzles",
+        "number": 10,
         "shape": "normal",
         "set": "DTR",
-        "position": "32"
+        "position": "15"
     },
     {
         "card_name": "Rise of the Amalgamates",
@@ -112,11 +112,7 @@
         "position": "39"
     },
     {
-        "card_name": "Rouxls Kaard, Duke of Puzzles",
-        "number": 10,
-        "shape": "normal",
-        "set": "DTR",
-        "position": "15"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -165,35 +161,35 @@
     "a->gold",
     {
         "card_name": "Noelle, Frostmancer",
-        "number": 36,
+        "number": 37,
         "shape": "normal",
         "set": "DTR",
         "position": "19"
     },
     {
         "card_name": "Spamton G. Spamton",
-        "number": 43,
+        "number": 45,
         "shape": "normal",
         "set": "DTR",
         "position": "5"
     },
     {
         "card_name": "Jevil, Court Jester",
-        "number": 30,
+        "number": 31,
         "shape": "normal",
         "set": "DTR",
         "position": "22"
     },
     {
         "card_name": "Jackenstein, Dark Dweller",
-        "number": 29,
+        "number": 30,
         "shape": "normal",
         "set": "DTR",
         "position": "49"
     },
     {
         "card_name": "Ralsei, Prince of the Dark",
-        "number": 38,
+        "number": 40,
         "shape": "normal",
         "set": "DTR",
         "position": "40"
@@ -206,21 +202,21 @@
     },
     {
         "card_name": "Mad Dummy",
-        "number": 32,
+        "number": 33,
         "shape": "normal",
         "set": "DTR",
         "position": "47"
     },
     {
         "card_name": "Kris, the Cage",
-        "number": 31,
+        "number": 32,
         "shape": "normal",
         "set": "DTR",
         "position": "33"
     },
     {
         "card_name": "Sans, the Prankster",
-        "number": 41,
+        "number": 43,
         "shape": "normal",
         "set": "DTR",
         "position": "24"
@@ -241,18 +237,22 @@
         "card_name": "er"
     },
     {
-        "card_name": "e"
+        "card_name": "Chaos King",
+        "number": 25,
+        "shape": "normal",
+        "set": "DTR",
+        "position": "25"
     },
     {
         "card_name": "Mettaton EX, TV Star",
-        "number": 34,
+        "number": 35,
         "shape": "normal",
         "set": "DTR",
         "position": "10"
     },
     {
         "card_name": "Muffet, Spider Baker",
-        "number": 35,
+        "number": 36,
         "shape": "normal",
         "set": "DTR",
         "position": "6"
@@ -272,25 +272,29 @@
         "position": "42"
     },
     {
-        "card_name": "e"
+        "card_name": "Eram, Mantle Holder",
+        "number": 28,
+        "shape": "normal",
+        "set": "DTR",
+        "position": "50"
     },
     {
         "card_name": "Sans, Easiest Enemy",
-        "number": 40,
+        "number": 42,
         "shape": "normal",
         "set": "DTR",
         "position": "9"
     },
     {
         "card_name": "The Roaring Knight",
-        "number": 39,
+        "number": 41,
         "shape": "normal",
         "set": "DTR",
         "position": "34"
     },
     {
         "card_name": "Mad Mew Mew",
-        "number": 33,
+        "number": 34,
         "shape": "normal",
         "set": "DTR",
         "position": "4"
@@ -307,7 +311,7 @@
     },
     {
         "card_name": "Tenna, TV Host",
-        "number": 45,
+        "number": 47,
         "shape": "normal",
         "set": "DTR",
         "position": "28"
@@ -320,7 +324,7 @@
     },
     {
         "card_name": "Seam, Stitched Shopkeep",
-        "number": 42,
+        "number": 44,
         "shape": "normal",
         "set": "DTR",
         "position": "26"
@@ -356,21 +360,21 @@
     },
     {
         "card_name": "Susie, Hope Crossed Heart",
-        "number": 44,
+        "number": 46,
         "shape": "normal",
         "set": "DTR",
         "position": "23"
     },
     {
         "card_name": "Undyne the Undying",
-        "number": 46,
+        "number": 48,
         "shape": "normal",
         "set": "DTR",
         "position": "8"
     },
     {
         "card_name": "Flowey, Your Best Nightmare",
-        "number": 28,
+        "number": 29,
         "shape": "normal",
         "set": "DTR",
         "position": "7"
@@ -397,14 +401,14 @@
     },
     {
         "card_name": "Kris's Knife",
-        "number": 49,
+        "number": 50,
         "shape": "normal",
         "set": "DTR",
         "position": "17"
     },
     {
         "card_name": "Punch Card",
-        "number": 51,
+        "number": 52,
         "shape": "normal",
         "set": "DTR",
         "position": "46"
