@@ -1,4 +1,14 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+The Titan, World's End added.
+Queen, Cyber Ruler added.
+Ralsei, Lonely Prince added.
+Form the Fountains added.
+
+
+
+VERSION 6 CHANGELOG
 ====================
 
 No changes.
