@@ -1,4 +1,87 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Proceed added.
+GIGA Queen added.
+Gerson, Hammer of Justice added.
+Annoying Dog added.
+Undyne, Spear of Justice added.
+Flowey, Your Best Friend added.
+
+
+The Titan, World's End
+cost: {6}{B} => {5}{B}{B}
+rules_text: As long as you control four or more Horrors, The Titan has indestructible.
+Whenever a creature you control deals combat damage to a player, create that many 0/1 black Horror creature tokens with “{T}: Sacrifice this creature: Add {C}.” => As long as you control four or more Horrors, The Titan has indestructible.
+Whenever you lose life, create that many 0/1 black Horror Spawn creature tokens with “{T}: Sacrifice this creature: Add {C}.”
+pt: 6/6 => 7/7
+
+Noelle, Frostmancer
+
+Queen, Cyber Ruler
+
+Susie, Violent Axe
+
+Jevil, Court Jester
+
+Susie, Hope Crossed Heart
+
+Sans, the Prankster
+
+Chaos King
+
+Seam, Stitched Shopkeep
+
+Doctor W.D. Gaster
+
+Tenna, TV Host
+
+Rise of the Amalgamates
+
+Chara, First Fallen
+
+Kris, the Cage
+
+The Roaring Knight
+
+Asgore, Berguntrücking
+
+Noelle Holiday, Snowcaster
+
+Clover, Soul of Justice
+
+Elnina, Moon Girl
+
+Papyrus, Aspiring Guard
+
+Ralsei, Prince of the Dark
+
+Frisk, Fallen Child
+
+Alphys, Royal Scientist
+
+Mystery Man
+
+True Pacifist
+
+Enemy Approaching
+
+Punch Card
+
+Mad Dummy
+
+Berdly, Unparalleled Gamer
+
+Jackenstein, Dark Dweller
+
+Eram, Mantle Holder
+
+Ralsei, Lonely Prince
+
+Form the Fountains
+
+
+VERSION 7 CHANGELOG
 ====================
 
 The Titan, World's End added.
