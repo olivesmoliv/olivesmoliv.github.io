@@ -1,4 +1,21 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Room Between added.
+Carol Holiday added.
+Chara, Arisen Once More added.
+
+Mad Mew Mew removed.
+
+Proceed
+
+Enemy Approaching
+rules_text: Whenever a creature you control enters, put a love counter on Enemy Approaching and you gain 1 life.
+{2}{B}: Transform Enemy Approaching. => Whenever a creature you control enters, put a love counter on this enchantment and you gain 1 life.
+{2}{B}: Transform this enchantment.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Proceed added.

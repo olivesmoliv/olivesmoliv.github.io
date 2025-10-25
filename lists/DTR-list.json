@@ -14,22 +14,22 @@
         "position": "46"
     },
     {
-        "card_name": "Frisk, Determined Child",
-        "number": 11,
+        "card_name": "Chara, Arisen Once More",
+        "number": 12,
         "shape": "normal",
         "set": "DTR",
-        "position": "0"
+        "position": "60"
     },
     {
         "card_name": "Lancer, Jack of Spades",
-        "number": 15,
+        "number": 17,
         "shape": "normal",
         "set": "DTR",
         "position": "1"
     },
     {
         "card_name": "Form the Fountains",
-        "number": 19,
+        "number": 22,
         "shape": "normal",
         "set": "DTR",
         "position": "50"
@@ -42,29 +42,29 @@
         "position": "43"
     },
     {
-        "card_name": "Elnina, Moon Girl",
+        "card_name": "Carol Holiday",
         "number": 8,
         "shape": "normal",
         "set": "DTR",
-        "position": "36"
+        "position": "59"
     },
     {
-        "card_name": "Frisk, Fallen Child",
-        "number": 12,
+        "card_name": "Frisk, Determined Child",
+        "number": 13,
         "shape": "normal",
         "set": "DTR",
-        "position": "39"
+        "position": "0"
     },
     {
         "card_name": "Now's Your Chance",
-        "number": 16,
+        "number": 18,
         "shape": "normal",
         "set": "DTR",
         "position": "11"
     },
     {
         "card_name": "The Legend of DELTA RUNE",
-        "number": 20,
+        "number": 23,
         "shape": "normal",
         "set": "DTR",
         "position": "3"
@@ -77,29 +77,29 @@
         "position": "34"
     },
     {
-        "card_name": "Proceed",
+        "card_name": "Elnina, Moon Girl",
         "number": 9,
         "shape": "normal",
         "set": "DTR",
-        "position": "30"
+        "position": "36"
     },
     {
-        "card_name": "Rise of the Amalgamates",
-        "number": 13,
+        "card_name": "Frisk, Fallen Child",
+        "number": 14,
         "shape": "normal",
         "set": "DTR",
-        "position": "28"
+        "position": "39"
     },
     {
         "card_name": "Red, Royal Guard",
-        "number": 17,
+        "number": 19,
         "shape": "normal",
         "set": "DTR",
         "position": "14"
     },
     {
         "card_name": "Thrash Machine",
-        "number": 21,
+        "number": 24,
         "shape": "normal",
         "set": "DTR",
         "position": "2"
@@ -112,29 +112,29 @@
         "position": "37"
     },
     {
-        "card_name": "Rouxls Kaard, Duke of Puzzles",
+        "card_name": "Proceed",
         "number": 10,
         "shape": "normal",
         "set": "DTR",
-        "position": "15"
+        "position": "30"
     },
     {
-        "card_name": "The Titan, World's End",
-        "number": 14,
+        "card_name": "Rise of the Amalgamates",
+        "number": 15,
         "shape": "normal",
         "set": "DTR",
-        "position": "13"
+        "position": "28"
     },
     {
         "card_name": "Susie, Violent Axe",
-        "number": 18,
+        "number": 20,
         "shape": "normal",
         "set": "DTR",
         "position": "20"
     },
     {
         "card_name": "Toriel, Caring Mother",
-        "number": 22,
+        "number": 25,
         "shape": "normal",
         "set": "DTR",
         "position": "16"
@@ -147,10 +147,18 @@
         "position": "42"
     },
     {
-        "card_name": "e"
+        "card_name": "Rouxls Kaard, Duke of Puzzles",
+        "number": 11,
+        "shape": "normal",
+        "set": "DTR",
+        "position": "15"
     },
     {
-        "card_name": "e"
+        "card_name": "The Titan, World's End",
+        "number": 16,
+        "shape": "normal",
+        "set": "DTR",
+        "position": "13"
     },
     {
         "card_name": "e"
@@ -173,70 +181,70 @@
     "a->gold",
     {
         "card_name": "Annoying Dog",
-        "number": 24,
+        "number": 27,
         "shape": "normal",
         "set": "DTR",
         "position": "53"
     },
     {
         "card_name": "Queen, Cyber Ruler",
-        "number": 43,
+        "number": 47,
         "shape": "normal",
         "set": "DTR",
         "position": "19"
     },
     {
         "card_name": "Jevil, Court Jester",
-        "number": 36,
+        "number": 40,
         "shape": "normal",
         "set": "DTR",
         "position": "21"
     },
     {
         "card_name": "Jackenstein, Dark Dweller",
-        "number": 35,
+        "number": 39,
         "shape": "normal",
         "set": "DTR",
         "position": "47"
     },
     {
         "card_name": "Ralsei, Prince of the Dark",
-        "number": 45,
+        "number": 49,
         "shape": "normal",
         "set": "DTR",
         "position": "38"
     },
     {
         "card_name": "Noelle, Frostmancer",
-        "number": 42,
+        "number": 46,
         "shape": "normal",
         "set": "DTR",
         "position": "18"
     },
     {
         "card_name": "Spamton G. Spamton",
-        "number": 50,
+        "number": 54,
         "shape": "normal",
         "set": "DTR",
         "position": "5"
     },
     {
         "card_name": "Mad Dummy",
-        "number": 38,
+        "number": 42,
         "shape": "normal",
         "set": "DTR",
         "position": "45"
     },
     {
         "card_name": "Kris, the Cage",
-        "number": 37,
+        "number": 41,
         "shape": "normal",
         "set": "DTR",
         "position": "31"
     },
     {
         "card_name": "Sans, the Prankster",
-        "number": 48,
+        "number": 52,
         "shape": "normal",
         "set": "DTR",
         "position": "23"
@@ -258,70 +266,70 @@
     },
     {
         "card_name": "Chaos King",
-        "number": 27,
+        "number": 31,
         "shape": "normal",
         "set": "DTR",
         "position": "24"
     },
     {
         "card_name": "Mettaton EX, TV Star",
-        "number": 40,
+        "number": 44,
         "shape": "normal",
         "set": "DTR",
         "position": "10"
     },
     {
         "card_name": "Muffet, Spider Baker",
-        "number": 41,
+        "number": 45,
         "shape": "normal",
         "set": "DTR",
         "position": "6"
     },
     {
         "card_name": "Ceroba Ketsukane",
-        "number": 26,
+        "number": 30,
         "shape": "normal",
         "set": "DTR",
         "position": "12"
     },
     {
         "card_name": "Alphys, Royal Scientist",
-        "number": 23,
+        "number": 26,
         "shape": "normal",
         "set": "DTR",
         "position": "40"
     },
     {
         "card_name": "Eram, Mantle Holder",
-        "number": 30,
+        "number": 34,
         "shape": "normal",
         "set": "DTR",
         "position": "48"
     },
     {
         "card_name": "Sans, Easiest Enemy",
-        "number": 47,
+        "number": 51,
         "shape": "normal",
         "set": "DTR",
         "position": "9"
     },
     {
         "card_name": "The Roaring Knight",
-        "number": 46,
+        "number": 50,
         "shape": "normal",
         "set": "DTR",
         "position": "32"
     },
     {
-        "card_name": "Mad Mew Mew",
-        "number": 39,
+        "card_name": "Undyne, Spear of Justice",
+        "number": 57,
         "shape": "normal",
         "set": "DTR",
-        "position": "4"
+        "position": "54"
     },
     {
         "card_name": "Doctor W.D. Gaster",
-        "number": 29,
+        "number": 33,
         "shape": "normal",
         "set": "DTR",
         "position": "26"
@@ -331,7 +339,7 @@
     },
     {
         "card_name": "Tenna, TV Host",
-        "number": 52,
+        "number": 56,
         "shape": "normal",
         "set": "DTR",
         "position": "27"
@@ -340,15 +348,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "Undyne, Spear of Justice",
-        "number": 53,
-        "shape": "normal",
-        "set": "DTR",
-        "position": "54"
+        "card_name": "e"
     },
     {
         "card_name": "Seam, Stitched Shopkeep",
-        "number": 49,
+        "number": 53,
         "shape": "normal",
         "set": "DTR",
         "position": "25"
@@ -370,63 +374,63 @@
     },
     {
         "card_name": "Asgore, Berguntr\u00fccking",
-        "number": 25,
+        "number": 28,
         "shape": "normal",
         "set": "DTR",
         "position": "33"
     },
     {
         "card_name": "Chara, First Fallen",
-        "number": 28,
+        "number": 32,
         "shape": "normal",
         "set": "DTR",
         "position": "29"
     },
     {
         "card_name": "Flowey, Your Best Friend",
-        "number": 31,
+        "number": 35,
         "shape": "normal",
         "set": "DTR",
         "position": "55"
     },
     {
         "card_name": "Gerson, Hammer of Justice",
-        "number": 33,
+        "number": 37,
         "shape": "normal",
         "set": "DTR",
         "position": "52"
     },
     {
         "card_name": "GIGA Queen",
-        "number": 34,
+        "number": 38,
         "shape": "normal",
         "set": "DTR",
         "position": "51"
     },
     {
         "card_name": "Ralsei, Lonely Prince",
-        "number": 44,
+        "number": 48,
         "shape": "normal",
         "set": "DTR",
         "position": "49"
     },
     {
         "card_name": "Susie, Hope Crossed Heart",
-        "number": 51,
+        "number": 55,
         "shape": "normal",
         "set": "DTR",
         "position": "22"
     },
     {
         "card_name": "Undyne the Undying",
-        "number": 54,
+        "number": 58,
         "shape": "normal",
         "set": "DTR",
         "position": "8"
     },
     {
         "card_name": "Flowey, Your Best Nightmare",
-        "number": 32,
+        "number": 36,
         "shape": "normal",
         "set": "DTR",
         "position": "7"
@@ -456,17 +460,51 @@
     },
     {
         "card_name": "Kris's Knife",
-        "number": 55,
+        "number": 59,
         "shape": "normal",
         "set": "DTR",
         "position": "17"
     },
     {
         "card_name": "Punch Card",
-        "number": 56,
+        "number": 60,
         "shape": "normal",
         "set": "DTR",
         "position": "44"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Room Between",
+        "number": 61,
+        "shape": "normal",
+        "set": "DTR",
+        "position": "58"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
