@@ -1,4 +1,19 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Mad Mew Mew added.
+Battle at the Barrier added.
+Duel of Justice added.
+
+
+Room Between
+
+Carol Holiday
+
+Chara, Arisen Once More
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Room Between added.

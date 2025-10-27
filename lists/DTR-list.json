@@ -18,21 +18,21 @@
         "number": 12,
         "shape": "normal",
         "set": "DTR",
-        "position": "60"
+        "position": "58"
     },
     {
-        "card_name": "Lancer, Jack of Spades",
+        "card_name": "Battle at the Barrier",
         "number": 17,
         "shape": "normal",
         "set": "DTR",
-        "position": "1"
+        "position": "59"
     },
     {
-        "card_name": "Form the Fountains",
+        "card_name": "Duel of Justice",
         "number": 22,
         "shape": "normal",
         "set": "DTR",
-        "position": "50"
+        "position": "60"
     },
     {
         "card_name": "Enemy Approaching",
@@ -46,7 +46,7 @@
         "number": 8,
         "shape": "normal",
         "set": "DTR",
-        "position": "59"
+        "position": "57"
     },
     {
         "card_name": "Frisk, Determined Child",
@@ -56,18 +56,18 @@
         "position": "0"
     },
     {
-        "card_name": "Now's Your Chance",
+        "card_name": "Lancer, Jack of Spades",
         "number": 18,
         "shape": "normal",
         "set": "DTR",
-        "position": "11"
+        "position": "1"
     },
     {
-        "card_name": "The Legend of DELTA RUNE",
+        "card_name": "Form the Fountains",
         "number": 23,
         "shape": "normal",
         "set": "DTR",
-        "position": "3"
+        "position": "50"
     },
     {
         "card_name": "Noelle Holiday, Snowcaster",
@@ -91,18 +91,18 @@
         "position": "39"
     },
     {
-        "card_name": "Red, Royal Guard",
+        "card_name": "Now's Your Chance",
         "number": 19,
         "shape": "normal",
         "set": "DTR",
-        "position": "14"
+        "position": "11"
     },
     {
-        "card_name": "Thrash Machine",
+        "card_name": "The Legend of DELTA RUNE",
         "number": 24,
         "shape": "normal",
         "set": "DTR",
-        "position": "2"
+        "position": "3"
     },
     {
         "card_name": "Papyrus, Aspiring Guard",
@@ -126,18 +126,18 @@
         "position": "28"
     },
     {
-        "card_name": "Susie, Violent Axe",
+        "card_name": "Red, Royal Guard",
         "number": 20,
         "shape": "normal",
         "set": "DTR",
-        "position": "20"
+        "position": "14"
     },
     {
-        "card_name": "Toriel, Caring Mother",
+        "card_name": "Thrash Machine",
         "number": 25,
         "shape": "normal",
         "set": "DTR",
-        "position": "16"
+        "position": "2"
     },
     {
         "card_name": "True Pacifist",
@@ -161,10 +161,18 @@
         "position": "13"
     },
     {
-        "card_name": "e"
+        "card_name": "Susie, Violent Axe",
+        "number": 21,
+        "shape": "normal",
+        "set": "DTR",
+        "position": "20"
     },
     {
-        "card_name": "e"
+        "card_name": "Toriel, Caring Mother",
+        "number": 26,
+        "shape": "normal",
+        "set": "DTR",
+        "position": "16"
     },
     {
         "card_name": "er"
@@ -181,7 +189,7 @@
     "a->gold",
     {
         "card_name": "Annoying Dog",
-        "number": 27,
+        "number": 28,
         "shape": "normal",
         "set": "DTR",
         "position": "53"
@@ -294,7 +302,7 @@
     },
     {
         "card_name": "Alphys, Royal Scientist",
-        "number": 26,
+        "number": 27,
         "shape": "normal",
         "set": "DTR",
         "position": "40"
@@ -321,11 +329,11 @@
         "position": "32"
     },
     {
-        "card_name": "Undyne, Spear of Justice",
-        "number": 57,
+        "card_name": "Mad Mew Mew",
+        "number": 43,
         "shape": "normal",
         "set": "DTR",
-        "position": "54"
+        "position": "4"
     },
     {
         "card_name": "Doctor W.D. Gaster",
@@ -348,7 +356,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Undyne, Spear of Justice",
+        "number": 57,
+        "shape": "normal",
+        "set": "DTR",
+        "position": "54"
     },
     {
         "card_name": "Seam, Stitched Shopkeep",
@@ -374,7 +386,7 @@
     },
     {
         "card_name": "Asgore, Berguntr\u00fccking",
-        "number": 28,
+        "number": 29,
         "shape": "normal",
         "set": "DTR",
         "position": "33"
@@ -498,7 +510,7 @@
         "number": 61,
         "shape": "normal",
         "set": "DTR",
-        "position": "58"
+        "position": "56"
     },
     {
         "card_name": "e"
