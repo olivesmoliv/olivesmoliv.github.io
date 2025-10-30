@@ -1,0 +1,303 @@
+﻿[
+    {
+        "card_name": "Weapons Free",
+        "number": 3,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "18"
+    },
+    {
+        "card_name": "Kirby",
+        "number": 4,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "21"
+    },
+    {
+        "card_name": "Round 2!",
+        "number": 9,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "14"
+    },
+    {
+        "card_name": "Giovanna, Special Agent",
+        "number": 11,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "3"
+    },
+    {
+        "card_name": "Totsugeki!",
+        "number": 15,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "17"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Pet Shop",
+        "number": 5,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "16"
+    },
+    {
+        "card_name": "Slayer, the Dandy",
+        "number": 10,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "28"
+    },
+    {
+        "card_name": "Junpei Iori, Baseball Star",
+        "number": 12,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "19"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Phoenix Wright, Ace Attorney",
+        "number": 6,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "29"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mist Finer",
+        "number": 13,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "10"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Stop Time",
+        "number": 7,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "20"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Venom, Billiard Phantom",
+        "number": 8,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "24"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Millia Rage, Huntress",
+        "number": 27,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "12"
+    },
+    {
+        "card_name": "Lucy, Night City Netrunner",
+        "number": 25,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "8"
+    },
+    {
+        "card_name": "Deadpool, Merc with a Mouth",
+        "number": 19,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "30"
+    },
+    {
+        "card_name": "Bridget, Tricky Spinner",
+        "number": 18,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "26"
+    },
+    {
+        "card_name": "Invincible",
+        "number": 22,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "15"
+    },
+    {
+        "card_name": "Tag-Team!",
+        "number": 30,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Juri Han, Thrill-Seeker",
+        "number": 24,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "22"
+    },
+    {
+        "card_name": "Potemkin, Walking Fortress",
+        "number": 28,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "5"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Double",
+        "number": 20,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "6"
+    },
+    {
+        "card_name": "May, Jellyfish Pirate",
+        "number": 26,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "0"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Baiken, Awakened Samurai",
+        "number": 17,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "2"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Faust, Wandering Doctor",
+        "number": 21,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "9"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jack-O' Valentine",
+        "number": 23,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "7"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Queen Dizzy",
+        "number": 29,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "4"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yu Narukami",
+        "number": 31,
+        "shape": "normal",
+        "set": "FGC",
+        "position": "11"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
