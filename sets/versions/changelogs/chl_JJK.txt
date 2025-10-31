@@ -1,4 +1,22 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+The King of All Curses added.
+Inukami, Cursed Speaker added.
+Kokichi Muta, Mechamaru added.
+Mechamaru: Absolute Model added.
+Mei Mei, Enterprising Sorcerer added.
+Nobara Kugisaki added.
+Reggie Star, Cash-In added.
+Satoru Gojo added.
+
+
+Kashimo, God of Lightning
+
+Yuta, Transplanted Mind
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

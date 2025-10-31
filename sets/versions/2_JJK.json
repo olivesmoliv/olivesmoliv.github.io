@@ -1,7 +1,7 @@
 ﻿{
     "name": "Jujutsu Kaisen Set",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "none",
     "unpreviewed": "card back",
@@ -310,6 +310,5 @@
             "alias2": "",
             "notes": ""
         }
-    ],
-    "version": 2
+    ]
 }
