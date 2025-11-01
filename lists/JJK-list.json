@@ -8,37 +8,49 @@
     },
     {
         "card_name": "Inukami, Cursed Speaker",
-        "number": 2,
+        "number": 3,
         "shape": "normal",
         "set": "JJK",
         "position": "7"
     },
     {
         "card_name": "The King of All Curses",
-        "number": 3,
+        "number": 5,
         "shape": "transform double faced",
         "set": "JJK",
         "position": "3"
     },
     {
         "card_name": "Reggie Star, Cash-In",
-        "number": 5,
+        "number": 7,
         "shape": "normal",
         "set": "JJK",
         "position": "12"
     },
     {
-        "card_name": "e"
+        "card_name": "Shoko, Reverse-Curse Nurse",
+        "number": 8,
+        "shape": "normal",
+        "set": "JJK",
+        "position": "16"
     },
     {
-        "card_name": "e"
+        "card_name": "Yuji, the Willing Vessel",
+        "number": 2,
+        "shape": "transform double faced",
+        "set": "JJK",
+        "position": "14"
     },
     {
-        "card_name": "e"
+        "card_name": "Simple Domain",
+        "number": 4,
+        "shape": "normal",
+        "set": "JJK",
+        "position": "17"
     },
     {
         "card_name": "Mei Mei, Enterprising Sorcerer",
-        "number": 4,
+        "number": 6,
         "shape": "normal",
         "set": "JJK",
         "position": "10"
@@ -67,7 +79,7 @@
     },
     {
         "card_name": "Yuta, Transplanted Mind",
-        "number": 13,
+        "number": 17,
         "shape": "normal",
         "set": "JJK",
         "position": "6"
@@ -77,14 +89,14 @@
     },
     {
         "card_name": "Yuji Itadori",
-        "number": 12,
+        "number": 16,
         "shape": "normal",
         "set": "JJK",
         "position": "1"
     },
     {
         "card_name": "Utahime Iori",
-        "number": 11,
+        "number": 15,
         "shape": "normal",
         "set": "JJK",
         "position": "2"
@@ -109,7 +121,7 @@
     },
     {
         "card_name": "Kashimo, God of Lightning",
-        "number": 6,
+        "number": 9,
         "shape": "normal",
         "set": "JJK",
         "position": "5"
@@ -119,7 +131,7 @@
     },
     {
         "card_name": "Maki Zenin, Grade-4",
-        "number": 8,
+        "number": 11,
         "shape": "normal",
         "set": "JJK",
         "position": "4"
@@ -131,27 +143,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Nobara Kugisaki",
-        "number": 9,
-        "shape": "normal",
-        "set": "JJK",
-        "position": "11"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Satoru Gojo",
-        "number": 10,
+        "number": 13,
         "shape": "transform double faced",
         "set": "JJK",
         "position": "13"
@@ -182,16 +175,24 @@
     },
     {
         "card_name": "Kokichi Muta, Mechamaru",
-        "number": 7,
+        "number": 10,
         "shape": "normal",
         "set": "JJK",
         "position": "8"
     },
     {
-        "card_name": "e"
+        "card_name": "Suguru Geto, Pontifical",
+        "number": 14,
+        "shape": "normal",
+        "set": "JJK",
+        "position": "18"
     },
     {
-        "card_name": "e"
+        "card_name": "Shiromi Higuruma",
+        "number": 18,
+        "shape": "transform double faced",
+        "set": "JJK",
+        "position": "15"
     },
     {
         "card_name": "e"
@@ -214,7 +215,7 @@
     "a->colorless",
     {
         "card_name": "Mechamaru: Absolute Model",
-        "number": 14,
+        "number": 19,
         "shape": "normal",
         "set": "JJK",
         "position": "9"

@@ -1,4 +1,18 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Yuji, the Willing Vessel added.
+Shiromi Higuruma added.
+Shoko, Reverse-Curse Nurse added.
+Simple Domain added.
+Suguru Geto, Pontifical added.
+
+Nobara Kugisaki removed.
+
+Kokichi Muta, Mechamaru
+
+
+VERSION 2 CHANGELOG
 ====================
 
 The King of All Curses added.
