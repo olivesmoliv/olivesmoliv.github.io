@@ -1,4 +1,53 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Gerson, Wise Mentor added.
+Snowgrave added.
+Thorn Ring added.
+Motormouth Mike added.
+United Push added.
+Raise Up Your Bat added.
+
+Punch Card removed.
+
+The Legend of DELTA RUNE
+
+Mad Dummy
+
+Berdly, Unparalleled Gamer
+
+Jackenstein, Dark Dweller
+
+Eram, Mantle Holder
+
+Ralsei, Lonely Prince
+
+Form the Fountains
+
+GIGA Queen
+
+Gerson, Hammer of Justice
+
+Annoying Dog
+type: Creature — God Dog Employee => Creature — God Dog Gamer
+
+Undyne, Spear of Justice
+
+Flowey, Your Best Friend
+
+Room Between
+
+Carol Holiday
+
+Chara, Arisen Once More
+
+Battle at the Barrier
+cost: {2}{R}{R} => {R}{R}
+
+Duel of Justice
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Mad Mew Mew added.
