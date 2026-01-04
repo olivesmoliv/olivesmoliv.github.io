@@ -1,4 +1,117 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Battle at the Barrier (Change) added.
+Bonetrousle added.
+The Fun Gang added.
+
+Ceroba Ketsukane removed.
+Red, Royal Guard removed.
+Clover, Soul of Justice removed.
+Battle at the Barrier removed.
+
+The Titan, World's End
+
+Rouxls Kaard, Duke of Puzzles
+
+Toriel, Caring Mother
+
+Kris's Knife
+
+Noelle, Frostmancer
+
+Queen, Cyber Ruler
+
+Susie, Violent Axe
+
+Jevil, Court Jester
+
+Susie, Hope Crossed Heart
+
+Sans, the Prankster
+
+Chaos King
+
+Seam, Stitched Shopkeep
+
+Doctor W.D. Gaster
+
+Tenna, TV Host
+
+Rise of the Amalgamates
+
+Chara, First Fallen
+
+Proceed
+
+Kris, the Cage
+
+The Roaring Knight
+
+Asgore, Berguntrücking
+
+Noelle Holiday, Snowcaster
+
+Elnina, Moon Girl
+
+Papyrus, Aspiring Guard
+
+Ralsei, Prince of the Dark
+
+Frisk, Fallen Child
+
+Alphys, Royal Scientist
+
+Mystery Man
+
+True Pacifist
+
+Enemy Approaching
+
+Mad Dummy
+
+Berdly, Unparalleled Gamer
+
+Jackenstein, Dark Dweller
+
+Eram, Mantle Holder
+
+Ralsei, Lonely Prince
+
+Form the Fountains
+
+GIGA Queen
+
+Gerson, Hammer of Justice
+
+Annoying Dog
+
+Undyne, Spear of Justice
+
+Flowey, Your Best Friend
+
+Room Between
+
+Carol Holiday
+
+Chara, Arisen Once More
+
+Duel of Justice
+
+Gerson, Wise Mentor
+
+Snowgrave
+
+Thorn Ring
+
+Motormouth Mike
+
+United Push
+
+Raise Up Your Bat
+
+
+VERSION 12 CHANGELOG
 ====================
 
 No changes.
