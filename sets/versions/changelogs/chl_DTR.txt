@@ -1,4 +1,13 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+
+Bonetrousle removed.
+
+The Fun Gang
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Battle at the Barrier (Change) added.
