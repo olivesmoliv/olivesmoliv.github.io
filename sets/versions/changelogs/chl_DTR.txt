@@ -1,4 +1,145 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+December Holiday, Lost Girl added.
+Aaron added.
+Lesser Dog added.
+Omega Flowey added.
+Become Stronger added.
+
+Tenna, TV Host removed.
+Mad Dummy removed.
+Battle at the Barrier (Change) removed.
+
+Frisk, Determined Child
+
+Lancer, Jack of Spades
+
+Thrash Machine
+
+The Legend of DELTA RUNE
+
+Mad Mew Mew
+
+Spamton G. Spamton
+
+Muffet, Spider Baker
+
+Flowey, Your Best Nightmare
+
+Undyne the Undying
+
+Sans, Easiest Enemy
+
+Mettaton EX, TV Star
+
+Now's Your Chance
+
+The Titan, World's End
+
+Rouxls Kaard, Duke of Puzzles
+
+Toriel, Caring Mother
+
+Kris's Knife
+
+Noelle, Frostmancer
+
+Queen, Cyber Ruler
+
+Susie, Violent Axe
+
+Jevil, Court Jester
+
+Susie, Hope Crossed Heart
+
+Sans, the Prankster
+
+Chaos King
+
+Seam, Stitched Shopkeep
+
+Doctor W.D. Gaster
+
+Rise of the Amalgamates
+rules_text: Put all amalgam creature cards from your graveyard onto the battlefield under your control. [i](Non-Human creatures with three or more creature types are amalgams.)[/i] => Put all non-Human creature cards with three creature cards from your graveyard onto the battlefield under your control.
+
+Chara, First Fallen
+
+Proceed
+
+Kris, the Cage
+
+The Roaring Knight
+
+Asgore, Berguntrücking
+
+Noelle Holiday, Snowcaster
+
+Elnina, Moon Girl
+
+Papyrus, Aspiring Guard
+
+Ralsei, Prince of the Dark
+
+Frisk, Fallen Child
+
+Alphys, Royal Scientist
+rules_text: Whenever you cast an amalgam creature spell, copy it. [i](Non-Human creatures with three or more creature types are amalgams. A copy of a creature spell becomes a token.)[/i] => Whenever you cast a non-Human spell with three or more creature types, you may copy it. [i](The copy becomes a token.)[/i]
+
+Mystery Man
+rules_text: When this creature enters the battlefield, darken X, where X is the number of creatures that entered under your control this turn. [i](Put X +1/+1 counters on target artifact or land you control. If it isn't a creature, it becomes a 0/0 creature with haste in addition to its other types.)[/i]
+Shatter {4} [i](You may cast this from the battlefield for its shatter cost.)[/i] => When this creature enters the battlefield, darken X, where X is the number of creatures that entered under your control this turn. [i](Put X +1/+1 counters on target artifact or land you control. If it isn't a creature, it becomes a 0/0 creature with haste in addition to its other types.)[/i]
+You may cast Mystery Man from the battlefield.
+
+True Pacifist
+
+Enemy Approaching
+
+Berdly, Unparalleled Gamer
+
+Jackenstein, Dark Dweller
+
+Eram, Mantle Holder
+
+Ralsei, Lonely Prince
+
+Form the Fountains
+
+GIGA Queen
+
+Gerson, Hammer of Justice
+
+Annoying Dog
+
+Undyne, Spear of Justice
+
+Flowey, Your Best Friend
+
+Room Between
+
+Carol Holiday
+
+Chara, Arisen Once More
+
+Duel of Justice
+
+Gerson, Wise Mentor
+
+Snowgrave
+
+Thorn Ring
+
+Motormouth Mike
+
+United Push
+
+Raise Up Your Bat
+
+The Fun Gang
+
+
+VERSION 14 CHANGELOG
 ====================
 
 

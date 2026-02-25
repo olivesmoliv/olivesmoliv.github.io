@@ -1,0 +1,1208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>DTR</name>
+			<longname>Undertale Set</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-25</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Frisk, Determined Child</name>
+			<text>Flash
+When Frisk enters, put a +1/+1 counter on them for each creature that died this turn, then each opponent loses life equal to their power.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/0.png" num="17">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lancer, Jack of Spades</name>
+			<text>Whenever Lancer crews a Vehicle, until end of turn that Vehicle gains &quot;Whenever this Vehicle deals combat damage to a player, you may sacrifice it. If you do, it deals damage equal to its mana value to any target.&quot;</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/1.png" num="22">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thrash Machine</name>
+			<text>As Thrash Machine enters, choose up to six ★ ️worth of modes . You may choose the same mode more than once.
+★ — Thrash Machine enters with a +1/+1 counter.
+★★ — Thrash Machine enters with your choice of a trample, vigilance or haste counter.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/2.png" num="31">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Legend of DELTA RUNE</name>
+			<text>Whenever you cast an enchantment spell, choose one that hasn&apos;t been chosen this turn. Create a creature token with those characteristics.
+• 3/1 red Hero with trample.
+• 2/2 blue Hero with vigilance.
+• 1/1 green Hero with lifelink.
+{3}{G}{G}: Put a +1/+1 counter on each Hero you control.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/3.png" num="30">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mad Mew Mew</name>
+			<text>At the beginning of combat on your turn, you may have target artifact or enchantment you control become a Spirit creature with base power and toughness equal to Mad Mew Mew&apos;s until end of turn. If you do, Mad Mew Mew becomes an artifact and loses all other types until end of turn.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/4.png" num="50">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Cat Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spamton G. Spamton</name>
+			<text>At the beginning of your upkeep, target opponent faces a villainous choice — They draw a card and you create two treasure tokens, or they create a treasure token and you draw two cards.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/5.png" num="63">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Muffet, Spider Baker</name>
+			<text>Whenever one or more creatures you control attack, create a Food token.
+As long you control three or more Foods, Foods you control are also Treasures in addition to their other types and have &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/6.png" num="53">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spider Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related>Food</related>
+		</card>
+		<card>
+			<name>Flowey, Your Best Nightmare</name>
+			<text>As Flowey enters, if you cast it, exile any number of permanents you control until Flowey leaves the battlefield.
+Flowey has vigilance if there is a white card exiled with it. The same is true for blue and flying, black and lifelink, red and first strike, and green and trample. 
+Flowey gets +1/+1 for each nonland card exiled with it.</text>
+			<set rarity="mythic" picurl="https://oliveingit.github.io/sets/DTR-files/img/7.png" num="42">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Undyne the Undying</name>
+			<text>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)
+Sacrifice Undyne: Creatures you control gain indestructible and haste until end of turn.</text>
+			<set rarity="mythic" picurl="https://oliveingit.github.io/sets/DTR-files/img/8.png" num="67">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Fish Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2RGW</manacost>
+				<cmc>5</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sans, Easiest Enemy</name>
+			<text>Ward {2}
+Whenever another source you control deals exactly 1 damage to a permanent or player, put a karma counter on Sans. This ability triggers only twice each turn.
+At the beginning of your end step, Sans deals damage equal to the number of karma counters on him to each opponent.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/9.png" num="60">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mettaton EX, TV Star</name>
+			<text>Whenever you cast a spell, if it isn&apos;t the first spell you cast this turn and doesn&apos;t share a card type with the last spell you cast this turn, put a rating counter on Mettaton, then you may draw a card and discard a card.
+Finale — {X}{U}{R}, Remove X rating counters from Mettaton: Mettaton deals twice X damage to each opponent.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/10.png" num="51">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Now&apos;s Your Chance</name>
+			<text>Cleave {3}{R}{R} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
+Create four Treasure tokens. [[At the beginning of your next end step, sacrifice all tokens created this way.]]</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/11.png" num="23">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Titan, World&apos;s End</name>
+			<text>As long as you control four or more Horrors, The Titan has indestructible.
+Whenever you lose life, create that many 0/1 black Horror Spawn creature tokens with &quot;{T}: Sacrifice this creature: Add {C}.&quot;</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/12.png" num="20">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rouxls Kaard, Duke of Puzzles</name>
+			<text>If a triggered ability of another creature you control with Partner triggers, that ability triggers an additional time.
+Partner (You can have two commanders if both have partner.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/13.png" num="13">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Toriel, Caring Mother</name>
+			<text>Whenever you gain 3 or more life, put a +1/+1 counter on target creature you control. If that creature had power 2 or less, amass Allies 1. (Put a +1/+1 counter on an Army you control. It&apos;s also an Ally. If you don&apos;t control an Army, create a 0/0 black Ally Army creature token first.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/14.png" num="32">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Goat</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kris&apos;s Knife</name>
+			<text>Whenever equipped creature attacks, darken X, where X is its power. (Put X +1/+1 counters on target artifact or land you control. If it isn&apos;t a creature, it becomes a 0/0 creature with haste in addition to its other types.)
+Equip {4}</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/15.png" num="69">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Noelle, Frostmancer</name>
+			<text>IceShock — Whenever Noelle enters or attacks, you may pay {S}. If you do, tap target creature and put a stun counter on it. 
+Snowgrave — If one or more stun counters would be put on a creature an opponent controls that already has two stun or more stun counters on it, instead exile that creature, and put a +1/+1 counter on Noelle.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/16.png" num="54">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Snow Creature — Elk Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Queen, Cyber Ruler</name>
+			<text>Cyber-Army — Nonland permanents you control are artifacts in addition to their other types. The same is true for permanent spells you control and nonland permanent cards you own that aren&apos;t on the battlefield.
+Whenever a nonartifact creature enters, its controller loses 1 life and you gain 1 life.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/17.png" num="56">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Susie, Violent Axe</name>
+			<text>Tension — Whenever Susie attacks, add an amount of {R} equal to her power. Until end of combat, you don&apos;t lose this mana as steps end.
+Whenever a spell you control deals damage during combat, exile the top card of your library. You may play it this turn.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/18.png" num="25">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dinosaur Barbarian</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jevil, Court Jester</name>
+			<text>Chaos! Chaos! — The first noncreature spell you cast on each of your turns has cascade. (When you cast that spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Whenever you cast a spell from exile, each opponent loses 1 life.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/19.png" num="47">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Devil Clown</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Susie, Hope Crossed Heart</name>
+			<text>Whenever one or more creatures you control with counters on them deal combat damage to a player, darken 2. (Put two +1/+1 counters on target artifact or land you control. If it isn&apos;t a creature, it becomes a 0/0 creature with haste in addition to its other types.)
+Pick up the Pen — Whenever another land creature you control dies, you may return it to the battlefield tapped. Do this only once per turn.</text>
+			<set rarity="mythic" picurl="https://oliveingit.github.io/sets/DTR-files/img/20.png" num="64">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dinosaur Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>BRG</manacost>
+				<cmc>3</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sans, the Prankster</name>
+			<text>Whenever another nontoken creature you control enters, create a Food token.
+Prank — Whenever you sacrifice a Food, tap target nonland permanent an opponent controls.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/21.png" num="61">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Skeleton Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chaos King</name>
+			<text>Whenever a creature you control dies, each opponent loses 3 life unless that player sacrifices a nonland permanent or discards a card. For each opponent that lost life this way, you gain 3 life.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/22.png" num="36">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Toy Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1WBB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seam, Stitched Shopkeep</name>
+			<text>Enchantments you control are Shards in addition to their other types with &quot;{2}, Sacrifice this permanent: Scry 1, then draw a card.&quot;
+Whenever an enchantment you control leaves the battlefield, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/23.png" num="62">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Toy</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Doctor W.D. Gaster</name>
+			<text>Across Space and Time — When Doctor W.D. Gaster enters, if it&apos;s not a token, each opponent creates a token that&apos;s a copy of it, except they lose all abilities and are goaded for the rest of the game. (They attack each combat if able and attack a player other than you if able.)
+When another creature named Doctor W.D. Gaster leaves the battlefield, put a +1/+1 counter on Gaster and draw a card.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/24.png" num="39">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rise of the Amalgamates</name>
+			<text>Put all non-Human creature cards with three creature cards from your graveyard onto the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/26.png" num="19">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4BBB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Chara, First Fallen</name>
+			<text>Whenever Chara enters or attacks, exile the top card of your library. You may play cards exiled with Chara this turn.
+Whenever you cast your third spell from exile each turn, up to one target creature gets -0/-99 until end of turn.</text>
+			<set rarity="mythic" picurl="https://oliveingit.github.io/sets/DTR-files/img/27.png" num="37">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>RWB</manacost>
+				<cmc>3</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Proceed</name>
+			<text>This spell costs {3} less to cast if it targets a creature you control.
+Enchant creature
+You control enchanted creature.
+Activated abilities of enchanted creature cost {2} less to activate. This effect can&apos;t reduce the mana in that cost to less than one mana.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/28.png" num="12">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kris, the Cage</name>
+			<text>First strike
+When Kris enters, you may darken 2. (Put two +1/+1 counters on target artifact or land you control. If it isn&apos;t a creature, it becomes a 0/0 creature with haste in addition to its other types.)
+Whenever another artifact or land creature you control dies, put +1/+1 counters equal to its power on Kris.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/29.png" num="48">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Roaring Knight</name>
+			<text>Whenever a land you control is put into a graveyard from the battlefield for the second time each turn, create a 6/6 black Nightmare creature token with trample.
+Knight&apos;s Blade — At the beginning of your end step, you may darken 2. (Put two +1/+1 counters on target artifact or land you control. If it isn&apos;t a creature, it becomes a 0/0 creature with haste in addition to its other types.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/30.png" num="59">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Nightmare Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Asgore, Berguntrücking</name>
+			<text>Asgore gets +1/+1 for each soul counter you have. 
+Whenever a nontoken Human you control dies, you get a soul counter.
+Pay seven soul counters: Destroy all creatures you don&apos;t control. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://oliveingit.github.io/sets/DTR-files/img/31.png" num="35">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Goat Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1WBG</manacost>
+				<cmc>4</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Noelle Holiday, Snowcaster</name>
+			<text>Vigilance, defender
+Heal Prayer — Whenever you gain life, put a +1/+1 counter on Noelle Holiday and scry 1.
+{W}: Noelle Holiday can attack this turn as though it didn&apos;t have defender.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/32.png" num="5">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elk Nymph Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elnina, Moon Girl</name>
+			<text>When Elnina enters, look at the top four cards of your library. You may reveal an Elemental card from among them and put it into your hand. Put the rest on the bottom in a random order.
+Whenever one or more Elementals you control deal combat damage to an opponent, draw a card.
+Partner (You can have two commanders if both have partner.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/33.png" num="11">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Papyrus, Aspiring Guard</name>
+			<text>Whenever another creature enters, if it entered from exile or was cast from exile, create a Food token.
+If another creature would die, it goes to jail instead. (Exile it. At the beginning of each player&apos;s upkeep, if they have any jailed creatures, they roll 2d6. If the results match, they choose a creature they control to escape jail onto the battlefield.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/34.png" num="6">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Skeleton Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ralsei, Prince of the Dark</name>
+			<text>Whenever you gain life for the first time during each of your turns, amass Allies X, where X is the amount of life you gained. (Put a X +1/+1 counters on an Army you control. It&apos;s also an Ally. If you don&apos;t control an Army, create a 0/0 black Ally Army creature token first.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/35.png" num="58">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Ally Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frisk, Fallen Child</name>
+			<text>When Frisk dies, you may return another target Ally creature card with mana value 3 or less from your graveyard to the battlefield. 
+Determination — You may cast Frisk from your graveyard by paying {2}{B} in addition to paying its other costs.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/36.png" num="18">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Child</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alphys, Royal Scientist</name>
+			<text>Whenever you cast a non-Human spell with three or more creature types, you may copy it. (The copy becomes a token.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/37.png" num="33">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dinosaur Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mystery Man</name>
+			<text>When this creature enters the battlefield, darken X, where X is the number of creatures that entered under your control this turn. (Put X +1/+1 counters on target artifact or land you control. If it isn&apos;t a creature, it becomes a 0/0 creature with haste in addition to its other types.)
+You may cast Mystery Man from the battlefield.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/38.png" num="2">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>True Pacifist</name>
+			<text>At the beginning of your upkeep, amass Allies 1. (Put a +1/+1 counter on an Army you control. It&apos;s also an Ally. If you don&apos;t control an Army, create a 0/0 black Ally Army creature token first.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/39.png" num="7">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Enemy Approaching</name>
+			<text>Whenever a creature you control enters, put a love counter on this enchantment and you gain 1 life.
+{2}{B}: Transform this enchantment.
+---
+(Back): But Nobody Came</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/40_front.png" num="3a">DTR</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">But Nobody Came</related>
+		</card>
+		<card>
+			<name>But Nobody Came</name>
+			<text>Whenever a creature you control dies, put a love counter on this enchantment.
+At the beginning of your upkeep, target opponent loses life equal to the number of love counters on this enchantment.
+---
+(Front): Enemy Approaching</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/40_back.png" num="3b">DTR</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Enemy Approaching</related>
+		</card>
+		<card>
+			<name>Berdly, Unparalleled Gamer</name>
+			<text>Superior Intellect — Noncreature spells you cast cost {1} less to cast.
+Whenever you cast your second spell each turn, Berdly connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/42.png" num="9">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird Gamer Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jackenstein, Dark Dweller</name>
+			<text>Trample
+Taking Too Long — Whenever a player casts a noncreature spell, Jackenstein deals 4 damage to them.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/43.png" num="46">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eram, Mantle Holder</name>
+			<text>Equipped creature has hexproof. (It can&apos;t be the target of spells or abilities your opponents control)
+At the beginning of your end step, for each Aura and Equipment you control that&apos;s attached to a creature, each opponent loses 1 life and you gain 1 life.
+Reconfigure {W}{B} ({W}{B}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn&apos;t a creature.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/44.png" num="40">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Equipment Shade</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ralsei, Lonely Prince</name>
+			<text>Ward {2}
+{T}: Add X mana of any one color, where X is the greatest power among Allies you control.
+Recruit — Whenever you gain life, amass Allies 1. (Put a +1/+1 counter on an Army you control. It&apos;s also an Ally. If you don&apos;t control an Army, create a 0/0 black Ally Army creature token first.)</text>
+			<set rarity="mythic" picurl="https://oliveingit.github.io/sets/DTR-files/img/45.png" num="57">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Goat Ally Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1GWU</manacost>
+				<cmc>4</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Form the Fountains</name>
+			<text>At the beginning of combat on your turn, you may darken 6. (Put six +1/+1 counters on target artifact or land you control. If it isn&apos;t a creature, it becomes a 0/0 creature with haste in addition to its other types.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/46.png" num="28">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GGGG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>GIGA Queen</name>
+			<text>Menace
+Artifact creatures you control control crew Vehicles as though their power was 2 greater.
+Crew 8 (Tap any number of creatures you control with total power 8 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="mythic" picurl="https://oliveingit.github.io/sets/DTR-files/img/47.png" num="45">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1WUB</manacost>
+				<cmc>4</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>7/8</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gerson, Hammer of Justice</name>
+			<text>Haste
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Whenever a creature you control mentors a creature, put your choice of a first strike, vigilance, trample, or lifelink counter on that creature.</text>
+			<set rarity="mythic" picurl="https://oliveingit.github.io/sets/DTR-files/img/48.png" num="44">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Turtle Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Annoying Dog</name>
+			<text>{U}, Tap four untapped creatures you control named Annoying Dog: You may gain control of target artifact. If you don&apos;t, you draw a card and gain 1 life.
+A deck may have any number of cards named Annoying Dog.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/49.png" num="34">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — God Dog Gamer</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Undyne, Spear of Justice</name>
+			<text>Haste
+Whenever Undyne attacks, create two Equipment artifact tokens named Spear with &quot;Equipped creature gets +2/+0&quot; and Equip {2}. Then you may attach target Equipment you control to Undyne.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/50.png" num="66">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Fish Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flowey, Your Best Friend</name>
+			<text>Ward {2}
+Save and Reset — Each other nontoken creature you control has persist. (When it dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner&apos;s control with a -1/-1 counter on it.)</text>
+			<set rarity="mythic" picurl="https://oliveingit.github.io/sets/DTR-files/img/51.png" num="41">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>2BGU</manacost>
+				<cmc>5</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Room Between</name>
+			<text>When this land enters, you may tap it or an untapped creature you control. If you do, create a colorless artifact token named Egg. (It&apos;s an artifact with no abilities. It&apos;s just an egg.)
+{T}: Add {C}.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/52.png" num="71">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Carol Holiday</name>
+			<text>Whenever you cast your first artifact or snow spell each turn, create a colorless snow artifact token named Decoration with &quot;{T}: Add {C}. Spend this mana only to cast artifact or snow spells.&quot;</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/53.png" num="10">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Snow Creature — Elk Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chara, Arisen Once More</name>
+			<text>Whenever another creature you control dies, you get an experience counter.
+{B}{B}: Creatures you control have base power X/X until end of turn, where X is the number of experience counters you have. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/54.png" num="16">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Duel of Justice</name>
+			<text>Choose two target creatures you control. Put a +1/+1 counter on each of them, then double the number of +1/+1 counters on each of them. They fight. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/56.png" num="27">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gerson, Wise Mentor</name>
+			<text>Whenever another creature you control with toughness 3 or less enters, create a Young Hero role token attached to it. (If you control another Role on it, put that one into the graveyard. Enchanted creature has &quot;Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.&quot;)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/57.png" num="29">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Turtle Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snowgrave</name>
+			<text>Tap all creatures your opponents control. Then distribute up to X stun counters among them, where X is the amount of {S} you spent to cast this spell.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/58.png" num="14">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thorn Ring</name>
+			<text>At the beginning of your upkeep, put a -1/-1 counter on equipped creature.
+Equipped creature&apos;s activated abilities cost {X} less to activate, where X is the number of counters on that creature. This effect can&apos;t reduce the mana in that cost to less than one mana. 
+Equip {2}</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/59.png" num="70">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Motormouth Mike</name>
+			<text>When Motormouth Mike enters or is turned face up, if it isn&apos;t a token, create two tokens that are copies of it, except they have base power and toughness 1/1.
+When Motormouth Mike leaves the battlefield, each opponent loses 1 life and you gain 1 life.
+Disguise {W}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/60.png" num="52">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>United Push</name>
+			<text>Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)
+Choose target creature you control. Until end of turn, whenever you or another creature you control would be dealt damage, that damage is dealt to the chosen creature instead. If this spell was kicked, that creature gains indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/61.png" num="8">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Raise Up Your Bat</name>
+			<text>Until end of turn, creatures you control become Performers and gain &quot;Whenever this creature attacks, exile the top card of your library. You may play it until the end of your next turn.&quot;
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/62.png" num="24">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Fun Gang</name>
+			<text>The Fun Gang is also a Cleric, Rogue, and Warrior.
+Whenever you attack, if you have a full party, look at the top six cards of your library. You may put a creature card from among them onto the battlefield under your control tapped and attacking. Put the rest on the bottom of your library in a random order. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</text>
+			<set rarity="mythic" picurl="https://oliveingit.github.io/sets/DTR-files/img/64.png" num="43">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Dinosaur Goat</type>
+				<maintype>Creature</maintype>
+				<manacost>RGWU</manacost>
+				<cmc>4</cmc>
+				<colors>WURG</colors>
+				<coloridentity>WURG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>December Holiday, Lost Girl</name>
+			<text>Whenever one or more other permanents phase out and whenever a player finishes exiling cards from anywhere, put a loyalty counter on December.
+[-1]: Draw a card.
+[-4]: Each opponent may discard a card. For each opponent that doesn&apos;t, exile the top card of your library. You may play the exiled cards this turn.
+December Holiday can be your commander.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/66.png" num="38">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — December</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aaron</name>
+			<text>Cumulative upkeep— Put a +1/+1 counter on Aaron. (At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Flexing Contest — Whenever one or more +1/+1 counters are put on Aaron, target opponent puts that many +1/+1 counters on a creature they control.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/67.png" num="26">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lesser Dog</name>
+			<text>Pet — Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Other Dog creatures you control have outlast {W}.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/68.png" num="4">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Omega Flowey</name>
+			<text>Devour Saves (As this enters, you may sacrifice any number of Saves. This creature enters with that many +1/+1 counters on it.)
+Whenever Omega Flowey attacks, torment defending player X times, where X is the number of counters on Omega Flowey. (They lose 3 life unless they sacrifice a nonland permanent or discards a card.)</text>
+			<set rarity="mythic" picurl="https://oliveingit.github.io/sets/DTR-files/img/69.png" num="55">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>3UBR</manacost>
+				<cmc>6</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Become Stronger</name>
+			<text>When Become Stronger enters, create a 1/1 white Warlock creature token.
+Whenever a token you control leaves the battlefield, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DTR-files/img/70.png" num="15">DTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
