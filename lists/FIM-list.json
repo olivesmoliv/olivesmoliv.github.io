@@ -48,12 +48,12 @@
         "position": "2"
     },
     {
-        "card_name": "This Day Aria",
-        "number": 9,
+        "card_name": "Trixie, Great and Powerful",
+        "number": 10,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "18"
+        "position": "30"
     },
     {
         "card_name": "Stop the Bats!",
@@ -88,12 +88,7 @@
         "position": "13"
     },
     {
-        "card_name": "Trixie, Great and Powerful",
-        "number": 10,
-        "shape": "normal",
-        "set": "FIM",
-        "rotated": false,
-        "position": "30"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -201,26 +196,6 @@
         "set": "FIM",
         "rotated": false,
         "position": "5"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Rockhoof, Talekeeper",
-        "number": 24,
-        "shape": "normal",
-        "set": "FIM",
-        "rotated": false,
-        "position": "11"
     },
     {
         "card_name": "e"

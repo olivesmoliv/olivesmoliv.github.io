@@ -3,7 +3,7 @@
 	<sets>
 		<set>
 			<name>FIM</name>
-			<longname></longname>
+			<longname>MLP: Friendship is Magic</longname>
 			<settype>Custom</settype>
 			<releasedate>2026-03-27</releasedate>
 		</set>
@@ -187,23 +187,6 @@ Whenever a player loses unspent mana, put that many +1/+1 counters on Tirek.
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Rockhoof, Talekeeper</name>
-			<text>Whenever the final chapter ability of a nontoken Saga you control resolves, create a token that&apos;s a copy of that Saga, except it doesn&apos;t have chapter abilities other than its final chapter. This ability triggers only once each turn.</text>
-			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/11.png" num="24">FIM</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Pony Warrior</type>
-				<maintype>Creature</maintype>
-				<manacost>GW</manacost>
-				<cmc>2</cmc>
-				<colors>WG</colors>
-				<coloridentity>WG</coloridentity>
-				<pt>3/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Starlight Glimmer, Counsellor</name>
 			<text>Whenever another creature you control with power 2 or less enters, you may teach. If you do, draw a card. (To teach, pay {2} or exile a Lesson card from your graveyard.)
 Exhaust — {5}: You may cast a Lesson spell from among cards exiled with Starlight Glimmer without paying its mana cost.</text>
@@ -304,23 +287,6 @@ Sing (Then if you cast this from your hand, exile it and create a Saga token wit
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>This Day Aria</name>
-			<text>Create a token that&apos;s a copy of target artifact, creature, or land.
-Sing (Then if you cast this from your hand, exile it and create a Saga token with &quot;r{3}—You may cast a copy of this card from exile without paying its mana cost.&quot;)</text>
-			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/18.png" num="9">FIM</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>2UU</manacost>
-				<cmc>4</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
 		</card>

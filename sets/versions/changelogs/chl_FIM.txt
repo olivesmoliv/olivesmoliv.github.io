@@ -1,4 +1,12 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+Rockhoof, Talekeeper removed.
+This Day Aria removed.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
