@@ -1,0 +1,533 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>FIM</name>
+			<longname></longname>
+			<settype>Custom</settype>
+			<releasedate>2026-03-27</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Apple Bloom</name>
+			<text>When Apple Bloom enters, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/1.png" num="28">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Pony</type>
+				<maintype>Creature</maintype>
+				<manacost>G/W</manacost>
+				<cmc>1</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cozy Glow</name>
+			<text>Flash
+Flying
+When Cozy Glow enters, if it was cast, you may return target spell to its owner&apos;s hand.
+Your opponents can&apos;t cast spells during your turn.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/2.png" num="3">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Pegasus</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Daring Do</name>
+			<text>Whenever you cast a historic spell, Daring Do explores. (Artifacts, legendaries, and Sagas are historic. To explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/3.png" num="15">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Pegasus Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Discord, Lord of Chaos</name>
+			<text>Whenever a player loses life for the first time on each of your turns, exile the top card of their library.
+During each player&apos;s turn, that player may cast spells from among the cards they don&apos;t own exiled with Discord and mana of any type can be spent to cast it.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/4.png" num="19">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Chimera</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Luster Dawn</name>
+			<text>Friendship (When this enters, up to one target permanent gains the following abilities until end of turn.)
+Whenever you cast a creature spell, put a +1/+1 counter on target creature you control that doesn&apos;t share a creature type with it.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/5.png" num="21">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Unicorn</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Autumn Blaze</name>
+			<text>Ward {2}
+Whenever a permanent you control transforms or a permanent you control enters transformed, put a +1/+1 counter on that permanent if it&apos;s a creature. Otherwise, draw a card.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/6.png" num="18">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Kirin</type>
+				<maintype>Creature</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sunny Starscout</name>
+			<text>Whenever a nontoken creature you control enters, target player may put a land card from their hand onto the battlefield if this is the first time this ability has resolved this turn. Otherwise, put a +1/+1 counter on up to one target creature. It gains flying until end of turn.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/7.png" num="26">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature - Pony Scout</type>
+				<maintype>Scout</maintype>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Evil Clone</name>
+			<text>You may have this creature enter as a copy of any creature on the battlefield, except it isn&apos;t legendary, is a Villain in addition to its other types and has &quot;Other creatures with the same name as this creature lose all abilities.&quot;</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/8.png" num="20">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Plant Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The School of Friendship</name>
+			<text>Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+{T}: Add {C}.
+Unity — {2}, {T}: If there are five or more creature types among non-Human creatures you control, you may cast the exiled card without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/9.png" num="32">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Tirek, Devourer of Magic</name>
+			<text>Menace, haste
+Whenever a player loses unspent mana, put that many +1/+1 counters on Tirek.
+{1}, {T}: Each player adds your choice of {B}, {R} or {G}.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/10.png" num="29">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Centaur</type>
+				<maintype>Creature</maintype>
+				<manacost>B/GR</manacost>
+				<cmc>2</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rockhoof, Talekeeper</name>
+			<text>Whenever the final chapter ability of a nontoken Saga you control resolves, create a token that&apos;s a copy of that Saga, except it doesn&apos;t have chapter abilities other than its final chapter. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/11.png" num="24">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Pony Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starlight Glimmer, Counsellor</name>
+			<text>Whenever another creature you control with power 2 or less enters, you may teach. If you do, draw a card. (To teach, pay {2} or exile a Lesson card from your graveyard.)
+Exhaust — {5}: You may cast a Lesson spell from among cards exiled with Starlight Glimmer without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/12.png" num="25">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Unicorn Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Magic of Friendship</name>
+			<text>Counter target spell that targets you or a creature you control.
+Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/13.png" num="4">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Lesson</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Better Way to be Bad</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+You draw two cards and lose 2 life.
+Sing (Then if you cast this from your hand, exile it and create a Saga token with &quot;r{3}—You may cast a copy of this card from exile without paying its mana cost.&quot;)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/14.png" num="11">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Make Our Mark</name>
+			<text>Create a white Aura enchantment token named Cutie Mark attached to target creature you control. The token has enchant creature and &quot;If a triggered ability of enchanted creature would trigger, that ability triggers an additional time.&quot;
+Sing (Then if you cast this from your hand, exile it and create a Saga token with &quot;r{3}—You may cast a copy of this card from exile without paying its mana cost.&quot;)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/15.png" num="5">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Friendship Bound</name>
+			<text>Put a +1/+1 counter on target creature you control, then draw a card for each creature you control with a counter on it.
+Sing (Then if you cast this from your hand, exile it and create a Saga token with &quot;r{3}—You may cast a copy of this card from exile without paying its mana cost.&quot;)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/16.png" num="16">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Raise This Barn</name>
+			<text>Search your library for a basic land or Town card, put it onto the battlefield tapped, then shuffle.
+Sing (Then if you cast this from your hand, exile it and create a Saga token with &quot;r{3}—You may cast a copy of this card from exile without paying its mana cost.&quot;)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/17.png" num="17">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>This Day Aria</name>
+			<text>Create a token that&apos;s a copy of target artifact, creature, or land.
+Sing (Then if you cast this from your hand, exile it and create a Saga token with &quot;r{3}—You may cast a copy of this card from exile without paying its mana cost.&quot;)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/18.png" num="9">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stop the Bats!</name>
+			<text>Create a Food token. If this spell was cast from your hand, create a 2/2 black Bat creature token with flying and &quot;Whenever you gain life, each opponent loses 1 life.&quot;
+Sing (Then if you cast this from your hand, exile it and create a Saga token with &quot;r{3}—You may cast a copy of this card from exile without paying its mana cost.&quot;)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/19.png" num="12">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Smile Song</name>
+			<text>Until end of turn, whenever a creature you control enters, put a +1/+1 counter on each creature you control. Create a 1/1 white Pony creature token.
+Sing (Then if you cast this from your hand, exile it and create a Saga token with &quot;r{3}—You may cast a copy of this card from exile without paying its mana cost.&quot;)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/20.png" num="6">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ponyville</name>
+			<text>This land enters tapped.
+Friendship (When this enters, up to one target permanent gains the following abilities until end of turn.)
+{T}: Add one mana of any color in your commander&apos;s color identity.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/21.png" num="31">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>A, True, True Friend</name>
+			<text>Choose one —
+• Exile target creature you control, then return that card to the battlefield under your control.
+• Put a +1/+1 counter on each creature you control.
+• Destroy target artifact or enchantment.
+Sing, sing (Then if you cast this from your hand, exile it and create two Saga tokens with &quot;r{3}—You may cast a copy of the exiled card without paying its mana cost.&quot;)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/22.png" num="2">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Perfect Pear</name>
+			<text>Support 2. (Put a +1/+1 counter on each of up to two target creatures.)
+Create a token that&apos;s a copy of target creature you control if it has a +1/+1 counter on it, except it&apos;s 1/1.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/23.png" num="23">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Lesson</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Awesome As I Wanna Be</name>
+			<text>Add five mana in any combination of colors.
+Sing (Then if you cast this from your hand, exile it and create a Saga token with &quot;r{3}—You may cast a copy of this card from exile without paying its mana cost.&quot;)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/24.png" num="13">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Friendship Journal</name>
+			<text>Equipped creature has prowess. (Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)
+Lesson spells you cast cost {1} less to cast.
+Equip— Teach. (To teach, pay {2} or exile a Lesson card from your graveyard.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/25.png" num="30">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Discord&apos;s Chaos Magic</name>
+			<text>The owner of target nonenchantment permanent shuffles it into their library, then reveals the top card of their library. If it&apos;s a permanent card, they put it onto the battlefield.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/27.png" num="14">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Play Your Part</name>
+			<text>Draw a card.
+Sing (Then if you cast this from your hand, exile it and create a Saga token with &quot;r{3}—You may cast a copy of this card from exile without paying its mana cost.&quot;)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/28.png" num="8">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Top Five Videos</name>
+			<text>Whenever you cast a noncreature spell spell, create a colorless Clue artifact token named Video with &quot;{2}, Sacrifice this artifact: Surveil 2, then draw a card.&quot; (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/29.png" num="27">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Alicorn</type>
+				<maintype>Creature</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trixie, Great and Powerful</name>
+			<text>Spells you cast with mana value 1 or less have demonstrate. (Whenever you cast a spell with mana value or less, you may copy it. If you do, choose an opponent to also copy it. Copies of permanent spells become tokens.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/30.png" num="10">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Unicorn Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maud Pie, Geologist</name>
+			<text>When Maud Pie enters, create a colorless Equipment artifact token named Rock with &quot;Equipped creature has ‘{1}, {T}, Sacrifice Rock: This creature deals 2 damage to any target&quot; and equip {1}. 
+Whenever you sacrifice an artifact, Maud Pie deals 2 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/31.png" num="22">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Pony Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
