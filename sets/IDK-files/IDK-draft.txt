@@ -1,0 +1,1050 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Tomie Kawakami",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Horror",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/0.png"
+			}
+		},
+		{
+			"name": "Raku-chan",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human Cat",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/1.png"
+			}
+		},
+		{
+			"name": "Operator",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/2.png"
+			}
+		},
+		{
+			"name": "My Deer Friend Nokotan",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Elk",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/3.png"
+			}
+		},
+		{
+			"name": "Silence Suzuka",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Horse",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/4.png"
+			}
+		},
+		{
+			"name": "Make Your Choice",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/5.png"
+			}
+		},
+		{
+			"name": "Agony",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/6.png"
+			}
+		},
+		{
+			"name": "Maelle, Virtuose Duelist",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Planeswalker — Maelle",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/7.png"
+			}
+		},
+		{
+			"name": "Night in the Woods",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/8.png"
+			}
+		},
+		{
+			"name": "Long Way Home",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/9.png"
+			}
+		},
+		{
+			"name": "Anne Boonchuy",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Planeswalker — Anne",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/10.png"
+			}
+		},
+		{
+			"name": "Oguri Cap",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Horse",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/11.png"
+			}
+		},
+		{
+			"name": "Stanley Pines, Grunkle Stan",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/12.png"
+			}
+		},
+		{
+			"name": "Kinger, C&A Programmer",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Noble Avatar",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/13.png"
+			}
+		},
+		{
+			"name": "Daitaku Helios",
+			"rarity": "special",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Horse",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/14.png"
+			}
+		},
+		{
+			"name": "All Work and No Play",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/15.png"
+			}
+		},
+		{
+			"name": "All There Is to It",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/16.png"
+			}
+		},
+		{
+			"name": "Run Away Together",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/17.png"
+			}
+		},
+		{
+			"name": "Zacian, Intrepid Sword",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Dog Warrior",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/18.png"
+			}
+		},
+		{
+			"name": "Adina Astra, Seeker of Stars",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Crocodile Artificer",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/19.png"
+			}
+		},
+		{
+			"name": "Yue's Sacrifice",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/20.png"
+			}
+		},
+		{
+			"name": "Trobbio, Master of the Stage",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Insect Performer",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/21.png"
+			}
+		},
+		{
+			"name": "Judy Álvarez, BD Technician",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Cyborg",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/22.png"
+			}
+		},
+		{
+			"name": "Key Bearer",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/23.png"
+			}
+		},
+		{
+			"name": "The Thing",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Alien Shapeshifter",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/24.png"
+			}
+		},
+		{
+			"name": "The Dark Urge",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Dragon Warlock",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/25.png"
+			}
+		},
+		{
+			"name": "Siffrin, the Traveler",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Planeswalker — Siffrin",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/26.png"
+			}
+		},
+		{
+			"name": "Crime Spree",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/27.png"
+			}
+		},
+		{
+			"name": "Princess Celestia",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Celestia",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/28.png"
+			}
+		},
+		{
+			"name": "Devil You Know",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/29.png"
+			}
+		},
+		{
+			"name": "Matikanefukukitaru",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Horse",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/30.png"
+			}
+		},
+		{
+			"name": "SAVE The World",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/31.png"
+			}
+		},
+		{
+			"name": "Don-chan",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Artifact Creature — Spirit",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/32.png"
+			}
+		},
+		{
+			"name": "Traveling Komasan",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Cat Dog Spirit",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/33.png"
+			}
+		},
+		{
+			"name": "Ellen Ripley",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/34.png"
+			}
+		},
+		{
+			"name": "Rainbow Dash",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Pegasus Performer",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/35.png"
+			}
+		},
+		{
+			"name": "Pinkie Pie, Party Pony",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Horse",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/36.png"
+			}
+		},
+		{
+			"name": "Katie Forester",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Child",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/37.png"
+			}
+		},
+		{
+			"name": "I Am The Doctor",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/38.png"
+			}
+		},
+		{
+			"name": "Laurie Strode, Final Girl",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/39.png"
+			}
+		},
+		{
+			"name": "Beat",
+			"rarity": "special",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Creature — Human Performer",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/40.png"
+			}
+		},
+		{
+			"name": "Ivy, Rock Solid Gargoyle",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Gargoyle",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/41.png"
+			}
+		},
+		{
+			"name": "The Wither Storm",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/42.png"
+			}
+		},
+		{
+			"name": "Trust No One",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/43.png"
+			}
+		},
+		{
+			"name": "Delay",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/44.png"
+			}
+		},
+		{
+			"name": "Mapmaking",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/45.png"
+			}
+		},
+		{
+			"name": "Greyroot Parasite",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/46.png"
+			}
+		},
+		{
+			"name": "Santa Claus, Father Christmas",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/47.png"
+			}
+		},
+		{
+			"name": "Hatsune Miku, Digital Diva",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Miku",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/48.png"
+			}
+		},
+		{
+			"name": "The Smokestack Twins",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/49.png"
+			}
+		},
+		{
+			"name": "Gommage",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/50.png"
+			}
+		},
+		{
+			"name": "Expedition 33",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Elemental",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/51.png"
+			}
+		},
+		{
+			"name": "Inspired Eevee",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Fox Dog",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/52.png"
+			}
+		},
+		{
+			"name": "Noriaki Kakyoin",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/53.png"
+			}
+		},
+		{
+			"name": "Voracious Sniffer",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/54.png"
+			}
+		},
+		{
+			"name": "Void Given Form",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Shade",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/55.png"
+			}
+		},
+		{
+			"name": "Mountaineer's Resolve",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/56.png"
+			}
+		},
+		{
+			"name": "Dreamscape",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/57.png"
+			}
+		},
+		{
+			"name": "Gone Fishin'",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/58.png"
+			}
+		},
+		{
+			"name": "Build the Stage",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/59.png"
+			}
+		},
+		{
+			"name": "AZ",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/60.png"
+			}
+		},
+		{
+			"name": "The Defect",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/61.png"
+			}
+		},
+		{
+			"name": "The Dragonborn, One They Fear",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Warrior",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/62.png"
+			}
+		},
+		{
+			"name": "Walking Wake, Apex Beast",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Legendary Creature — Dinosaur Dragon",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/63.png"
+			}
+		},
+		{
+			"name": "The Master, So Hungry",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Time Lord Rogue",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/64.png"
+			}
+		},
+		{
+			"name": "Arachnids in the UK",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/65.png"
+			}
+		},
+		{
+			"name": "Rarity, Fashionista",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Unicorn",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/66.png"
+			}
+		},
+		{
+			"name": "Bind Silk",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/67.png"
+			}
+		},
+		{
+			"name": "Claire, Far From Home",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Bird Scout",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/68.png"
+			}
+		},
+		{
+			"name": "Bethany, the Zealot",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/69.png"
+			}
+		},
+		{
+			"name": "How to Train Your Dragon",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/70.png"
+			}
+		},
+		{
+			"name": "Mejiro Palmer",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Horse",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/71.png"
+			}
+		},
+		{
+			"name": "Pomni",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Legendary Creature — Clown Avatar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/72.png"
+			}
+		},
+		{
+			"name": "The Child",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Child",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/73.png"
+			}
+		},
+		{
+			"name": "Yharon, Dragon of Rebirth",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Legendary Creature — Dragon Phoenix",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/74.png"
+			}
+		},
+		{
+			"name": "Walter White, Breaking Bad",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/75.png"
+			}
+		},
+		{
+			"name": "Zooble",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Toy Avatar",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/76.png"
+			}
+		},
+		{
+			"name": "Maxwell, Scribblenaut",
+			"rarity": "special",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/77.png"
+			}
+		},
+		{
+			"name": "Impostor Among Us",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/78.png"
+			}
+		},
+		{
+			"name": "Heaven Sent",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/79.png"
+			}
+		},
+		{
+			"name": "Jacket, Midnight Animal",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/80.png"
+			}
+		},
+		{
+			"name": "Pass",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/81.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/82.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/83.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/84.png"
+			}
+		},
+		{
+			"name": "Luz Noceda",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human something",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/85.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/86.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/87.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/88.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/89.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/90.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/91.png"
+			}
+		},
+		{
+			"name": "Romeo, the Admin",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — God",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/92.png"
+			}
+		},
+		{
+			"name": "The Impostor",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Creature — Shapeshifter Assassin",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/93.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/IDK-files/img/94.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Tomie Kawakami
+	1 Raku-chan
+	1 Operator
+	1 My Deer Friend Nokotan
+	1 Silence Suzuka
+	1 Make Your Choice
+	1 Agony
+	1 Maelle, Virtuose Duelist
+	1 Night in the Woods
+	1 Long Way Home
+	1 Anne Boonchuy
+	1 Oguri Cap
+	1 Stanley Pines, Grunkle Stan
+	1 Kinger, C&A Programmer
+	1 Daitaku Helios
+	1 All Work and No Play
+	1 All There Is to It
+	1 Run Away Together
+	1 Zacian, Intrepid Sword
+	1 Adina Astra, Seeker of Stars
+	1 Yue's Sacrifice
+	1 Trobbio, Master of the Stage
+	1 Judy Álvarez, BD Technician
+	1 Key Bearer
+	1 The Thing
+	1 The Dark Urge
+	1 Siffrin, the Traveler
+	1 Crime Spree
+	1 Princess Celestia
+	1 Devil You Know
+	1 Matikanefukukitaru
+	1 SAVE The World
+	1 Don-chan
+	1 Traveling Komasan
+	1 Ellen Ripley
+	1 Rainbow Dash
+	1 Pinkie Pie, Party Pony
+	1 Katie Forester
+	1 I Am The Doctor
+	1 Laurie Strode, Final Girl
+	1 Beat
+	1 Ivy, Rock Solid Gargoyle
+	1 The Wither Storm
+	1 Trust No One
+	1 Delay
+	1 Mapmaking
+	1 Greyroot Parasite
+	1 Santa Claus, Father Christmas
+	1 Hatsune Miku, Digital Diva
+	1 The Smokestack Twins
+	1 Gommage
+	1 Expedition 33
+	1 Inspired Eevee
+	1 Noriaki Kakyoin
+	1 Voracious Sniffer
+	1 Void Given Form
+	1 Mountaineer's Resolve
+	1 Dreamscape
+	1 Gone Fishin'
+	1 Build the Stage
+	1 AZ
+	1 The Defect
+	1 The Dragonborn, One They Fear
+	1 Walking Wake, Apex Beast
+	1 The Master, So Hungry
+	1 Arachnids in the UK
+	1 Rarity, Fashionista
+	1 Bind Silk
+	1 Claire, Far From Home
+	1 Bethany, the Zealot
+	1 How to Train Your Dragon
+	1 Mejiro Palmer
+	1 Pomni
+	1 The Child
+	1 Yharon, Dragon of Rebirth
+	1 Walter White, Breaking Bad
+	1 Zooble
+	1 Maxwell, Scribblenaut
+	1 Impostor Among Us
+	1 Heaven Sent
+	1 Jacket, Midnight Animal
+	1 Pass
+	1 
+	1 
+	1 
+	1 Luz Noceda
+	1 
+	1 
+	1 
+	1 
+	1 
+	1 
+	1 Romeo, the Admin
+	1 The Impostor
+	1 

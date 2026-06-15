@@ -1,0 +1,1672 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>IDK</name>
+			<longname>Piper Cube</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-16</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Tomie Kawakami</name>
+			<text>{2}{B}: Monstrosity 2. (If this creature isn&apos;t monstrous, put two +1/+1 counters on it and it becomes monstrous.)
+When Tomie becomes monstrous, create a token that&apos;s a copy of Tomie, except it isn&apos;t legendary. (The token has no counters and isn&apos;t monstrous.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/0.png" num="41">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raku-chan</name>
+			<text>When Raku-chan enters, create a 1/1 red Squirrel creature token.
+{G}, {T}: Put a +1/+1 counter on target Squirrel or Cat creature you control. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/1.png" num="68">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Operator</name>
+			<text>At the beginning of combat on your turn, target creature you control gains flying until end of turn. You may return it to your hand at the beginning of the next main phase.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/2.png" num="27">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>My Deer Friend Nokotan</name>
+			<text>When My Deer Friend Nokotan enters, create a Clue token named Deer Cracker. (It&apos;s an artifact with {2}, Sacrifice this artifact: Draw a card.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/3.png" num="8">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silence Suzuka</name>
+			<text>Trample
+View from the Lead — Silence Suzuka gets +1/+1 for each land you control.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/4.png" num="69">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Make Your Choice</name>
+			<text>Choose target creature. Its controller faces a villainous choice — They sacrifice that creature, or you draw three cards and you lose 3 life.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/5.png" num="39">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Agony</name>
+			<text>Agony deals 2 damage to any target.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/6.png" num="44">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Maelle, Virtuose Duelist</name>
+			<text>If a source you control would deal damage to an opponent, it deals that much damage plus 1 instead.
+[+1]: Create a 1/1 colorless Elemental creature token with haste.
+[0]: Maelle deals 1 damage to each opponent. Add {R}.
+[-6]: Untap all creatures you control. After this phase, there is an additional combat phase.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/7.png" num="51">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Maelle</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Night in the Woods</name>
+			<text>Choose one —
+• Create a tapped colorless land token named Everywhere that is every basic land type.
+• Destroy target artifact or enchantment.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/8.png" num="66">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Long Way Home</name>
+			<text>Destroy target creature, artifact or enchantment. Its controller creates two Clue tokens. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/9.png" num="7">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Anne Boonchuy</name>
+			<text>When Anne Boonchuy enters, create Sprig, a legendary 2/2 green Frog creature token with &quot;Creature spells you cast cost {1} less to cast.&quot;
+[+1]: You gain 3 life.
+[0]: Put a +1/+1 counter on each of up to two target creatures.
+[-6]: Put a +1/+1 counter on target creature you control, then double the number of +1/+1 counters on each creature you control.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/10.png" num="62">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Anne</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Oguri Cap</name>
+			<text>Whenever Oguri Cap enters or attacks, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+Whenever you gain life, put a +1/+1 counter on Oguri Cap.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/11.png" num="9">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stanley Pines, Grunkle Stan</name>
+			<text>Menace
+Whenever Stanley Pines deals combat damage to a player, create a Treasure token. Then exile the top card of your library. You may cast it this turn if you spend mana from a Treasure to cast it.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/12.png" num="55">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kinger, C&amp;A Programmer</name>
+			<text>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Whenever Kinger mentors a nontoken creature, create a 1/1 blue Insect creature token with flying and &quot;This token can block only creatures with flying.&quot;</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/13.png" num="25">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Noble Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Daitaku Helios</name>
+			<text>W Rizz — Whenever an opponent activates an ability that isn&apos;t a mana ability, amass Fans 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a Fan. If you don&apos;t control an Army, create a 0/0 black Fan Army creature token first.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/14.png" num="76">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>All Work and No Play</name>
+			<text>Counter target spell. If that spell&apos;s mana value was 3 or greater, that spell&apos;s controller creates a tapped Treasure token.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/15.png" num="17">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>All There Is to It</name>
+			<text>Heckbent — Destroy target creature if it has mana value 3 or less or if you have one or fewer cards in hand.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/16.png" num="32">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Run Away Together</name>
+			<text>Choose two target creatures controlled by different players. Return those creatures to their owners&apos; hands.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/17.png" num="28">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Zacian, Intrepid Sword</name>
+			<text>When Zacian enters, up to one target creature becomes a legendary Equipment artifact named Rusted Sword with &quot;Equipped creature gets +2/+0&quot; and equip {2} and loses all other types and abilities.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/18.png" num="15">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dog Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adina Astra, Seeker of Stars</name>
+			<text>{G}, {T}: You may put a card from your hand onto the battlefield tapped and face down. It&apos;s a land named Star with &quot;{T}: Add one mana of any color.&quot;
+{3}{U}{U}, {T}: Turn a permanent you control face up.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/19.png" num="74">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Crocodile Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yue&apos;s Sacrifice</name>
+			<text>Turn target nonland permanent face down, then tap it. It&apos;s a land named Moon with &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/20.png" num="14">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Trobbio, Master of the Stage</name>
+			<text>Spells you control can&apos;t be countered.
+Trobbio has flying and is black as long as it has one or more counters on it.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/21.png" num="56">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Judy Álvarez, BD Technician</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Braindance — When Judy Álvarez enters, exile target instant or sorcery card from a graveyard. You may cast it this turn and mana of any type may can be spent to cast that spell. If that spell would be put into a graveyard, exile it instead.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/22.png" num="83">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Key Bearer</name>
+			<text>Flying
+When Key Bearer dies, create Key Piece, a legendary colorless artifact token with &quot;{T}: Tap or untap target creature. Activate only as a sorcery.&quot;</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/23.png" num="6">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Thing</name>
+			<text>You may have The Thing enter as a copy of any creature on the battlefield except it has &quot;{2}, Sacrifice another creature: The Thing becomes a copy of the sacrificed creature.&quot;</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/24.png" num="92">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Alien Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Dark Urge</name>
+			<text>At the beginning of your end step, each opponent may sacrifice a nonland permanent or discard a card. Then The Dark Urge deals damage equal to its power to each opponent who didn&apos;t sacrifice a permanent or discard a card this way.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/25.png" num="77">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Siffrin, the Traveler</name>
+			<text>Whenever a creature dies, each opponent loses 1 life.
+[+1]: Mill two cards.
+[0]: Create a 3/2 black Human Elemental creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
+[-4]: Return target creature or planeswalker from your graveyard to the battlefield with a finality counter on it.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/26.png" num="40">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Siffrin</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crime Spree</name>
+			<text>Spree (Choose one or more additional costs.)
++ {U} — Target creature can&apos;t be blocked this turn.
++ {U} — Tap or untap target creature.
++ {1}{U} — Return target creature to its owners hand. Draw a card.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/27.png" num="18">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Princess Celestia</name>
+			<text>Whenever another creature you control enters, you gain 1 life.
+[+1]: Create a 1/1 white Horse creature token.
+[0]: Target creature you control becomes an Alicorn. Put a flying counter on it. (It becomes an Alicorn forever.)
+[-4]: Create a white enchantment token named Royal Presence with &quot;Creatures you control get +1/+1.&quot;</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/28.png" num="11">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Celestia</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Devil You Know</name>
+			<text>Target opponent separates their hand into a face-up pile and a face-down pile. Choose one of those piles, reveal it, and choose a nonland card from it. That player discards that card.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/29.png" num="36">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Matikanefukukitaru</name>
+			<text>Whenever Matikanefukukitaru attacks, put a +1/+1 counter on target attacking creature.
+{7}: Put a luck counter on target creature.
+Creatures with luck counters on them have base power and toughness 7/7 and have trample.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/30.png" num="65">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>SAVE The World</name>
+			<text>Spree (Choose one or more additional costs.)
++ {1} — Scry 2.
++ {W} — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
++ {W} — Put a +1/+1 counter on each creature target player controls.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/31.png" num="13">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Don-chan</name>
+			<text>Menace
+Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/32.png" num="47">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Traveling Komasan</name>
+			<text>{1}{G}: Exile target card from a graveyard. If it was a creature card, this creature explores. Activate only as a sorcery. (To explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/33.png" num="70">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Dog Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ellen Ripley</name>
+			<text>{W}: Put a +1/+1 counter on Ellen Ripley. This ability costs {1} more to activate for each counter on Ellen Ripley.
+Whenever a creature you control with a +1/+1 counter on it dies, draw a card. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/34.png" num="5">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rainbow Dash</name>
+			<text>Flying
+Sonic Rainboom — Whenever Rainbow Dash attacks, add {W}{U}{B}{R}{G}. Until end of turn, you don&apos;t lose this mana as steps and phases end. This mana can&apos;t be spent to cast spells from your hand.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/35.png" num="53">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Pegasus Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pinkie Pie, Party Pony</name>
+			<text>Other creatures you control get +1/+0.
+{3}{W}: Create a 1/1 white and red Balloon creature token with flying.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/36.png" num="89">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Katie Forester</name>
+			<text>Yokai Watch — Once each turn, when Katie Forester enters or you cast a creature spell, create a 1/1 black Spirit creature token.
+{4}{R}{W}: Tokens you control get +1/+0 and gain flying until end of turn.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/37.png" num="84">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Child</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>I Am The Doctor</name>
+			<text>Counter target spell. Its controller draws a card and you create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/38.png" num="23">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Laurie Strode, Final Girl</name>
+			<text>Lifelink
+Whenever Laurie Strode attacks alone, you may have each player sacrifice a creature.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/39.png" num="85">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beat</name>
+			<text>Riot (This creature enters with your choice of a +1/+1 counter or haste.)
+Other creatures you control have riot.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/40.png" num="45">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ivy, Rock Solid Gargoyle</name>
+			<text>Flying
+Air Drop — Whenever Ivy attacks, put a +1/+1 counter on target creature you control. It gains flying until end of turn. Then if it has three or more counters on it, it gains double strike until end of turn.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/41.png" num="82">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Gargoyle</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Wither Storm</name>
+			<text>Flying
+Whenever The Wither Storm enters or attacks, defending player sacrifices an artifact, a creature, an enchantment, and a land.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/42.png" num="43">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trust No One</name>
+			<text>Choose one — 
+• Exile target nonland, noncreature card from your graveyard and put three time card counters on it. If it doesn&apos;t have suspend, it gains suspend.
+• Exile target creature and put three time counters on it. If it doesn&apos;t have suspend, it gains suspend.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/43.png" num="29">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Delay</name>
+			<text>Counter target spell. If the spell is countered this way, exile it with three time counters on it instead of putting it into its owner&apos;s graveyard. If it doesn&apos;t have suspend, it gains suspend. (At the beginning of its owner&apos;s upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it&apos;s a creature, it has haste.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/44.png" num="20">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mapmaking</name>
+			<text>Create a Map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.&quot;)
+Draw a card.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/45.png" num="26">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Greyroot Parasite</name>
+			<text>Enchant creature
+Enchanted creature gets -0/-1.
+At the beginning of the upkeep of enchanted creature&apos;s controller, that player loses 3 life unless they sacrifice that creature or discard a card.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/46.png" num="38">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Santa Claus, Father Christmas</name>
+			<text>Gift a card (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
+When Santa Claus enters, if the gift was promised, he deals 4 damage to any target.
+Exhaust — {1}{R}{G}{W}: Create two 1/1 white Elf creature tokens with haste. (Activate each exhaust ability only once.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/47.png" num="54">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hatsune Miku, Digital Diva</name>
+			<text>Flash
+When Hatsune Miku enters, return target spell or nonland permanent to its owner&apos;s hand.
+[+1]: Tap or untap target nonland permanent.
+[0]: Draw a card, then discard a card.
+[-6]: Gain control of target permanent.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/48.png" num="22">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Miku</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Smokestack Twins</name>
+			<text>Landfall — Whenever a land you control enters, create a tapped Treasure token.
+{1}, Sacrifice another creature or artifact: Each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/49.png" num="91">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gommage</name>
+			<text>Exile target creature or planeswalker. If it had counters on it, put one of its counters on a permanent you control.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/50.png" num="37">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Expedition 33</name>
+			<text>Lifelink
+Clair Obscur — {2}{W}{B}: Create an X/X white and black Elemental creature token, where X is the amount of life you&apos;ve gained this turn. Activate only as a sorcery and only once each turn.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/51.png" num="78">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inspired Eevee</name>
+			<text>Inspired Eevee enters with a +1/+1 counter on it.
+Whenever a creature you control dies, you may move a counter from it onto another target creature.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/52.png" num="64">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Noriaki Kakyoin</name>
+			<text>Whenever you put a counter on another creature you control, put a counter of the same kind on Noriaki Kakyoin. This ability triggers only once each turn.
+{X}{G}, {T}: Create Hierophant Green, a legendary 0/0 green Spirit creature token with reach. Put X +1/+1 counters on it. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/53.png" num="67">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voracious Sniffer</name>
+			<text>Whenever this creature enters or you expend 4, create your choice of a Food token or a 1/1 green Plant creature token. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/54.png" num="71">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Void Given Form</name>
+			<text>Whenever you cast a noncreature spell, add {B}. Spend this mana only to activate an ability of a creature or artifact source you control.
+{B}: This creature gets +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/55.png" num="42">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shade</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mountaineer&apos;s Resolve</name>
+			<text>Enchant creature
+Whenever enchanted creature attacks, it gains double strike until end of turn.
+Blitz {1}{R} (If you cast this spell for its blitz cost, it gains haste and &quot;When this permanent dies, draw a card&quot;. Sacrifice it at the beginning of the next end step.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/56.png" num="52">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dreamscape</name>
+			<text>When Dreamscape enters, shuffle any number of cards from your hand into your library, then draw that many cards.
+{1}{U}, Sacrifice Dreamscape: Scry 1, then draw a card.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/57.png" num="21">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gone Fishin&apos;</name>
+			<text>When this enchantment enters, exile up to one other target nonland permanent until this enchantment leaves the battlefield.
+{7}{U}, Sacrifice Gone Fishin&apos;: Create Duke Fishron, a 10/10 legendary blue Fish creature token with flying and ward {2}.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/58.png" num="79">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Build the Stage</name>
+			<text>Creatures you control get +1/+0.
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/59.png" num="46">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>AZ</name>
+			<text>When AZ enters, if you cast it, you may destroy all other creatures. 
+Exhaust — {X}{B}{B}: Return target creature card with mana value X from your graveyard to the battlefield with a finality counter on it. (Activate each exhaust ability only once.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/60.png" num="34">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Defect</name>
+			<text>Whenever you cast a noncreature spell, create a 1/1 colorless Orb artifact creature token with flying and &quot;This token can&apos;t block.&quot;</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/61.png" num="19">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Dragonborn, One They Fear</name>
+			<text>Reach
+When The Dragonborn enters, you may destroy target artifact, enchantment, or creature with flying. If you don&apos;t, look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom in any order.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/62.png" num="63">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Walking Wake, Apex Beast</name>
+			<text>Whenever Walking Wake attacks, discover 5. If you cast a creature spell this way, it enters tapped and attacking. (To discover 5, exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/63.png" num="93">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dinosaur Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4GU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Master, So Hungry</name>
+			<text>Other creatures you control are Food artifacts in addition to their other types and have &quot;{2}, {T}, Sacrifice this permanent: You gain 3 life.&quot;
+Whenever you sacrifice a permanent, draw a card. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/64.png" num="86">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Time Lord Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arachnids in the UK</name>
+			<text>All creatures get -3/-3 until end of turn. 
+Create a Mutagen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/65.png" num="33">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rarity, Fashionista</name>
+			<text>When Rarity enters, create a Royal role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ward {1}.)
+2{W}W: Create a token that&apos;s a copy of target Aura you control. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/66.png" num="12">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Unicorn</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bind Silk</name>
+			<text>Web-slinging {W} (You may cast this spell for {W} if you also return a tapped creature you control to its owner&apos;s hand.)
+Exile target creature. Its controller creates a 1/1 green Spider creature token with reach.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/67.png" num="3">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Claire, Far From Home</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Claire has flying and lifelink as long as its power is 2 or more.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/68.png" num="4">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bethany, the Zealot</name>
+			<text>Lemegeton — When Bethany enters, exile the top five cards of your library face down. You may look at them for as long as they remain exiled.
+If you would draw a card, you may skip that draw instead. If you do, put a card exiled with Bethany into your hand and you lose 1 life.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/69.png" num="75">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>How to Train Your Dragon</name>
+			<text>When How to Train Your Dragon enters, create a 1/1 black Dragon creature token with flying.
+Creatures you control have training. (Whenever a creature you control attacks with another creature with greater power, put a +1/+1 counter on the creature with lesser power.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/70.png" num="80">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mejiro Palmer</name>
+			<text>Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
+As long as Mejiro Palmer is paired with another creature, each of those creatures has double strike and haste.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/71.png" num="88">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pomni</name>
+			<text>If a triggered ability of another legendary creature you control triggers, that ability triggers an additional time.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/72.png" num="1">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Clown Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Child</name>
+			<text>Protection from tokens
+Hole Punch — When The Child enters, destroy target creature. If that creature dies this way, its controller creates two tokens that are copies of that creature, except their power is half that creature&apos;s power and their toughness is half that creature&apos;s toughness. Round up each time.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/73.png" num="35">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Child</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yharon, Dragon of Rebirth</name>
+			<text>Flying, haste
+Undying (When Yharon dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus Yharon&apos;s power instead.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/74.png" num="57">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>3RRR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Walter White, Breaking Bad</name>
+			<text>Whenever Walter White becomes tapped, you may discard a card. If you do, draw a card.
+Whenever you discard a card, crystallize. This ability triggers only once each turn. (Put a +1/+1 counter on a creature you control or create a Treasure.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/75.png" num="94">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zooble</name>
+			<text>Zooble enters with three +1/+1 counters, a reach counter, a trample counter and a vigilance counter on it.
+At the beginning of combat on your turn, you may move a counter from Zooble onto another creature.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/76.png" num="95">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Toy Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maxwell, Scribblenaut</name>
+			<text>{T}: Choose a card name that hasn&apos;t been chosen from among Ajani&apos;s Pridemate, Snapcaster Mage, Dark Confidant, Young Pyromancer and Tarmogoyf. Create a copy of the card with the chosen name. You may cast the copy without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/77.png" num="87">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Impostor Among Us</name>
+			<text>Suspect up to one target creature. (A suspected creature has menace and can&apos;t block.)
+Draw a card.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/78.png" num="24">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Heaven Sent</name>
+			<text>Time loop (As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)
+I — Create a 1/1 blue Doctor creature token.
+II — You may discard a card. If you do, draw a card.
+III — Heaven Sent deals 1 damage to target opponent. (Then do it again.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/79.png" num="48">IDK</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jacket, Midnight Animal</name>
+			<text>Don The Mask — When Jacket enters, choose a creature type. Jacket gains that type. (This effect doesn&apos;t end.)
+Menace
+Other creatures you control that share a creature type with Jacket have menace.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/80.png" num="49">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pass</name>
+			<text>Put a +1/+1 counter on target creature. Then move all +1/+1 counters on that creature to up to one other target creature. If one or more +1/+1 counters are moved this way, you gain that much life.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/81.png" num="10">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/82.png" num="2">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/83.png" num="16">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/84.png" num="30">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Luz Noceda</name>
+			<text></text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/85.png" num="50">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human something</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/86.png" num="58">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/87.png" num="59">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/88.png" num="61">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/89.png" num="60">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/90.png" num="73">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/91.png" num="72">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Romeo, the Admin</name>
+			<text>Cascade. If you cast a spell this way, it gains deathtouch and lifelink. (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/92.png" num="90">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Impostor</name>
+			<text>You may have this creature enter as a copy of any creature on the battlefield, except it has deathtouch and lifelink.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/93.png" num="81">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1WUB</manacost>
+				<cmc>4</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/IDK-files/img/94.png" num="31">IDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
