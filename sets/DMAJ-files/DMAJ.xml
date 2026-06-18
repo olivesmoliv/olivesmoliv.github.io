@@ -1,0 +1,863 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>DMAJ</name>
+			<longname>DMAJ 2026</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-18</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/0.png" num="42">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thriving Moor</name>
+			<text>This land enters tapped. As it enters, choose a color other than black.
+{T}: Add {B} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/1.png" num="45">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Envoy of Kozilek</name>
+			<text>Devoid (This card has no color.)
+Whenever Envoy of Kozilek attacks, defending player loses 3 life unless they discard a card or sacrifice a nonland permanent.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/2.png" num="4">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eldrazi</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zombie DMAJ</name>
+			<text></text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/3.png" num="1">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Eldrazi Herald</name>
+			<text>Annihilator 1 (Whenever that creature attacks, defending player sacrifices a permanent.)
+{2}: Put target card from a graveyard on the bottom of its owner&apos;s library. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/4.png" num="1">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creaature — Eldrazi</type>
+				<maintype>Creaature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Best of the Best</name>
+			<text></text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/5.png" num="2">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Caller of the Beyond</name>
+			<text>Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)
+{2}: You may cast a spell exiled with Caller of the Beyond this turn and spend mana as though it was mana of any type to cast it.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/6.png" num="3">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Essence Siphon</name>
+			<text>Fateseal 2. (Look at the top two cards of an opponent&apos;s library, then put any number of them on the bottom of that player&apos;s library and the rest on top in any order.)
+Exile the top two cards of target opponent&apos;s library. You may play those cards for as long as they remain exiled and spend mana as though it was mana of any type to cast them.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/7.png" num="5">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ghoulcaller Witch</name>
+			<text>Haunt (When this creature dies, exile it haunting target creature.)
+Whenever Ghoulcaller Witch or the creature it haunts attacks, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/8.png" num="6">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghoulish Feast</name>
+			<text>If this spell was cast for its miracle cost, create two 2/2 black Zombie creature tokens.
+Each player sacrifices a creature of their choice.
+Miracle {3}{B} (You may cast this card for its miracle cost when you draw it if it&apos;s the first card you drew this turn.)</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/9.png" num="7">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Infernal Spawn</name>
+			<text>Deathtouch
+Forecast — {2}{B}, Reveal Infernal Spawn from your hand: Target opponent loses 2 life. (Activate only during your upkeep and only once each turn.)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/10.png" num="8">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Beast Child</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mite Mob</name>
+			<text>{B}{P}: Return target creature card from your graveyard to your hand. Activate only once. ({P} can be paid with either {B} or 2 life.)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/11.png" num="9">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phyrexian Mite</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Phyrexian Eradicator</name>
+			<text>Menace, deathtouch (This creature can&apos;t be blocked except by two or more creatures. Any amount of damage this deals to a creature is enough to destroy it.)
+Toxic 5 (Players dealt combat damage by this creature also get five poison counters.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/12.png" num="10">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phyrexian Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soothsayer&apos;s Communion</name>
+			<text>You draw two cards and lose 2 life.
+Fateful Hour — If you have five or less life, instead you draw two cards and each opponent loses 2 life.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/13.png" num="11">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spirit Leech</name>
+			<text>Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)
+Decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/14.png" num="12">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Leech</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tear Apart</name>
+			<text>Destroy target creature [with mana value 3 or less.]
+Cleave {3}{B} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/15.png" num="13">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/16.png" num="40">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thriving Grove</name>
+			<text>This land enters tapped. As it enters, choose a color other than green.
+{T}: Add {G} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/17.png" num="44">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Beast DMAJ</name>
+			<text></text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/18.png" num="3">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Amalgamate</name>
+			<text></text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/19.png" num="27">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ambitious Cub</name>
+			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Whenever this creature mutates, put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/20.png" num="28">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Apex Presence</name>
+			<text>At the beginning of your end step, if you control a creature with power 4 or greater, draw a card.
+{4}{G}: Apex Presence becomes a 5/5 Snake creature with trample in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/21.png" num="29">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Devoted Gnarr</name>
+			<text>Amalgamate {1}{G} (If you cast this spell for its amalgamate cost, put it over or under target creature you own. They mutate into the creature on top plus all abilities from under it.)
+Reach
+Whenever this creature mutates, create a 2/2 green Beast creature token.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/22.png" num="31">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frilled Hoothoof</name>
+			<text>Amalgamate {3}{G} (If you cast this spell for its amalgamate cost, put it over or under target creature you own. They mutate into the creature on top plus all abilities from under it.)
+Trample
+Whenever this creature mutates, put two +1/+1 counters on it.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/23.png" num="32">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lily-Goose</name>
+			<text>Amalgamate {G} (If you cast this spell for its amalgamate cost, put it over or under target creature you own. They mutate into the creature on top plus all abilities from under it.)
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/24.png" num="33">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Return to Nature</name>
+			<text>Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Exile target card from a graveyard.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/25.png" num="34">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sabertooth Bonder</name>
+			<text>Sabertooth Bonder can&apos;t be blocked by creatures with power 2 or less.
+{4}{G}: Put a +1/+1 counter on Sabertooth Bonder. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/26.png" num="35">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Semich, Apex of Tommorow</name>
+			<text>Trample
+Whenever you cast a spell for its mutate or amalgamate cost, if it targets a single creature other than Semich, you may copy that spell. The copy targets Semich. (Copies of permanent spells become tokens.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/27.png" num="36">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Timberwolf</name>
+			<text>Amalgamate {4}{G}{G} (If you cast this spell for its amalgamate cost, put it over or under target creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, you may have it fight target creature. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/28.png" num="37">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unlikely Bond</name>
+			<text>Target creature you control gets +2/+2 until end of turn. If it&apos;s mutated, it gains hexproof until end of turn.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/29.png" num="38">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Verdant Drakkis</name>
+			<text>Amalgamate {3}{G}{G} (If you cast this spell for its amalgamate cost, put it over or under target creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/30.png" num="39">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chromatic Hippo</name>
+			<text>Amalgamate {2}{G}{G} (If you cast this spell for its amalgamate cost, put it over or under target creature you own. They mutate into the creature on top plus all abilities from under it.)
+Chromatic Hippo is all colors.
+Whenever this creature mutates, return target card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/31.png" num="30">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hippo</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/32.png" num="41">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thriving Bluff</name>
+			<text>This land enters tapped. As it enters, choose a color other than red.
+{T}: Add {R} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/33.png" num="43">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Junk DMAJ</name>
+			<text>{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/34.png" num="4">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Junk</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Human DMAJ</name>
+			<text></text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/35.png" num="2">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Animals Clan Rider</name>
+			<text>Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Other creatures you control have haste.
+Max speed — This creature has menace.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/36.png" num="14">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pilot Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Badland Clan</name>
+			<text>Haste
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Max speed — Whenever you attack, create a 1/1 red Human creature token that&apos;s tapped and attacking.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/37.png" num="15">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Broadside Boarder</name>
+			<text>Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Broadside Boarder gets +X/+0, where X is your speed.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/38.png" num="16">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pilot Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Daring Trailblazer</name>
+			<text>At the beginning of combat on your turn, another target creature you control gains your choice of haste or menace until end of turn.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/39.png" num="17">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pilot Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Firefight</name>
+			<text>If you have max speed, damage can&apos;t be prevented this turn.
+Firefight deals 2 damage to any target.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/40.png" num="18">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Frag</name>
+			<text>Choose one —
+• Frag deals 4 damage to target creature.
+• Destroy target artifact.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/41.png" num="19">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>High-Speed Chase</name>
+			<text>Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Whenever you attack, target creature you control with power less than or equal to your speed can&apos;t be blocked this turn.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/42.png" num="20">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Junker Knights</name>
+			<text>Trample
+Other creatures you control have trample.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/43.png" num="21">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Robot Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Start your Engines!</name>
+			<text></text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/44.png" num="22">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unwelcome Boarding</name>
+			<text>Target creature gets +3/+1 until end of turn.
+Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/45.png" num="23">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wasteland Motorist</name>
+			<text>Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Max speed — Whenever you attack, exile the top card of your library. You may play it this turn.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/46.png" num="24">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wildlands Nomad</name>
+			<text>Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Max speed — Wildlands Nomad gets +1/+1.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/47.png" num="25">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wreckage Scavenger</name>
+			<text>Menace
+Whenever you attack, you may discard a card. If you do, create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/DMAJ-files/img/48.png" num="26">DMAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

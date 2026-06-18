@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "DMAJ",
+            "set_name": "DMAJ 2026",
+            "formats": ""
+        },
+        {
             "set_code": "DTR",
             "set_name": "Undertale Set",
             "formats": ""
