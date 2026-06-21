@@ -1,0 +1,834 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>FIM</name>
+			<longname>Mlp Microset</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-21</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Insatiable Hivequeen</name>
+			<text>Deathtouch, ward {2}
+Whenever another nontoken creature you control dies, you may exile it. If you do, create a token that&apos;s a copy of that creature, except it&apos;s an artifact named Cocoon and loses all other card types.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/0.png" num="39">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Shapeshifter Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nautila, Seapony // Consider</name>
+			<text>Whenever Nautila becomes tapped, you may discard a card. If you do, Nautila becomes prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
+
+---
+
+Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Draw a card.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/1.png" num="41">FIM</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Pony Merfolk // Instant</type>
+				<maintype>Creature</maintype>
+				<manacost>UR // U</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sisters of Sun and Stars // Blessed Light</name>
+			<text>Flying
+Unite — At the beginning of your end step, if you&apos;ve created a token this turn, Sisters of Sun and Stars becomes prepared.
+
+---
+
+Put a +1/+1 counter on each non-God creature you control.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/2.png" num="42">FIM</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — God // Sorcery</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB // WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cris, Curious Changeling // Rite of Replication</name>
+			<text>Whenever you cast a creature spell that doesn&apos;t share a creature type with a creature you control or a creature card in your graveyard, Cris becomes prepared.
+
+---
+
+Kicker {5}
+Create a token that&apos;s a copy of target creature. If this spell was kicked, create five of those tokens instead.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/3.png" num="35">FIM</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Shapeshifter // Sorcery</type>
+				<maintype>Creature</maintype>
+				<manacost>GU // 2UU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dauntless General</name>
+			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
+You may have this creature assign its combat damage as though it weren&apos;t blocked.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/FIM-files/img/4.png" num="37">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pony Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Winpeak Elites</name>
+			<text>Lifelink
+Unite — Whenever this creature enters or attacks, if you created a token this turn, create a 1/1 white Pony creature token. It enters tapped and attacking if this creature is attacking.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/FIM-files/img/5.png" num="43">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pony Unicorn Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imperfect Artist</name>
+			<text>Flying
+Cooperate — Whenever you cast your second spell each turn and whenever you draw your second card each turn, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/FIM-files/img/6.png" num="38">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pegasus</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cynical Hiveleader</name>
+			<text>When this creature enters, you lose 1 life and create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+Whenever you sacrifice a permanent, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/FIM-files/img/7.png" num="36">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Amber, On Fiery Wings</name>
+			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
+Flying
+Whenever this creature attacks, add an amount of {R} equal to its power. Until end of combat, you don&apos;t lose this mana as steps end.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/8.png" num="34">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Pegasus Unicorn</type>
+				<maintype>Creature</maintype>
+				<manacost>1RRW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mirthful Mailpony</name>
+			<text>Flying
+Cooperate — Whenever you cast your second spell each turn and whenever you draw your second card each turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/FIM-files/img/9.png" num="40">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pegasus Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Perfect Pal</name>
+			<text>Unite — Whenever this creature attacks, if you&apos;ve created a token this turn, target attacking creature gets +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/FIM-files/img/10.png" num="6">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pony</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Winpeak Messenger</name>
+			<text>Flying
+Cooperate — Whenever you cast your second spell each turn and whenever you draw your second card each turn, create a 1/1 blue Bird creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/FIM-files/img/11.png" num="14">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pegasus Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deeproot Soothsayer</name>
+			<text>This creature enters tapped.
+{1}{B}: Return this card from your graveyard to the battlefield. Activate only if a non-Warlock creature died under your control this turn.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/FIM-files/img/12.png" num="17">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pony Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blazing Kirin</name>
+			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
+Whenever this creature deals combat damage to a player or planeswalker, exile the top card of your library. You may play that card this turn.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/FIM-files/img/13.png" num="21">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kirin</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Savage Descent</name>
+			<text>Target creature you control deals damage equal to its power to target creature or planeswalker you don&apos;t control. Create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/FIM-files/img/14.png" num="29">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Perissian Valley // Harvest</name>
+			<text>{T}: Add {C}.
+This land enters prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
+
+---
+
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/FIM-files/img/15.png" num="46">FIM</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Land // Sorcery</type>
+				<maintype>Land</maintype>
+				<manacost> // 3</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sun Shrine</name>
+			<text>{T}: Add one mana of any color.
+Whenever you create a token, untap this artifact. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/FIM-files/img/16.png" num="45">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Badlands Druid // Bolster</name>
+			<text>This creature enters prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
+
+---
+
+Put a +1/+1 counter on target creature. You gain 1 life.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/17.png" num="3">FIM</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Pony Druid // Sorcery</type>
+				<maintype>Creature</maintype>
+				<manacost>W // 1W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inquisitive Cloudwatcher</name>
+			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
+Flying</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/18.png" num="5">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pegasus</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Winpeak Defence</name>
+			<text>Target creature gets +2/+2 until end of turn. If you control three or more creatures, it gets +4/+4 until end of turn instead.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/19.png" num="8">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Precipice Roc</name>
+			<text>Flying
+Unite — At the beginning of combat on your turn, if you&apos;ve created a token this turn, Precipice Roc gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/20.png" num="7">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aspiring Adventurer // Greater Heights</name>
+			<text>Vigilance
+This creature enters prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
+
+---
+
+Draw two cards.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/21.png" num="10">FIM</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Unicorn // Instant</type>
+				<maintype>Creature</maintype>
+				<manacost>2U // 2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancient of Wind // Gust</name>
+			<text>Flying
+This creature enters prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
+
+---
+
+Put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/22.png" num="9">FIM</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Elemental Pony // Sorcery</type>
+				<maintype>Creature</maintype>
+				<manacost>4U // 2U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shining Superstar</name>
+			<text>Cooperate — Whenever you cast your second spell each turn and whenever you draw your second card each turn, this creature gets +1/+1 until end of turn and can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/23.png" num="12">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Unicorn Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost in the Bramble</name>
+			<text>Return target nonland permanent to its owner&apos;s hand. If you controlled that permanent, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/24.png" num="11">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Grim Gravedancer</name>
+			<text>{1}{B}, Sacrifice another creature or artifact: Draw a card. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/25.png" num="19">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Unicorn Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Changeling General</name>
+			<text>When this creature enters, create a 1/1 black Insect Shapeshifter creature token.
+Whenever another creature you control dies, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/26.png" num="15">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clutches of Death</name>
+			<text>Destroy target creature. Create a 1/1 white Pegasus creature token with flying.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/27.png" num="16">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Torch</name>
+			<text>Torch deals 3 damage to target creature. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/28.png" num="26">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Outland Axebearer // At the Ready</name>
+			<text>First strike, haste
+This creature enters prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
+
+---
+
+Target creature you control gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/29.png" num="25">FIM</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Pony Warrior // Sorcery</type>
+				<maintype>Creature</maintype>
+				<manacost>R // 1R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unruly Brewer // Bubbling Cauldron</name>
+			<text>This creature enters prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
+
+---
+
+Exile the top card of your library. Until the end of your next turn, you may play that card.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/30.png" num="27">FIM</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Unicorn Wizard // Sorcery</type>
+				<maintype>Creature</maintype>
+				<manacost>2R // 1R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kirin Trailblazer</name>
+			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
+Menace</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/31.png" num="24">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kirin</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wandering Kirin // Better Together</name>
+			<text>Trample
+This creature enters prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
+
+---
+
+Put a +1/+1 counter on each of up to two target creatures.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/32.png" num="32">FIM</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Kirin // Sorcery</type>
+				<maintype>Creature</maintype>
+				<manacost>2G // 2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancient of Growth</name>
+			<text>{T}: Add one mana of any color. If this mana is spent to cast your second spell this turn, that spell can&apos;t be countered.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/33.png" num="28">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Pony</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tentative Hivescout</name>
+			<text>When this creature dies, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/34.png" num="30">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Shapeshifter Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unicorn&apos;s Reversal</name>
+			<text>Target creature gets +2/+2 until end of turn. 
+Create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/35.png" num="31">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gallivanting Companions</name>
+			<text>Lifelink
+When this creature enters, create a 1/1 white Unicorn creature token.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/36.png" num="4">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Unicorn</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unfurling Identity</name>
+			<text>Enchant creature
+Enchanted creature loses all abilities and is a black Shapeshifter creature with base power and toughness 1/1.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/37.png" num="13">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unaware Employee</name>
+			<text>{1}: Add one mana of any color. Activate only once each turn.
+{2}, Sacrifice this creature: Draw a card.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/38.png" num="2">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pony Employee</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crystal Tree</name>
+			<text>When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+{4}, Sacrifice this artifact: Target creature you control becomes prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/39.png" num="44">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wildlands Hunter</name>
+			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
+Trample, reach</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/40.png" num="33">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Unicorn Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Demand Answers</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact or discard a card.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/41.png" num="22">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pursued by Timberwolves</name>
+			<text>Unite — Destroy target creature if it has mana value 3 or less or if you&apos;ve created a token this turn.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/42.png" num="20">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Disguised Changeling</name>
+			<text>When this creature dies, you lose 1 life and create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/FIM-files/img/44.png" num="18">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Shapeshifter Unicorn</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gold, Perissian Queen // Sunburst</name>
+			<text>Gold enters prepared.
+{T}: Add one mana of any color. When that mana is spent to cast a multicolored spell, Gold deals 1 damage to each opponent.
+
+---
+
+Target player draws three cards and gains 3 life. Put three +1/+1 counters on up to one target creature.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/FIM-files/img/45.png" num="23">FIM</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Pony Noble // Sorcery</type>
+				<maintype>Creature</maintype>
+				<manacost>1R // WUBRG</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

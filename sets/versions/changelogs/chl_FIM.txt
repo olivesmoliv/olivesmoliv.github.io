@@ -1,4 +1,83 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Insatiable Hivequeen added.
+Nautila, Seapony added.
+Sisters of Sun and Stars added.
+Cris, Curious Changeling added.
+Dauntless General added.
+Winpeak Elites added.
+Imperfect Artist added.
+Cynical Hiveleader added.
+Amber, On Fiery Wings added.
+Mirthful Mailpony added.
+Perfect Pal added.
+Winpeak Messenger added.
+Deeproot Soothsayer added.
+Blazing Kirin added.
+Savage Descent added.
+Perissian Valley added.
+Sun Shrine added.
+Badlands Druid added.
+Inquisitive Cloudwatcher added.
+Winpeak Defence added.
+Precipice Roc added.
+Aspiring Adventurer added.
+Ancient of Wind added.
+Shining Superstar added.
+Lost in the Bramble added.
+Grim Gravedancer added.
+Changeling General added.
+Clutches of Death added.
+Torch added.
+Outland Axebearer added.
+Unruly Brewer added.
+Kirin Trailblazer added.
+Wandering Kirin added.
+Ancient of Growth added.
+Tentative Hivescout added.
+Unicorn's Reversal added.
+Gallivanting Companions added.
+Unfurling Identity added.
+Unaware Employee added.
+Crystal Tree added.
+Wildlands Hunter added.
+Demand Answers added.
+Pursued by Timberwolves added.
+Disguised Changeling added.
+Gold, Perissian Queen added.
+
+Apple Bloom removed.
+Cozy Glow removed.
+Daring Do removed.
+Discord, Lord of Chaos removed.
+Luster Dawn removed.
+Autumn Blaze removed.
+Sunny Starscout removed.
+Evil Clone removed.
+The School of Friendship removed.
+Tirek, Devourer of Magic removed.
+Starlight Glimmer, Counsellor removed.
+Magic of Friendship removed.
+Better Way to be Bad removed.
+Make Our Mark removed.
+Friendship Bound removed.
+Raise This Barn removed.
+Stop the Bats! removed.
+The Smile Song removed.
+Ponyville removed.
+A, True, True Friend removed.
+The Perfect Pear removed.
+Awesome As I Wanna Be removed.
+Friendship Journal removed.
+Discord's Chaos Magic removed.
+Play Your Part removed.
+Top Five Videos removed.
+Trixie, Great and Powerful removed.
+Maud Pie, Geologist removed.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
