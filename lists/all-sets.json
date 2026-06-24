@@ -19,6 +19,11 @@
             "set_code": "IDK",
             "set_name": "Piper Cube",
             "formats": ""
+        },
+        {
+            "set_code": "PRP",
+            "set_name": "Prepare Theme Deck",
+            "formats": ""
         }
     ]
 }

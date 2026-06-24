@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>PRP</name>
+			<longname>Prepare Theme Deck</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-24</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Prepared Precon Decklist PRP</name>
+			<text>3x Colorstorm Stallion
+2x Rimebound Reindeer
+3x Rallied Champions
+3x Wayfaring Kirin
+3x Nautila, Seapony
+4x Time Looper
+4x Outland Axebearer
+2x Tale Scourer
+3x Soarer&apos;s Talent
+2x Globeify
+2x Burst Lightning
+2x Negate
+3x Festival of Lightning
+1x Skycoach Waypoint</text>
+			<set rarity="special" picurl="https://oliveingit.github.io/sets/PRP-files/img/0.png" num="1">PRP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Burst Lightning</name>
+			<text>Kicker {4} (You may pay an additional {4} as you cast this spell.)
+Burst Lightning deals 2 damage to any target. If this spell was kicked, it deals 4 damage instead.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/PRP-files/img/1.png" num="4">PRP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nautila, Seapony // Consider</name>
+			<text>Whenever Nautila becomes tapped, you may discard a card. If you do, Nautila becomes prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
+
+---
+
+Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Draw a card.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/PRP-files/img/2.png" num="10">PRP</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Pony Merfolk // Instant</type>
+				<maintype>Creature</maintype>
+				<manacost>UR // U</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Time Looper</name>
+			<text>Paradox — Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature. (Prepared spells are cast from exile.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/PRP-files/img/3.png" num="7">PRP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Unicorn Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rimebound Reindeer // Freeze Solid</name>
+			<text>This creature enters prepared.
+Whenever this creature deals combat damage to a player, draw a card, then discard a card.
+
+---
+
+Choose one —
+• Tap target creature.
+• Target creature can&apos;t be blocked this turn.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/PRP-files/img/4.png" num="11">PRP</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Elk Wizard // Sorcery</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR // U</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Colorstorm Stallion</name>
+			<text>Ward {1}, haste
+Opus — Whenever you cast an instant or sorcery spell, this creature gets +1/+1 until end of turn. If five or more mana was spent to cast that spell, create a token that&apos;s a copy of this creature.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/PRP-files/img/5.png" num="8">PRP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tale Scourer // Dredge Up</name>
+			<text>Whenever this creature deals combat damage to a player, it becomes prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
+
+---
+
+Exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/PRP-files/img/6.png" num="13">PRP</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Pony // Sorcery</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR // U</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wayfaring Kirin // Ember of Emotion</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast your second spell each turn, this creature becomes prepared.
+
+---
+
+Creatures you control get +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/PRP-files/img/7.png" num="3">PRP</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Kirin // Sorcery</type>
+				<maintype>Creature</maintype>
+				<manacost>1U // 2R</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rallied Champions // Endless Assault</name>
+			<text>This creature enters prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
+
+---
+
+Untap each creature you control that attacked this turn. After this phase, there is an additional combat phase.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/PRP-files/img/8.png" num="6">PRP</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Pony Knight // Sorcery</type>
+				<maintype>Creature</maintype>
+				<manacost>1R // 2RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Globeify</name>
+			<text>Flash
+Enchant creature
+Enchanted creature loses all abilities and is a colorless Golem with base power and toughness 1/1. (It loses all colors and all other creature types.)</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/PRP-files/img/9.png" num="1">PRP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Negate</name>
+			<text>Counter target noncreature spell.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/PRP-files/img/10.png" num="2">PRP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Festival of Lightning</name>
+			<text>Festival of Lightning deals 5 damage to target creature or planeswalker. Exile the top card of your library. You may play it this turn.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/PRP-files/img/11.png" num="9">PRP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Soarer&apos;s Talent</name>
+			<text>(Gain the next level as a sorcery to add its ability.)
+When this Class enters, put a flying counter on up to one target creature you control.
+{U}{R} Level 2
+Noncreature spells you cast cost {1} less to cast.
+{1}{R} Level 3
+When this Class becomes level 3, Exile the top two cards of your library. Until end of turn, you may play those cards.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/PRP-files/img/12.png" num="12">PRP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Class</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Skycoach Waypoint</name>
+			<text>{T}: Add {C}.
+{3},{T}: Target creature becomes prepared. (Only creatures with prepare spells can become prepared.)</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/PRP-files/img/13.png" num="14">PRP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Outland Axebearer // At the Ready</name>
+			<text>First strike, haste
+This creature enters prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
+
+---
+
+Target creature you control gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/PRP-files/img/14.png" num="5">PRP</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Pony Warrior // Sorcery</type>
+				<maintype>Creature</maintype>
+				<manacost>R // 1R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
