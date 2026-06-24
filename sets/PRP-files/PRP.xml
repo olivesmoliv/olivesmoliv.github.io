@@ -24,7 +24,12 @@
 2x Burst Lightning
 2x Negate
 3x Festival of Lightning
-1x Skycoach Waypoint</text>
+[b]Lands[/b]
+1x Skycoach Waypoint
+2x Temple of Epiphany
+4x Swiftwater Cliffs
+9x Island
+8x Mountain</text>
 			<set rarity="special" picurl="https://oliveingit.github.io/sets/PRP-files/img/0.png" num="1">PRP</set>
 			<prop>
 				<layout>normal</layout>
@@ -306,6 +311,70 @@ Target creature you control gets +2/+0 until end of turn.</text>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Temple of Epiphany</name>
+			<text>This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/PRP-files/img/15.png" num="16">PRP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swiftwater Cliffs</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {R}.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/PRP-files/img/16.png" num="15">PRP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/PRP-files/img/17.png" num="17">PRP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/PRP-files/img/18.png" num="18">PRP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

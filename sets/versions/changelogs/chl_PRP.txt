@@ -1,4 +1,48 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Temple of Epiphany added.
+Swiftwater Cliffs added.
+
+
+Prepared Precon Decklist
+rules_text: [i]3x Colorstorm Stallion
+2x Rimebound Reindeer
+3x Rallied Champions
+3x Wayfaring Kirin
+3x Nautila, Seapony
+4x Time Looper
+4x Outland Axebearer
+2x Tale Scourer
+3x Soarer's Talent
+2x Globeify
+2x Burst Lightning
+2x Negate
+3x Festival of Lightning
+1x Skycoach Waypoint[/i] => [i]3x Colorstorm Stallion
+2x Rimebound Reindeer
+3x Rallied Champions
+3x Wayfaring Kirin
+3x Nautila, Seapony
+4x Time Looper
+4x Outland Axebearer
+2x Tale Scourer
+3x Soarer's Talent
+2x Globeify
+2x Burst Lightning
+2x Negate
+3x Festival of Lightning
+[b]Lands[/b]
+1x Skycoach Waypoint
+2x Temple of Epiphany
+4x Swiftwater Cliffs
+9x Island
+8x Mountain[/i]
+
+Outland Axebearer
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

@@ -8,6 +8,14 @@
         "position": "0"
     },
     {
+        "card_name": "Outland Axebearer",
+        "number": 5,
+        "shape": "adventure",
+        "set": "PRP",
+        "rotated": false,
+        "position": "14"
+    },
+    {
         "card_name": "Time Looper",
         "number": 7,
         "shape": "normal",
@@ -110,6 +118,38 @@
         "set": "PRP",
         "rotated": false,
         "position": "13"
+    },
+    {
+        "card_name": "Temple of Epiphany",
+        "number": 16,
+        "shape": "normal",
+        "set": "PRP",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Swiftwater Cliffs",
+        "number": 15,
+        "shape": "normal",
+        "set": "PRP",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Island",
+        "number": 17,
+        "shape": "normal",
+        "set": "PRP",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 18,
+        "shape": "normal",
+        "set": "PRP",
+        "rotated": false,
+        "position": "18"
     },
     {
         "card_name": "e"
