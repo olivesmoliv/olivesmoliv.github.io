@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "BLU",
+            "set_name": "Bloomburrow: United",
+            "formats": ""
+        },
+        {
             "set_code": "DMAJ",
             "set_name": "DMAJ 2026",
             "formats": ""

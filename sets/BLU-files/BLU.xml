@@ -1,0 +1,799 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>BLU</name>
+			<longname>Bloomburrow: United</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-29</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>The Vigilante</name>
+			<text>Folk hero {4}{R}{R} — 6/5 (If you cast this for its folk hero cost, it&apos;s legendary and has different power and toughness.)
+Menace</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/0.png" num="27">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Raccoon Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Augury</name>
+			<text>Unity (If there are six or more creature types among non-Human creatures you control, you become united for the rest of the game.)
+Draw two cards. If you&apos;re united, draw three cards instead.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/1.png" num="10">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bloomburrow United</name>
+			<text>Create a 2/2 green creature token with a creature type of your choice.
+Flashback {4}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/2.png" num="30">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blade of Grass</name>
+			<text>Create a Weapon token attached to target creature. That creature gains hexproof until end of turn. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/3.png" num="29">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>On the Offense</name>
+			<text>On the Offense deals 3 damage to target creature. Create a Weapon token. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/4.png" num="24">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rallying Rats</name>
+			<text>Unity (If there are six or more creature types among non-Human creatures you control, you become united for the rest of the game.)
+This creature has lifelink and menace, as long as you&apos;re united.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/5.png" num="19">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Calamitous Prescence</name>
+			<text>Enchant creature you control.
+Enchanted creature gets +1/+1 and can&apos;t be blocked except by legendary creatures.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/BLU-files/img/6.png" num="11">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sword in the Stone</name>
+			<text>When this artifact enters, create a Weapon token. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/7.png" num="3">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Aritfact</type>
+				<maintype>Aritfact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Savior</name>
+			<text>Folk hero {4}{W} — 4/4 (If you cast this for its folk hero cost, it&apos;s legendary and has different power and toughness.)
+When this creature enters, create a 1/1 white Mouse creature token.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/BLU-files/img/8.png" num="8">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mouse Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Veteran Lieutenant</name>
+			<text>When this creature enters, create a Weapon token. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)
+Equip abilities you activate cost {1} less to activate.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/BLU-files/img/9.png" num="44">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mouse Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Archelos, Slow and Steady</name>
+			<text>Unity (If there are six or more creature types among non-Human creatures you control, you become united for the rest of the game.)
+Permanents you control enter untapped.
+As long as you&apos;re united, permanents your opponents control enter tapped.</text>
+			<set rarity="mythic" picurl="https://oliveingit.github.io/sets/BLU-files/img/10.png" num="34">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Turtle Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>BGU</manacost>
+				<cmc>3</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kwain, Bounding Bunny</name>
+			<text>Folk hero {3}{W}{U} — 3/3 (If you cast this for its folk hero cost, it&apos;s legendary and has different power and toughness.)
+{T}: You and target player may each draw X cards, where X is this creature&apos;s power.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/BLU-files/img/11.png" num="39">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rabbit Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bello, Trinketmaster</name>
+			<text>Whenever you create a creature token, create your choice of a Clue, Food, Junk, Weapon, or Treasure token. This ability triggers only once each turn. (Weapon tokens are Equipment artifacts with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/BLU-files/img/12.png" num="35">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Raccoon Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nightwhorl Assassin</name>
+			<text>Menace
+When this creature dies, create a tapped 2/2 colorless Rat token.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/13.png" num="18">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seedbed Intimidation</name>
+			<text>Each opponent discards a card. You create a 1/1 black creature token with a creature type of your choice.
+{2}{B}, Discard this card: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/14.png" num="20">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Slay</name>
+			<text>Destroy target creature. Create a Weapon token. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/15.png" num="21">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Lonely Traveler</name>
+			<text>Folk hero {5} — 4/3 (If you cast this for its folk hero cost, it&apos;s legendary and has different power and toughness.)
+When this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/16.png" num="2">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancestry Elder</name>
+			<text>Unity (If there are six or more creature types among non-Human creatures you control, you become united for the rest of the game.)
+{5}{G}: Put a +1/+1 counter on target creature. This ability costs {2} less to activate if you&apos;re united. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/17.png" num="28">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Protector of the Brambles</name>
+			<text>Unity (If there are six or more creature types among non-Human creatures you control, you become united for the rest of the game.)
+This creature gets +2/+2 and has trample as long as you&apos;re united.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/18.png" num="32">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Badger Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nefarious Needler</name>
+			<text>When this creature enters, create a Weapon token. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/19.png" num="23">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mouse</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ral&apos;s Lightning</name>
+			<text>Unity (If there are six or more creature types among non-Human creatures you control, you become united for the rest of the game.)
+Ral&apos;s Lightning deals 2 damage to any target. If you&apos;re united, it deals 3 damage instead.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/20.png" num="26">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Otter Wizard</name>
+			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/21.png" num="13">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Otter Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Talespinning</name>
+			<text>Return target creature to its owner&apos;s hand. If it was legendary, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/22.png" num="15">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pawpatch Sailor</name>
+			<text>Unity (If there are six or more creature types among non-Human creatures you control, you become united for the rest of the game.)
+Whenever this creature becomes tapped, draw a card, then discard a card unless you&apos;re united.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/23.png" num="14">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Keen-Eyed Scout</name>
+			<text>When this creature enters, exile the top card of your library. You may play it until the end of your next turn. Create a Weapon token. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/24.png" num="22">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Of Fashioned Wings</name>
+			<text>Folk hero {3}{W}{W} — 4/4 (If you cast this for its folk hero cost, it&apos;s legendary and has different power and toughness.)
+Flying</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/25.png" num="6">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>A Steed Rider</name>
+			<text>Folk hero {3}{G}{G} — 5/5 (If you cast this for its folk hero cost, it&apos;s legendary and has different power and toughness.)
+Trample</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/26.png" num="33">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>A Humble Heron</name>
+			<text>Folk hero {5}{U} — 5/4 (If you cast this for its folk hero cost, it&apos;s legendary and has different power and toughness.)
+{2}{U}: This creature can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/27.png" num="12">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>A Mysterious Cloak</name>
+			<text>Folk hero {4}{B} — 5/4 (If you cast this for its folk hero cost, it&apos;s legendary and has different power and toughness.)
+Deathtouch</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/28.png" num="17">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Finch Rider</name>
+			<text>Flying
+When this creature dies, create a 1/1 white creature token with a creature type of your choice.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/29.png" num="5">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mouse Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fateful Encounter</name>
+			<text>Create a 1/1 white Rabbit creature token and a Weapon token. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)
+Attach a Weapon you control to a creature you control.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/30.png" num="4">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Overworked</name>
+			<text>Enchant creature
+Unity (If there are six or more creature types among non-Human creatures you control, you become united for the rest of the game.)
+Enchanted creature can&apos;t attack or block.
+{W}, Sacrifice this Aura: Exile enchanted creature. Activate only if you&apos;re united.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/31.png" num="7">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Outer Scout</name>
+			<text>Flying
+Unity (If there are six or more creature types among non-Human creatures you control, you become united for the rest of the game.)
+Whenever this creature attacks, if you&apos;re united, creatures you control get +1/+0 and gain menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/BLU-files/img/32.png" num="40">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bat Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Treetop Recycler</name>
+			<text>When this creature enters, create a 1/1 green Squirrel creature token.
+{1}{B}{G}, Sacrifice a creature: Draw a card. Activate only once each turn.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/BLU-files/img/33.png" num="43">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frogkin Jester</name>
+			<text>Unity (If there are six or more creature types among non-Human creatures you control, you become united for the rest of the game.)
+{T}: Add one mana of any color. If you&apos;re united, add two mana of any one color instead. Spend this mana only to cast creature spells.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/BLU-files/img/34.png" num="37">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog Clown</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Playful Stormchaser</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, exile target instant or sorcery card from your graveyard graveyard. You may cast it this turn and mana of any type may can be spent to cast that spell. If that spell would be put into a graveyard, exile it instead.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/BLU-files/img/35.png" num="41">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Otter</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Foretold Warriors</name>
+			<text>Folk hero {5}{B} — 5/6 (If you cast this for its folk hero cost, it&apos;s legendary and has different power and toughness.)
+Whenever this creature deals combat damage to a player, they lose life equal to its power unless they discard a card or sacrifice a nonland permanent.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/BLU-files/img/36.png" num="16">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog Squirrel</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pick Up The Branch</name>
+			<text>Create a Weapon token attached to target creature you control. Then it deals damage equal to its power to any target. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/BLU-files/img/37.png" num="25">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Golden Griffin</name>
+			<text>Flying
+Unity (If there are six or more creature types among non-Human creatures you control, you become united for the rest of the game.)
+This creature gets +2/+0 as long as you&apos;re united.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/BLU-files/img/38.png" num="1">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Griffin</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beza, Season of Spring</name>
+			<text>Unity (If there are six or more creature types among non-Human creatures you control, you become united for the rest of the game.)
+Whenever you create one or more tokens, create a 1/1 blue Fish creature token. Then if you&apos;re united, you create a Treasure token, draw a card and gain 4 life. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/BLU-files/img/39.png" num="36">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Rat King</name>
+			<text>Whenever one or more cards leave your graveyard, create a 1/1 black Rat creature token with &quot;This token can&apos;t block.&quot;
+Exhaust — {1}{B}{B}: Create a Swarm of Rats token. (It&apos;s a {1}{B} */1 Rat creature with &quot;This creature&apos;s power is equal to the number of Rats you control.&quot;)</text>
+			<set rarity="rare" picurl="https://oliveingit.github.io/sets/BLU-files/img/40.png" num="42">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rat Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ire, of the Burning Bog</name>
+			<text>Whenever Ire enters or deals combat damage to a player, put a blaze counter on up to one target land without a blaze counter on it. For as long as that land has a blaze counter on it, it has &quot;At the beginning of your upkeep, this land deals 1 damage to you.&quot;
+Whenever you tap a land with a blaze counter on it for mana, add {R}.</text>
+			<set rarity="mythic" picurl="https://oliveingit.github.io/sets/BLU-files/img/41.png" num="38">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Lizard Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>BRG</manacost>
+				<cmc>3</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>United Village</name>
+			<text>{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell.
+{6}, {T}: Create a 1/1 colorless creature token with the creature type of your choice.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/BLU-files/img/42.png" num="45">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Squirrel Squad</name>
+			<text>Unity (If there are six or more creature types among non-Human creatures you control, you become united for the rest of the game.)
+Create two 1/1 white Squirrel creature tokens. If you&apos;re united, create three of those tokens instead.</text>
+			<set rarity="common" picurl="https://oliveingit.github.io/sets/BLU-files/img/43.png" num="9">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lightning Stag</name>
+			<text>Trample
+Creature spells you control can&apos;t be countered.
+When this creature enters, put a +1/+1 counter on each other creature you control.</text>
+			<set rarity="uncommon" picurl="https://oliveingit.github.io/sets/BLU-files/img/44.png" num="31">BLU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
