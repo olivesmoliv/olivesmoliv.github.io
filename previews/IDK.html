@@ -186,9 +186,7 @@
 	<img class="preload-hidden" src="../sets/BLU-files/icon.png" />
 		<img class="preload-hidden" src="../sets/DMAJ-files/icon.png" />
 		<img class="preload-hidden" src="../sets/DTR-files/icon.png" />
-		<img class="preload-hidden" src="../sets/FIM-files/icon.png" />
 		<img class="preload-hidden" src="../sets/IDK-files/icon.png" />
-		<img class="preload-hidden" src="../sets/PRP-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
 			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
@@ -198,7 +196,9 @@
 				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
 			</div>
 			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
-			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
 			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
@@ -207,8 +207,22 @@
 			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
 			document.getElementById("header-search").src = rootPath + "/img/search.png";
 			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
-			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
 			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
 		});
 
 		function goToSearch() {
@@ -226,83 +240,79 @@
 	
 		<a class="set-bar inactive" href="../previews/DTR"><img src="../sets/DTR-files/icon.png">Undertale Set</a>
 	
-		<a class="set-bar inactive" href="../previews/FIM"><img src="../sets/FIM-files/icon.png">Mlp Microset</a>
-	
-		<a class="set-bar inactive" href="../previews/PRP"><img src="../sets/PRP-files/icon.png">Prepare Theme Deck</a>
-	
 		</div>
 		<div class="banner">
 		<img class="logo" src="../sets/IDK-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="sets\IDK-files\img\67.png" id="IDK_67" data-flag="@X" onclick="openSidebar('IDK_67',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\15.png" id="IDK_15" data-flag="@X" onclick="openSidebar('IDK_15',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\IDK-files\img\82.png" id="IDK_82" data-flag="@X" onclick="openSidebar('IDK_82',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\83.png" id="IDK_83" data-flag="@X" onclick="openSidebar('IDK_83',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\94.png" id="IDK_94" data-flag="@X" onclick="openSidebar('IDK_94',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\6.png" id="IDK_6" data-flag="@X" onclick="openSidebar('IDK_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\89.png" id="IDK_89" data-flag="@X" onclick="openSidebar('IDK_89',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\67.png" id="IDK_67" data-flag="@X" onclick="openSidebar('IDK_67',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\15.png" id="IDK_15" data-flag="@X" onclick="openSidebar('IDK_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\16.png" id="IDK_16" data-flag="@X" onclick="openSidebar('IDK_16',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\40.png" id="IDK_40" data-flag="@X" onclick="openSidebar('IDK_40',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\10.png" id="IDK_10" data-flag="@X" onclick="openSidebar('IDK_10',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\68.png" id="IDK_68" data-flag="@X" onclick="openSidebar('IDK_68',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\27.png" id="IDK_27" data-flag="@X" onclick="openSidebar('IDK_27',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\16.png" id="IDK_16" data-flag="@X" onclick="openSidebar('IDK_16',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\40.png" id="IDK_40" data-flag="@X" onclick="openSidebar('IDK_40',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\65.png" id="IDK_65" data-flag="@X" onclick="openSidebar('IDK_65',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\59.png" id="IDK_59" data-flag="@X" onclick="openSidebar('IDK_59',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\62.png" id="IDK_62" data-flag="@X" onclick="openSidebar('IDK_62',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\34.png" id="IDK_34" data-flag="@X" onclick="openSidebar('IDK_34',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\61.png" id="IDK_61" data-flag="@X" onclick="openSidebar('IDK_61',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\65.png" id="IDK_65" data-flag="@X" onclick="openSidebar('IDK_65',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\59.png" id="IDK_59" data-flag="@X" onclick="openSidebar('IDK_59',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\60.png" id="IDK_60" data-flag="@X" onclick="openSidebar('IDK_60',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\32.png" id="IDK_32" data-flag="@X" onclick="openSidebar('IDK_32',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\52.png" id="IDK_52" data-flag="@X" onclick="openSidebar('IDK_52',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\23.png" id="IDK_23" data-flag="@X" onclick="openSidebar('IDK_23',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\44.png" id="IDK_44" data-flag="@X" onclick="openSidebar('IDK_44',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\60.png" id="IDK_60" data-flag="@X" onclick="openSidebar('IDK_60',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\32.png" id="IDK_32" data-flag="@X" onclick="openSidebar('IDK_32',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\73.png" id="IDK_73" data-flag="@X" onclick="openSidebar('IDK_73',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\79.png" id="IDK_79" data-flag="@X" onclick="openSidebar('IDK_79',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\30.png" id="IDK_30" data-flag="@X" onclick="openSidebar('IDK_30',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\9.png" id="IDK_9" data-flag="@X" onclick="openSidebar('IDK_9',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\57.png" id="IDK_57" data-flag="@X" onclick="openSidebar('IDK_57',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\73.png" id="IDK_73" data-flag="@X" onclick="openSidebar('IDK_73',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\79.png" id="IDK_79" data-flag="@X" onclick="openSidebar('IDK_79',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\29.png" id="IDK_29" data-flag="@X" onclick="openSidebar('IDK_29',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\80.png" id="IDK_80" data-flag="@X" onclick="openSidebar('IDK_80',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\8.png" id="IDK_8" data-flag="@X" onclick="openSidebar('IDK_8',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\3.png" id="IDK_3" data-flag="@X" onclick="openSidebar('IDK_3',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\48.png" id="IDK_48" data-flag="@X" onclick="openSidebar('IDK_48',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\29.png" id="IDK_29" data-flag="@X" onclick="openSidebar('IDK_29',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\80.png" id="IDK_80" data-flag="@X" onclick="openSidebar('IDK_80',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\50.png" id="IDK_50" data-flag="@X" onclick="openSidebar('IDK_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\85.png" id="IDK_85" data-flag="@X" onclick="openSidebar('IDK_85',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\53.png" id="IDK_53" data-flag="@X" onclick="openSidebar('IDK_53',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\11.png" id="IDK_11" data-flag="@X" onclick="openSidebar('IDK_11',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\38.png" id="IDK_38" data-flag="@X" onclick="openSidebar('IDK_38',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\50.png" id="IDK_50" data-flag="@X" onclick="openSidebar('IDK_50',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\85.png" id="IDK_85" data-flag="@X" onclick="openSidebar('IDK_85',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\46.png" id="IDK_46" data-flag="@X" onclick="openSidebar('IDK_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\7.png" id="IDK_7" data-flag="@X" onclick="openSidebar('IDK_7',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\1.png" id="IDK_1" data-flag="@X" onclick="openSidebar('IDK_1',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\81.png" id="IDK_81" data-flag="@X" onclick="openSidebar('IDK_81',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\78.png" id="IDK_78" data-flag="@X" onclick="openSidebar('IDK_78',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\46.png" id="IDK_46" data-flag="@X" onclick="openSidebar('IDK_46',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\7.png" id="IDK_7" data-flag="@X" onclick="openSidebar('IDK_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\5.png" id="IDK_5" data-flag="@X" onclick="openSidebar('IDK_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\56.png" id="IDK_56" data-flag="@X" onclick="openSidebar('IDK_56',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\4.png" id="IDK_4" data-flag="@X" onclick="openSidebar('IDK_4',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\28.png" id="IDK_28" data-flag="@X" onclick="openSidebar('IDK_28',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\13.png" id="IDK_13" data-flag="@X" onclick="openSidebar('IDK_13',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\5.png" id="IDK_5" data-flag="@X" onclick="openSidebar('IDK_5',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\56.png" id="IDK_56" data-flag="@X" onclick="openSidebar('IDK_56',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\26.png" id="IDK_26" data-flag="@X" onclick="openSidebar('IDK_26',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\35.png" id="IDK_35" data-flag="@X" onclick="openSidebar('IDK_35',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\33.png" id="IDK_33" data-flag="@X" onclick="openSidebar('IDK_33',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\66.png" id="IDK_66" data-flag="@X" onclick="openSidebar('IDK_66',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\45.png" id="IDK_45" data-flag="@X" onclick="openSidebar('IDK_45',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\26.png" id="IDK_26" data-flag="@X" onclick="openSidebar('IDK_26',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\35.png" id="IDK_35" data-flag="@X" onclick="openSidebar('IDK_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\0.png" id="IDK_0" data-flag="@X" onclick="openSidebar('IDK_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\47.png" id="IDK_47" data-flag="@X" onclick="openSidebar('IDK_47',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\54.png" id="IDK_54" data-flag="@X" onclick="openSidebar('IDK_54',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\31.png" id="IDK_31" data-flag="@X" onclick="openSidebar('IDK_31',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\2.png" id="IDK_2" data-flag="@X" onclick="openSidebar('IDK_2',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\0.png" id="IDK_0" data-flag="@X" onclick="openSidebar('IDK_0',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\47.png" id="IDK_47" data-flag="@X" onclick="openSidebar('IDK_47',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IDK_e" data-flag="@E" onclick="openSidebar('IDK_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\20.png" id="IDK_20" data-flag="@X" onclick="openSidebar('IDK_20',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\17.png" id="IDK_17" data-flag="@X" onclick="openSidebar('IDK_17',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\55.png" id="IDK_55" data-flag="@X" onclick="openSidebar('IDK_55',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\12.png" id="IDK_12" data-flag="@X" onclick="openSidebar('IDK_12',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="IDK_e" data-flag="@E" onclick="openSidebar('IDK_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\18.png" id="IDK_18" data-flag="@X" onclick="openSidebar('IDK_18',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\43.png" id="IDK_43" data-flag="@X" onclick="openSidebar('IDK_43',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\20.png" id="IDK_20" data-flag="@X" onclick="openSidebar('IDK_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\17.png" id="IDK_17" data-flag="@X" onclick="openSidebar('IDK_17',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\42.png" id="IDK_42" data-flag="@X" onclick="openSidebar('IDK_42',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\21.png" id="IDK_21" data-flag="@X" onclick="openSidebar('IDK_21',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="IDK_e" data-flag="@E" onclick="openSidebar('IDK_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IDK_e" data-flag="@E" onclick="openSidebar('IDK_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IDK_e" data-flag="@E" onclick="openSidebar('IDK_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\18.png" id="IDK_18" data-flag="@X" onclick="openSidebar('IDK_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\43.png" id="IDK_43" data-flag="@X" onclick="openSidebar('IDK_43',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="IDK_e" data-flag="@E" onclick="openSidebar('IDK_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\74.png" id="IDK_74" data-flag="@X" onclick="openSidebar('IDK_74',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="IDK_e" data-flag="@E" onclick="openSidebar('IDK_e',false)"></div>
@@ -311,12 +321,12 @@
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IDK_er" data-flag="@E" onclick="openSidebar('IDK_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IDK_er" data-flag="@E" onclick="openSidebar('IDK_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\58.png" id="IDK_58" data-flag="@X" onclick="openSidebar('IDK_58',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\90.png" id="IDK_90" data-flag="@X" onclick="openSidebar('IDK_90',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\69.png" id="IDK_69" data-flag="@X" onclick="openSidebar('IDK_69',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\25.png" id="IDK_25" data-flag="@X" onclick="openSidebar('IDK_25',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\14.png" id="IDK_14" data-flag="@X" onclick="openSidebar('IDK_14',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\70.png" id="IDK_70" data-flag="@X" onclick="openSidebar('IDK_70',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IDK_e" data-flag="@E" onclick="openSidebar('IDK_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\58.png" id="IDK_58" data-flag="@X" onclick="openSidebar('IDK_58',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\24.png" id="IDK_24" data-flag="@X" onclick="openSidebar('IDK_24',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\92.png" id="IDK_92" data-flag="@X" onclick="openSidebar('IDK_92',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\71.png" id="IDK_71" data-flag="@X" onclick="openSidebar('IDK_71',false)"></div>
@@ -332,12 +342,12 @@
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IDK_er" data-flag="@E" onclick="openSidebar('IDK_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IDK_er" data-flag="@E" onclick="openSidebar('IDK_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\51.png" id="IDK_51" data-flag="@X" onclick="openSidebar('IDK_51',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\22.png" id="IDK_22" data-flag="@X" onclick="openSidebar('IDK_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\91.png" id="IDK_91" data-flag="@X" onclick="openSidebar('IDK_91',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\64.png" id="IDK_64" data-flag="@X" onclick="openSidebar('IDK_64',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\37.png" id="IDK_37" data-flag="@X" onclick="openSidebar('IDK_37',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\19.png" id="IDK_19" data-flag="@X" onclick="openSidebar('IDK_19',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\39.png" id="IDK_39" data-flag="@X" onclick="openSidebar('IDK_39',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IDK_e" data-flag="@E" onclick="openSidebar('IDK_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\22.png" id="IDK_22" data-flag="@X" onclick="openSidebar('IDK_22',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\49.png" id="IDK_49" data-flag="@X" onclick="openSidebar('IDK_49',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\36.png" id="IDK_36" data-flag="@X" onclick="openSidebar('IDK_36',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IDK-files\img\63.png" id="IDK_63" data-flag="@X" onclick="openSidebar('IDK_63',false)"></div>
@@ -407,7 +417,7 @@
 					if (card.notes) {
 						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
 						for (const match of tagMatches) {
-							all_tags.add(match[1]);
+							all_tags.add(match[1].toLowerCase());
 						}
 					}
 				});
