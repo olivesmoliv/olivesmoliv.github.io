@@ -188,7 +188,6 @@
 		<img class="preload-hidden" src="../sets/DTR-files/icon.png" />
 		<img class="preload-hidden" src="../sets/FIM-files/icon.png" />
 		<img class="preload-hidden" src="../sets/IDK-files/icon.png" />
-		<img class="preload-hidden" src="../sets/PRP-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
 			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
@@ -198,7 +197,9 @@
 				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
 			</div>
 			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
-			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
 			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
@@ -207,8 +208,22 @@
 			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
 			document.getElementById("header-search").src = rootPath + "/img/search.png";
 			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
-			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
 			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
 		});
 
 		function goToSearch() {
@@ -218,7 +233,7 @@
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="../previews/FIM"><img src="../sets/FIM-files/icon.png">Mlp Microset</a>
+		<a class="set-bar" href="../previews/FIM"><img src="../sets/FIM-files/icon.png">Perissian Tales</a>
 	
 		<a class="set-bar inactive" href="../previews/BLU"><img src="../sets/BLU-files/icon.png">Bloomburrow: United</a>
 	
@@ -228,72 +243,90 @@
 	
 		<a class="set-bar inactive" href="../previews/IDK"><img src="../sets/IDK-files/icon.png">Piper Cube</a>
 	
-		<a class="set-bar inactive" href="../previews/PRP"><img src="../sets/PRP-files/icon.png">Prepare Theme Deck</a>
-	
 		</div>
 		<div class="banner">
 		<img class="logo" src="../sets/FIM-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="sets\FIM-files\img\10.png" id="FIM_10" data-flag="@X" onclick="openSidebar('FIM_10',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\11.png" id="FIM_11" data-flag="@X" onclick="openSidebar('FIM_11',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\12.png" id="FIM_12" data-flag="@X" onclick="openSidebar('FIM_12',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\45.png" id="FIM_45" data-flag="@X" onclick="openSidebar('FIM_45',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\14.png" id="FIM_14" data-flag="@X" onclick="openSidebar('FIM_14',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\17.png" id="FIM_17" data-flag="@X" onclick="openSidebar('FIM_17',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\22.png" id="FIM_22" data-flag="@X" onclick="openSidebar('FIM_22',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\26.png" id="FIM_26" data-flag="@X" onclick="openSidebar('FIM_26',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\13.png" id="FIM_13" data-flag="@X" onclick="openSidebar('FIM_13',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\33.png" id="FIM_33" data-flag="@X" onclick="openSidebar('FIM_33',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\36.png" id="FIM_36" data-flag="@X" onclick="openSidebar('FIM_36',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\21.png" id="FIM_21" data-flag="@X" onclick="openSidebar('FIM_21',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\27.png" id="FIM_27" data-flag="@X" onclick="openSidebar('FIM_27',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\41.png" id="FIM_41" data-flag="@X" onclick="openSidebar('FIM_41',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\34.png" id="FIM_34" data-flag="@X" onclick="openSidebar('FIM_34',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\18.png" id="FIM_18" data-flag="@X" onclick="openSidebar('FIM_18',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\24.png" id="FIM_24" data-flag="@X" onclick="openSidebar('FIM_24',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\44.png" id="FIM_44" data-flag="@X" onclick="openSidebar('FIM_44',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\31.png" id="FIM_31" data-flag="@X" onclick="openSidebar('FIM_31',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\35.png" id="FIM_35" data-flag="@X" onclick="openSidebar('FIM_35',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\20.png" id="FIM_20" data-flag="@X" onclick="openSidebar('FIM_20',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\23.png" id="FIM_23" data-flag="@X" onclick="openSidebar('FIM_23',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\25.png" id="FIM_25" data-flag="@X" onclick="openSidebar('FIM_25',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\29.png" id="FIM_29" data-flag="@X" onclick="openSidebar('FIM_29',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\32.png" id="FIM_32" data-flag="@X" onclick="openSidebar('FIM_32',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\19.png" id="FIM_19" data-flag="@X" onclick="openSidebar('FIM_19',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\37.png" id="FIM_37" data-flag="@X" onclick="openSidebar('FIM_37',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\42.png" id="FIM_42" data-flag="@X" onclick="openSidebar('FIM_42',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\28.png" id="FIM_28" data-flag="@X" onclick="openSidebar('FIM_28',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\40.png" id="FIM_40" data-flag="@X" onclick="openSidebar('FIM_40',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\FIM-files\img\72.png" id="FIM_72" data-flag="@X" onclick="openSidebar('FIM_72',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\137.png" id="FIM_137" data-flag="@X" onclick="openSidebar('FIM_137',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\142.png" id="FIM_142" data-flag="@X" onclick="openSidebar('FIM_142',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\150.png" id="FIM_150" data-flag="@X" onclick="openSidebar('FIM_150',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\158.png" id="FIM_158" data-flag="@X" onclick="openSidebar('FIM_158',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\125.png" id="FIM_125" data-flag="@X" onclick="openSidebar('FIM_125',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\130.png" id="FIM_130" data-flag="@X" onclick="openSidebar('FIM_130',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\144.png" id="FIM_144" data-flag="@X" onclick="openSidebar('FIM_144',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\151.png" id="FIM_151" data-flag="@X" onclick="openSidebar('FIM_151',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\156.png" id="FIM_156" data-flag="@X" onclick="openSidebar('FIM_156',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\121.png" id="FIM_121" data-flag="@X" onclick="openSidebar('FIM_121',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\132.png" id="FIM_132" data-flag="@X" onclick="openSidebar('FIM_132',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\190.png" id="FIM_190" data-flag="@X" onclick="openSidebar('FIM_190',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\149.png" id="FIM_149" data-flag="@X" onclick="openSidebar('FIM_149',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\180.png" id="FIM_180" data-flag="@X" onclick="openSidebar('FIM_180',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\129.png" id="FIM_129" data-flag="@X" onclick="openSidebar('FIM_129',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\136.png" id="FIM_136" data-flag="@X" onclick="openSidebar('FIM_136',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\141.png" id="FIM_141" data-flag="@X" onclick="openSidebar('FIM_141',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\182.png" id="FIM_182" data-flag="@X" onclick="openSidebar('FIM_182',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\157.png" id="FIM_157" data-flag="@X" onclick="openSidebar('FIM_157',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\126.png" id="FIM_126" data-flag="@X" onclick="openSidebar('FIM_126',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\138.png" id="FIM_138" data-flag="@X" onclick="openSidebar('FIM_138',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\146.png" id="FIM_146" data-flag="@X" onclick="openSidebar('FIM_146',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\153.png" id="FIM_153" data-flag="@X" onclick="openSidebar('FIM_153',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\161.png" id="FIM_161" data-flag="@X" onclick="openSidebar('FIM_161',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\127.png" id="FIM_127" data-flag="@X" onclick="openSidebar('FIM_127',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\139.png" id="FIM_139" data-flag="@X" onclick="openSidebar('FIM_139',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\148.png" id="FIM_148" data-flag="@X" onclick="openSidebar('FIM_148',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\184.png" id="FIM_184" data-flag="@X" onclick="openSidebar('FIM_184',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\155.png" id="FIM_155" data-flag="@X" onclick="openSidebar('FIM_155',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\124.png" id="FIM_124" data-flag="@X" onclick="openSidebar('FIM_124',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\135.png" id="FIM_135" data-flag="@X" onclick="openSidebar('FIM_135',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\147.png" id="FIM_147" data-flag="@X" onclick="openSidebar('FIM_147',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\154.png" id="FIM_154" data-flag="@X" onclick="openSidebar('FIM_154',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\159.png" id="FIM_159" data-flag="@X" onclick="openSidebar('FIM_159',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\122.png" id="FIM_122" data-flag="@X" onclick="openSidebar('FIM_122',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\131.png" id="FIM_131" data-flag="@X" onclick="openSidebar('FIM_131',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\145.png" id="FIM_145" data-flag="@X" onclick="openSidebar('FIM_145',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\179.png" id="FIM_179" data-flag="@X" onclick="openSidebar('FIM_179',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\160.png" id="FIM_160" data-flag="@X" onclick="openSidebar('FIM_160',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\185.png" id="FIM_185" data-flag="@X" onclick="openSidebar('FIM_185',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\134.png" id="FIM_134" data-flag="@X" onclick="openSidebar('FIM_134',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\143.png" id="FIM_143" data-flag="@X" onclick="openSidebar('FIM_143',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\152.png" id="FIM_152" data-flag="@X" onclick="openSidebar('FIM_152',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\181.png" id="FIM_181" data-flag="@X" onclick="openSidebar('FIM_181',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\128.png" id="FIM_128" data-flag="@X" onclick="openSidebar('FIM_128',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\133.png" id="FIM_133" data-flag="@X" onclick="openSidebar('FIM_133',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\140.png" id="FIM_140" data-flag="@X" onclick="openSidebar('FIM_140',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\178.png" id="FIM_178" data-flag="@X" onclick="openSidebar('FIM_178',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\186.png" id="FIM_186" data-flag="@X" onclick="openSidebar('FIM_186',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\123.png" id="FIM_123" data-flag="@X" onclick="openSidebar('FIM_123',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="FIM_e" data-flag="@E" onclick="openSidebar('FIM_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="FIM_e" data-flag="@E" onclick="openSidebar('FIM_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="FIM_e" data-flag="@E" onclick="openSidebar('FIM_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\30.png" id="FIM_30" data-flag="@X" onclick="openSidebar('FIM_30',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="FIM_e" data-flag="@E" onclick="openSidebar('FIM_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="FIM_er" data-flag="@E" onclick="openSidebar('FIM_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="FIM_er" data-flag="@E" onclick="openSidebar('FIM_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="FIM_er" data-flag="@E" onclick="openSidebar('FIM_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="FIM_er" data-flag="@E" onclick="openSidebar('FIM_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="FIM_er" data-flag="@E" onclick="openSidebar('FIM_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\2.png" id="FIM_2" data-flag="@X" onclick="openSidebar('FIM_2',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\1.png" id="FIM_1" data-flag="@X" onclick="openSidebar('FIM_1',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\0.png" id="FIM_0" data-flag="@X" onclick="openSidebar('FIM_0',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\8.png" id="FIM_8" data-flag="@X" onclick="openSidebar('FIM_8',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\3.png" id="FIM_3" data-flag="@X" onclick="openSidebar('FIM_3',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\5.png" id="FIM_5" data-flag="@X" onclick="openSidebar('FIM_5',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\6.png" id="FIM_6" data-flag="@X" onclick="openSidebar('FIM_6',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\7.png" id="FIM_7" data-flag="@X" onclick="openSidebar('FIM_7',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\4.png" id="FIM_4" data-flag="@X" onclick="openSidebar('FIM_4',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\9.png" id="FIM_9" data-flag="@X" onclick="openSidebar('FIM_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\162.png" id="FIM_162" data-flag="@X" onclick="openSidebar('FIM_162',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\166.png" id="FIM_166" data-flag="@X" onclick="openSidebar('FIM_166',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\164.png" id="FIM_164" data-flag="@X" onclick="openSidebar('FIM_164',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\188.png" id="FIM_188" data-flag="@X" onclick="openSidebar('FIM_188',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\168.png" id="FIM_168" data-flag="@X" onclick="openSidebar('FIM_168',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\163.png" id="FIM_163" data-flag="@X" onclick="openSidebar('FIM_163',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\165.png" id="FIM_165" data-flag="@X" onclick="openSidebar('FIM_165',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\167.png" id="FIM_167" data-flag="@X" onclick="openSidebar('FIM_167',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\189.png" id="FIM_189" data-flag="@X" onclick="openSidebar('FIM_189',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\187.png" id="FIM_187" data-flag="@X" onclick="openSidebar('FIM_187',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="FIM_er" data-flag="@E" onclick="openSidebar('FIM_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="FIM_er" data-flag="@E" onclick="openSidebar('FIM_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="FIM_er" data-flag="@E" onclick="openSidebar('FIM_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="FIM_er" data-flag="@E" onclick="openSidebar('FIM_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\16.png" id="FIM_16" data-flag="@X" onclick="openSidebar('FIM_16',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\38.png" id="FIM_38" data-flag="@X" onclick="openSidebar('FIM_38',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\39.png" id="FIM_39" data-flag="@X" onclick="openSidebar('FIM_39',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\169.png" id="FIM_169" data-flag="@X" onclick="openSidebar('FIM_169',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\170.png" id="FIM_170" data-flag="@X" onclick="openSidebar('FIM_170',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="FIM_e" data-flag="@E" onclick="openSidebar('FIM_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="FIM_e" data-flag="@E" onclick="openSidebar('FIM_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="FIM_e" data-flag="@E" onclick="openSidebar('FIM_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="FIM_er" data-flag="@E" onclick="openSidebar('FIM_er',false)"></div>
@@ -301,11 +334,11 @@
 				<div class="container"><img loading="lazy" alt="img\er.png" id="FIM_er" data-flag="@E" onclick="openSidebar('FIM_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="FIM_er" data-flag="@E" onclick="openSidebar('FIM_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="FIM_er" data-flag="@E" onclick="openSidebar('FIM_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\15.png" id="FIM_15" data-flag="@X" onclick="openSidebar('FIM_15',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="FIM_e" data-flag="@E" onclick="openSidebar('FIM_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="FIM_e" data-flag="@E" onclick="openSidebar('FIM_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="FIM_e" data-flag="@E" onclick="openSidebar('FIM_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="FIM_e" data-flag="@E" onclick="openSidebar('FIM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\172.png" id="FIM_172" data-flag="@X" onclick="openSidebar('FIM_172',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\173.png" id="FIM_173" data-flag="@X" onclick="openSidebar('FIM_173',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\174.png" id="FIM_174" data-flag="@X" onclick="openSidebar('FIM_174',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\175.png" id="FIM_175" data-flag="@X" onclick="openSidebar('FIM_175',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FIM-files\img\176.png" id="FIM_176" data-flag="@X" onclick="openSidebar('FIM_176',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="FIM_er" data-flag="@E" onclick="openSidebar('FIM_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="FIM_er" data-flag="@E" onclick="openSidebar('FIM_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="FIM_er" data-flag="@E" onclick="openSidebar('FIM_er',false)"></div>
@@ -347,7 +380,7 @@
 					if (card.notes) {
 						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
 						for (const match of tagMatches) {
-							all_tags.add(match[1]);
+							all_tags.add(match[1].toLowerCase());
 						}
 					}
 				});

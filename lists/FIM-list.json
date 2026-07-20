@@ -1,0 +1,625 @@
+﻿[
+    {
+        "card_name": "Magic of Friendship (UNCOMMMON)",
+        "number": 55,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "bounce",
+        "number": 74,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "137"
+    },
+    {
+        "card_name": "card filter",
+        "number": 99,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "142"
+    },
+    {
+        "card_name": "backup",
+        "number": 124,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "150"
+    },
+    {
+        "card_name": "backuper",
+        "number": 149,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "158"
+    },
+    {
+        "card_name": "aaaa",
+        "number": 48,
+        "shape": "adventure",
+        "set": "FIM",
+        "rotated": false,
+        "position": "125"
+    },
+    {
+        "card_name": "Card draw creature",
+        "number": 75,
+        "shape": "adventure",
+        "set": "FIM",
+        "rotated": false,
+        "position": "130"
+    },
+    {
+        "card_name": "conditional big menace",
+        "number": 100,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "144"
+    },
+    {
+        "card_name": "backup 2",
+        "number": 125,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "151"
+    },
+    {
+        "card_name": "Bear w/ set mechanic",
+        "number": 150,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "156"
+    },
+    {
+        "card_name": "backup",
+        "number": 49,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "121"
+    },
+    {
+        "card_name": "cheap vigi",
+        "number": 76,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "132"
+    },
+    {
+        "card_name": "Deadly Precision",
+        "number": 101,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "190"
+    },
+    {
+        "card_name": "Blazing Kirin",
+        "number": 126,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "149"
+    },
+    {
+        "card_name": "bite",
+        "number": 151,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "180"
+    },
+    {
+        "card_name": "Banishing Light",
+        "number": 50,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "129"
+    },
+    {
+        "card_name": "counterspell",
+        "number": 77,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "136"
+    },
+    {
+        "card_name": "Deeproot Gravecaller",
+        "number": 102,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "141"
+    },
+    {
+        "card_name": "Burst Lightning",
+        "number": 127,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "182"
+    },
+    {
+        "card_name": "control reach creature",
+        "number": 152,
+        "shape": "adventure",
+        "set": "FIM",
+        "rotated": false,
+        "position": "157"
+    },
+    {
+        "card_name": "big flyer",
+        "number": 51,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "126"
+    },
+    {
+        "card_name": "draw",
+        "number": 78,
+        "shape": "battle split",
+        "set": "FIM",
+        "rotated": true,
+        "position": "138"
+    },
+    {
+        "card_name": "draw",
+        "number": 103,
+        "shape": "battle split",
+        "set": "FIM",
+        "rotated": true,
+        "position": "146"
+    },
+    {
+        "card_name": "Cunning Manuver",
+        "number": 128,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "153"
+    },
+    {
+        "card_name": "flying hate",
+        "number": 153,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "161"
+    },
+    {
+        "card_name": "combat tricky",
+        "number": 52,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "127"
+    },
+    {
+        "card_name": "Globeify",
+        "number": 79,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "139"
+    },
+    {
+        "card_name": "Fake Your Own Death",
+        "number": 104,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "148"
+    },
+    {
+        "card_name": "deal 4 w/ upside",
+        "number": 129,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "184"
+    },
+    {
+        "card_name": "Mana Dork",
+        "number": 154,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "155"
+    },
+    {
+        "card_name": "creature w/ friend yum",
+        "number": 53,
+        "shape": "battle split",
+        "set": "FIM",
+        "rotated": true,
+        "position": "124"
+    },
+    {
+        "card_name": "mid size flier",
+        "number": 80,
+        "shape": "adventure",
+        "set": "FIM",
+        "rotated": false,
+        "position": "135"
+    },
+    {
+        "card_name": "hard removal",
+        "number": 105,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "147"
+    },
+    {
+        "card_name": "draw",
+        "number": 130,
+        "shape": "battle split",
+        "set": "FIM",
+        "rotated": true,
+        "position": "154"
+    },
+    {
+        "card_name": "Prowling Timberwolf",
+        "number": 155,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "159"
+    },
+    {
+        "card_name": "guy",
+        "number": 54,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "122"
+    },
+    {
+        "card_name": "Outland Stormcaller",
+        "number": 81,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "131"
+    },
+    {
+        "card_name": "scary CREACHER",
+        "number": 106,
+        "shape": "adventure",
+        "set": "FIM",
+        "rotated": false,
+        "position": "145"
+    },
+    {
+        "card_name": "Outland Axebearer",
+        "number": 131,
+        "shape": "adventure",
+        "set": "FIM",
+        "rotated": false,
+        "position": "179"
+    },
+    {
+        "card_name": "ramp battle",
+        "number": 156,
+        "shape": "battle split",
+        "set": "FIM",
+        "rotated": true,
+        "position": "160"
+    },
+    {
+        "card_name": "My Little Ponies",
+        "number": 56,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "185"
+    },
+    {
+        "card_name": "prepare guy",
+        "number": 82,
+        "shape": "adventure",
+        "set": "FIM",
+        "rotated": false,
+        "position": "134"
+    },
+    {
+        "card_name": "scawy guy",
+        "number": 107,
+        "shape": "adventure",
+        "set": "FIM",
+        "rotated": false,
+        "position": "143"
+    },
+    {
+        "card_name": "trampler",
+        "number": 132,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "152"
+    },
+    {
+        "card_name": "Unicorn's Reversal",
+        "number": 157,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "181"
+    },
+    {
+        "card_name": "pacifism",
+        "number": 57,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "128"
+    },
+    {
+        "card_name": "Spell discounter",
+        "number": 83,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "133"
+    },
+    {
+        "card_name": "Token maker",
+        "number": 108,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "140"
+    },
+    {
+        "card_name": "Unruly Brewer",
+        "number": 133,
+        "shape": "adventure",
+        "set": "FIM",
+        "rotated": false,
+        "position": "178"
+    },
+    {
+        "card_name": "unite payoff offcolor",
+        "number": 158,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "186"
+    },
+    {
+        "card_name": "unite payoff",
+        "number": 58,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "123"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "wb hybrid 1",
+        "number": 177,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "162"
+    },
+    {
+        "card_name": "UR Hybrid 1",
+        "number": 174,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "166"
+    },
+    {
+        "card_name": "bg hybrid 1",
+        "number": 169,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "164"
+    },
+    {
+        "card_name": "rw hybrid 1",
+        "number": 171,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "188"
+    },
+    {
+        "card_name": "ur hybrid 1",
+        "number": 173,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "168"
+    },
+    {
+        "card_name": "wb hybrid 2",
+        "number": 178,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "163"
+    },
+    {
+        "card_name": "Ur hyrbid 2",
+        "number": 176,
+        "shape": "adventure",
+        "set": "FIM",
+        "rotated": false,
+        "position": "165"
+    },
+    {
+        "card_name": "bg hybrid 2",
+        "number": 170,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "167"
+    },
+    {
+        "card_name": "rw hybrid 2",
+        "number": 172,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "189"
+    },
+    {
+        "card_name": "ur hyrbdi 2",
+        "number": 175,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "187"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "land searcher",
+        "number": 33,
+        "shape": "battle split",
+        "set": "FIM",
+        "rotated": true,
+        "position": "169"
+    },
+    {
+        "card_name": "color fixer creature",
+        "number": 183,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "170"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "wb land",
+        "number": 190,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "172"
+    },
+    {
+        "card_name": "ur land",
+        "number": 189,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "173"
+    },
+    {
+        "card_name": "bg land",
+        "number": 185,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "174"
+    },
+    {
+        "card_name": "rw land",
+        "number": 186,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "175"
+    },
+    {
+        "card_name": "ug land",
+        "number": 188,
+        "shape": "normal",
+        "set": "FIM",
+        "rotated": false,
+        "position": "176"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

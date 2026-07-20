@@ -1,4 +1,127 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Magic of Friendship (UNCOMMMON) added.
+backup added.
+guy added.
+unite payoff added.
+creature w/ friend yum added.
+aaaa added.
+big flyer added.
+combat tricky added.
+pacifism added.
+Banishing Light added.
+Card draw creature added.
+Outland Stormcaller added.
+cheap vigi added.
+Spell discounter added.
+prepare guy added.
+mid size flier added.
+counterspell added.
+bounce added.
+draw added.
+Globeify added.
+Token maker added.
+Deeproot Gravecaller added.
+card filter added.
+scawy guy added.
+conditional big menace added.
+scary CREACHER added.
+draw added.
+hard removal added.
+Fake Your Own Death added.
+backup added.
+backup 2 added.
+trampler added.
+Cunning Manuver added.
+draw added.
+Mana Dork added.
+Bear w/ set mechanic added.
+control reach creature added.
+backuper added.
+Prowling Timberwolf added.
+ramp battle added.
+flying hate added.
+wb hybrid 1 added.
+wb hybrid 2 added.
+bg hybrid 1 added.
+Ur hyrbid 2 added.
+UR Hybrid 1 added.
+bg hybrid 2 added.
+ur hybrid 1 added.
+land searcher added.
+color fixer creature added.
+wb land added.
+ur land added.
+bg land added.
+rw land added.
+ug land added.
+bite added.
+Burst Lightning added.
+deal 4 w/ upside added.
+My Little Ponies added.
+unite payoff offcolor added.
+ur hyrbdi 2 added.
+rw hybrid 1 added.
+rw hybrid 2 added.
+Deadly Precision added.
+
+Insatiable Hivequeen removed.
+Nautila, Seapony removed.
+Sisters of Sun and Stars removed.
+Cris, Curious Changeling removed.
+Dauntless General removed.
+Winpeak Elites removed.
+Imperfect Artist removed.
+Cynical Hiveleader removed.
+Amber, On Fiery Wings removed.
+Mirthful Mailpony removed.
+Perfect Pal removed.
+Winpeak Messenger removed.
+Deeproot Soothsayer removed.
+Savage Descent removed.
+Perissian Valley removed.
+Sun Shrine removed.
+Badlands Druid removed.
+Inquisitive Cloudwatcher removed.
+Winpeak Defence removed.
+Precipice Roc removed.
+Aspiring Adventurer removed.
+Ancient of Wind removed.
+Shining Superstar removed.
+Lost in the Bramble removed.
+Grim Gravedancer removed.
+Changeling General removed.
+Clutches of Death removed.
+Torch removed.
+Kirin Trailblazer removed.
+Wandering Kirin removed.
+Ancient of Growth removed.
+Tentative Hivescout removed.
+Gallivanting Companions removed.
+Unfurling Identity removed.
+Unaware Employee removed.
+Crystal Tree removed.
+Wildlands Hunter removed.
+Demand Answers removed.
+Pursued by Timberwolves removed.
+Disguised Changeling removed.
+Gold, Perissian Queen removed.
+
+Blazing Kirin
+cost: {2}{R} => {1}{R}
+rules_text: Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Whenever this creature deals combat damage to a player or planeswalker, exile the top card of your library. You may play that card this turn. => Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent or a battle that player protects.
+pt: 2/2 => 2/1
+
+Unruly Brewer
+
+Outland Axebearer
+
+Unicorn's Reversal
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Insatiable Hivequeen added.
