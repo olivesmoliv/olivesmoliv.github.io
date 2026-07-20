@@ -1,4 +1,11 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+Magic of Friendship (UNCOMMMON) removed.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Magic of Friendship (UNCOMMMON) added.

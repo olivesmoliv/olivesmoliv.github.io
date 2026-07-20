@@ -1,0 +1,948 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "backup",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/121.png"
+			}
+		},
+		{
+			"name": "guy",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/122.png"
+			}
+		},
+		{
+			"name": "unite payoff",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/123.png"
+			}
+		},
+		{
+			"name": "creature w/ friend yum",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Battle — Problem",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/124.png"
+			}
+		},
+		{
+			"name": "aaaa",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/125.png"
+			}
+		},
+		{
+			"name": "big flyer",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/126.png"
+			}
+		},
+		{
+			"name": "combat tricky",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/127.png"
+			}
+		},
+		{
+			"name": "pacifism",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/128.png"
+			}
+		},
+		{
+			"name": "Banishing Light",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/129.png"
+			}
+		},
+		{
+			"name": "Card draw creature",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/130.png"
+			}
+		},
+		{
+			"name": "Outland Stormcaller",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Unicorn Wizard",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/131.png"
+			}
+		},
+		{
+			"name": "cheap vigi",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/132.png"
+			}
+		},
+		{
+			"name": "Spell discounter",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/133.png"
+			}
+		},
+		{
+			"name": "prepare guy",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/134.png"
+			}
+		},
+		{
+			"name": "mid size flier",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/135.png"
+			}
+		},
+		{
+			"name": "counterspell",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/136.png"
+			}
+		},
+		{
+			"name": "bounce",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/137.png"
+			}
+		},
+		{
+			"name": "draw",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Battle — Problem",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/138.png"
+			}
+		},
+		{
+			"name": "Globeify",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/139.png"
+			}
+		},
+		{
+			"name": "Token maker",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/140.png"
+			}
+		},
+		{
+			"name": "Deeproot Gravecaller",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/141.png"
+			}
+		},
+		{
+			"name": "card filter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/142.png"
+			}
+		},
+		{
+			"name": "scawy guy",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/143.png"
+			}
+		},
+		{
+			"name": "conditional big menace",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/144.png"
+			}
+		},
+		{
+			"name": "scary CREACHER",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Pegasus",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/145.png"
+			}
+		},
+		{
+			"name": "draw",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Battle — Problem",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/146.png"
+			}
+		},
+		{
+			"name": "hard removal",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/147.png"
+			}
+		},
+		{
+			"name": "Fake Your Own Death",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/148.png"
+			}
+		},
+		{
+			"name": "Blazing Kirin",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Kirin",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/149.png"
+			}
+		},
+		{
+			"name": "backup",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Pony",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/150.png"
+			}
+		},
+		{
+			"name": "backup 2",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/151.png"
+			}
+		},
+		{
+			"name": "trampler",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/152.png"
+			}
+		},
+		{
+			"name": "Cunning Manuver",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/153.png"
+			}
+		},
+		{
+			"name": "draw",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Battle — Problem",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/154.png"
+			}
+		},
+		{
+			"name": "Mana Dork",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/155.png"
+			}
+		},
+		{
+			"name": "Bear w/ set mechanic",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/156.png"
+			}
+		},
+		{
+			"name": "control reach creature",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/157.png"
+			}
+		},
+		{
+			"name": "backuper",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/158.png"
+			}
+		},
+		{
+			"name": "Prowling Timberwolf",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Plant Wolf",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/159.png"
+			}
+		},
+		{
+			"name": "ramp battle",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Battle — Problem",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/160.png"
+			}
+		},
+		{
+			"name": "flying hate",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/161.png"
+			}
+		},
+		{
+			"name": "wb hybrid 1",
+			"rarity": "common",
+			"mana_cost": "{W/B}",
+			"type": "Creature",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/162.png"
+			}
+		},
+		{
+			"name": "wb hybrid 2",
+			"rarity": "common",
+			"mana_cost": "{3}{W/B}",
+			"type": "Creature",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/163.png"
+			}
+		},
+		{
+			"name": "bg hybrid 1",
+			"rarity": "common",
+			"mana_cost": "{2}{B/G}",
+			"type": "Creature",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/164.png"
+			}
+		},
+		{
+			"name": "Ur hyrbid 2",
+			"rarity": "common",
+			"mana_cost": "{2}{U/R}",
+			"type": "Creature",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/165.png"
+			}
+		},
+		{
+			"name": "UR Hybrid 1",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}{U/R}",
+			"type": "Creature",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/166.png"
+			}
+		},
+		{
+			"name": "bg hybrid 2",
+			"rarity": "common",
+			"mana_cost": "{2}{B/G}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/167.png"
+			}
+		},
+		{
+			"name": "ur hybrid 1",
+			"rarity": "common",
+			"mana_cost": "{X}{G/U}",
+			"type": "Creature",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/168.png"
+			}
+		},
+		{
+			"name": "land searcher",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Battle — Problem",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/169.png"
+			}
+		},
+		{
+			"name": "color fixer creature",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/170.png"
+			}
+		},
+		{
+			"name": "wb land",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/172.png"
+			}
+		},
+		{
+			"name": "ur land",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/173.png"
+			}
+		},
+		{
+			"name": "bg land",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/174.png"
+			}
+		},
+		{
+			"name": "rw land",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/175.png"
+			}
+		},
+		{
+			"name": "ug land",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/176.png"
+			}
+		},
+		{
+			"name": "Unruly Brewer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Unicorn Wizard",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/178.png"
+			}
+		},
+		{
+			"name": "Outland Axebearer",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Pony Warrior",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/179.png"
+			}
+		},
+		{
+			"name": "bite",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/180.png"
+			}
+		},
+		{
+			"name": "Unicorn's Reversal",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/181.png"
+			}
+		},
+		{
+			"name": "Burst Lightning",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/182.png"
+			}
+		},
+		{
+			"name": "deal 4 w/ upside",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/184.png"
+			}
+		},
+		{
+			"name": "My Little Ponies",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/185.png"
+			}
+		},
+		{
+			"name": "unite payoff offcolor",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/186.png"
+			}
+		},
+		{
+			"name": "ur hyrbdi 2",
+			"rarity": "common",
+			"mana_cost": "{1}{G/U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/187.png"
+			}
+		},
+		{
+			"name": "rw hybrid 1",
+			"rarity": "common",
+			"mana_cost": "{4}{R/W}",
+			"type": "Creature",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/188.png"
+			}
+		},
+		{
+			"name": "rw hybrid 2",
+			"rarity": "common",
+			"mana_cost": "{3}{R/W}",
+			"type": "",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/189.png"
+			}
+		},
+		{
+			"name": "Deadly Precision",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://oliveingit.github.io/sets/FIM-files/img/190.png"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(3)]
+[common(6)]
+	8 backup
+	8 guy
+	8 unite payoff
+	8 creature w/ friend yum
+	8 aaaa
+	8 big flyer
+	8 combat tricky
+	8 pacifism
+	8 Banishing Light
+	8 Card draw creature
+	8 Outland Stormcaller
+	8 cheap vigi
+	8 Spell discounter
+	8 prepare guy
+	8 mid size flier
+	8 counterspell
+	8 bounce
+	8 draw
+	8 Globeify
+	8 Token maker
+	8 Deeproot Gravecaller
+	8 card filter
+	8 scawy guy
+	8 conditional big menace
+	8 scary CREACHER
+	8 draw
+	8 hard removal
+	8 Fake Your Own Death
+	8 Blazing Kirin
+	8 backup
+	8 backup 2
+	8 trampler
+	8 Cunning Manuver
+	8 draw
+	8 Mana Dork
+	8 Bear w/ set mechanic
+	8 control reach creature
+	8 backuper
+	8 Prowling Timberwolf
+	8 ramp battle
+	8 flying hate
+	8 wb hybrid 1
+	8 wb hybrid 2
+	8 bg hybrid 1
+	8 Ur hyrbid 2
+	8 UR Hybrid 1
+	8 bg hybrid 2
+	8 ur hybrid 1
+	8 land searcher
+	8 color fixer creature
+	8 wb land
+	8 ur land
+	8 bg land
+	8 rw land
+	8 ug land
+	8 Unruly Brewer
+	8 Outland Axebearer
+	8 bite
+	8 Unicorn's Reversal
+	8 Burst Lightning
+	8 deal 4 w/ upside
+	8 My Little Ponies
+	8 unite payoff offcolor
+	8 ur hyrbdi 2
+	8 rw hybrid 1
+	8 rw hybrid 2
+	8 Deadly Precision
+[common | masterpiece(1)]
+	8 backup
+	8 guy
+	8 unite payoff
+	8 creature w/ friend yum
+	8 aaaa
+	8 big flyer
+	8 combat tricky
+	8 pacifism
+	8 Banishing Light
+	8 Card draw creature
+	8 Outland Stormcaller
+	8 cheap vigi
+	8 Spell discounter
+	8 prepare guy
+	8 mid size flier
+	8 counterspell
+	8 bounce
+	8 draw
+	8 Globeify
+	8 Token maker
+	8 Deeproot Gravecaller
+	8 card filter
+	8 scawy guy
+	8 conditional big menace
+	8 scary CREACHER
+	8 draw
+	8 hard removal
+	8 Fake Your Own Death
+	8 Blazing Kirin
+	8 backup
+	8 backup 2
+	8 trampler
+	8 Cunning Manuver
+	8 draw
+	8 Mana Dork
+	8 Bear w/ set mechanic
+	8 control reach creature
+	8 backuper
+	8 Prowling Timberwolf
+	8 ramp battle
+	8 flying hate
+	8 wb hybrid 1
+	8 wb hybrid 2
+	8 bg hybrid 1
+	8 Ur hyrbid 2
+	8 UR Hybrid 1
+	8 bg hybrid 2
+	8 ur hybrid 1
+	8 land searcher
+	8 color fixer creature
+	8 wb land
+	8 ur land
+	8 bg land
+	8 rw land
+	8 ug land
+	8 Unruly Brewer
+	8 Outland Axebearer
+	8 bite
+	8 Unicorn's Reversal
+	8 Burst Lightning
+	8 deal 4 w/ upside
+	8 My Little Ponies
+	8 unite payoff offcolor
+	8 ur hyrbdi 2
+	8 rw hybrid 1
+	8 rw hybrid 2
+	8 Deadly Precision
+[foil(1)]
+	12 backup
+	12 guy
+	12 unite payoff
+	12 creature w/ friend yum
+	12 aaaa
+	12 big flyer
+	12 combat tricky
+	12 pacifism
+	12 Banishing Light
+	12 Card draw creature
+	12 Outland Stormcaller
+	12 cheap vigi
+	12 Spell discounter
+	12 prepare guy
+	12 mid size flier
+	12 counterspell
+	12 bounce
+	12 draw
+	12 Globeify
+	12 Token maker
+	12 Deeproot Gravecaller
+	12 card filter
+	12 scawy guy
+	12 conditional big menace
+	12 scary CREACHER
+	12 draw
+	12 hard removal
+	12 Fake Your Own Death
+	12 Blazing Kirin
+	12 backup
+	12 backup 2
+	12 trampler
+	12 Cunning Manuver
+	12 draw
+	12 Mana Dork
+	12 Bear w/ set mechanic
+	12 control reach creature
+	12 backuper
+	12 Prowling Timberwolf
+	12 ramp battle
+	12 flying hate
+	12 wb hybrid 1
+	12 wb hybrid 2
+	12 bg hybrid 1
+	12 Ur hyrbid 2
+	12 UR Hybrid 1
+	12 bg hybrid 2
+	12 ur hybrid 1
+	12 land searcher
+	12 color fixer creature
+	12 wb land
+	12 ur land
+	12 bg land
+	12 rw land
+	12 ug land
+	12 Unruly Brewer
+	12 Outland Axebearer
+	12 bite
+	12 Unicorn's Reversal
+	12 Burst Lightning
+	12 deal 4 w/ upside
+	12 My Little Ponies
+	12 unite payoff offcolor
+	12 ur hyrbdi 2
+	12 rw hybrid 1
+	12 rw hybrid 2
+	12 Deadly Precision
+[wildcard(1)]
+	6 backup
+	6 guy
+	6 unite payoff
+	6 creature w/ friend yum
+	6 aaaa
+	6 big flyer
+	6 combat tricky
+	6 pacifism
+	6 Banishing Light
+	6 Card draw creature
+	6 Outland Stormcaller
+	6 cheap vigi
+	6 Spell discounter
+	6 prepare guy
+	6 mid size flier
+	6 counterspell
+	6 bounce
+	6 draw
+	6 Globeify
+	6 Token maker
+	6 Deeproot Gravecaller
+	6 card filter
+	6 scawy guy
+	6 conditional big menace
+	6 scary CREACHER
+	6 draw
+	6 hard removal
+	6 Fake Your Own Death
+	6 Blazing Kirin
+	6 backup
+	6 backup 2
+	6 trampler
+	6 Cunning Manuver
+	6 draw
+	6 Mana Dork
+	6 Bear w/ set mechanic
+	6 control reach creature
+	6 backuper
+	6 Prowling Timberwolf
+	6 ramp battle
+	6 flying hate
+	6 wb hybrid 1
+	6 wb hybrid 2
+	6 bg hybrid 1
+	6 Ur hyrbid 2
+	6 UR Hybrid 1
+	6 bg hybrid 2
+	6 ur hybrid 1
+	6 land searcher
+	6 color fixer creature
+	6 wb land
+	6 ur land
+	6 bg land
+	6 rw land
+	6 ug land
+	6 Unruly Brewer
+	6 Outland Axebearer
+	6 bite
+	6 Unicorn's Reversal
+	6 Burst Lightning
+	6 deal 4 w/ upside
+	6 My Little Ponies
+	6 unite payoff offcolor
+	6 ur hyrbdi 2
+	6 rw hybrid 1
+	6 rw hybrid 2
+	6 Deadly Precision
