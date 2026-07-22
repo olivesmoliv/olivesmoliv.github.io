@@ -1,4 +1,150 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Perfect Pair added.
+Outland Tamer added.
+Winpeak Talekeepers added.
+Alicorn Awakening added.
+Endless Iteration added.
+Aspiring Adventurer added.
+Nomadic Hatcher added.
+Deepsea Delver added.
+Imperfect Artist added.
+Courageous Intervention added.
+Serpentine Encounter added.
+Plagued Pony added.
+Deepgrove Gravecaller added.
+Sardonic Recluse added.
+Disguised Changeling added.
+Queen's Executioner added.
+Predatory Night-lurker added.
+Ursa Encounter added.
+Deadly Extortion added.
+Saved by the Stars added.
+Rallied Radiers added.
+reflavor? added.
+Winpeak Soldier added.
+Kirin Exile added.
+Lavish Campaigner added.
+Wayfaring Kirin added.
+Deepgrove Hunter added.
+Ancients of Growth added.
+Lost in Deepgrove added.
+Deepgrove Impersonator added.
+Swift Skyhunter added.
+Changeling Commander added.
+Illusive Peacock added.
+Splatterhoof Kirin added.
+Hive Scouting added.
+Deepgrove Hydra added.
+Evolving Wilds added.
+Volatile Peak added.
+Changeling Nest added.
+Deepgrove Center added.
+Perissian Tales added.
+Perilous Descent added.
+Embers of Emotion added.
+Outland Yakrider added.
+Outskirt Scouts added.
+Windborne Kirin added.
+Death's Clutches added.
+Unaware Employee added.
+
+guy removed.
+unite payoff removed.
+aaaa removed.
+combat tricky removed.
+pacifism removed.
+Card draw creature removed.
+cheap vigi removed.
+prepare guy removed.
+mid size flier removed.
+counterspell removed.
+draw removed.
+Token maker removed.
+Deeproot Gravecaller removed.
+card filter removed.
+scawy guy removed.
+conditional big menace removed.
+scary CREACHER removed.
+draw removed.
+hard removal removed.
+Fake Your Own Death removed.
+backup removed.
+backup 2 removed.
+trampler removed.
+draw removed.
+Mana Dork removed.
+Bear w/ set mechanic removed.
+control reach creature removed.
+backuper removed.
+ramp battle removed.
+wb hybrid 1 removed.
+wb hybrid 2 removed.
+bg hybrid 1 removed.
+Ur hyrbid 2 removed.
+UR Hybrid 1 removed.
+bg hybrid 2 removed.
+ur hybrid 1 removed.
+color fixer creature removed.
+ur land removed.
+bg land removed.
+ug land removed.
+bite removed.
+deal 4 w/ upside removed.
+unite payoff offcolor removed.
+rw hybrid 1 removed.
+rw hybrid 2 removed.
+Deadly Precision removed.
+
+backup
+
+creature w/ friend yum
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this battle enters or is defeated, create two 1/1 red Type creature tokens. => [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this battle enters or is defeated, create two 1/1 white Pony creature tokens.
+
+big flyer
+
+Banishing Light
+
+Outland Stormcaller
+
+Spell discounter
+type: Creature => Creature — Unicorn
+
+bounce
+
+Globeify
+
+Blazing Kirin
+
+Cunning Manuver
+
+Prowling Timberwolf
+
+flying hate
+
+land searcher
+
+wb land
+
+rw land
+
+Unruly Brewer
+
+Outland Axebearer
+
+Unicorn's Reversal
+
+Burst Lightning
+
+My Little Ponies
+
+ur hyrbdi 2
+
+
+VERSION 5 CHANGELOG
 ====================
 
 
