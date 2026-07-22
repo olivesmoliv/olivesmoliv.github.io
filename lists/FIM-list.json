@@ -9,19 +9,19 @@
     },
     {
         "card_name": "Aspiring Adventurer",
-        "number": 66,
+        "number": 65,
         "shape": "adventure",
         "set": "FIM",
         "rotated": false,
         "position": "125"
     },
     {
-        "card_name": "Deadly Extortion",
+        "card_name": "big removal",
         "number": 93,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "142"
+        "position": "188"
     },
     {
         "card_name": "Blazing Kirin",
@@ -29,7 +29,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "144"
+        "position": "142"
     },
     {
         "card_name": "Ancients of Growth",
@@ -37,7 +37,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "153"
+        "position": "149"
     },
     {
         "card_name": "backup",
@@ -49,7 +49,7 @@
     },
     {
         "card_name": "bounce",
-        "number": 67,
+        "number": 66,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
@@ -61,7 +61,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "184"
+        "position": "179"
     },
     {
         "card_name": "Burst Lightning",
@@ -69,7 +69,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "176"
+        "position": "171"
     },
     {
         "card_name": "Deepgrove Hunter",
@@ -77,7 +77,7 @@
         "shape": "adventure",
         "set": "FIM",
         "rotated": false,
-        "position": "152"
+        "position": "148"
     },
     {
         "card_name": "Banishing Light",
@@ -89,7 +89,7 @@
     },
     {
         "card_name": "Courageous Intervention",
-        "number": 69,
+        "number": 68,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
@@ -101,15 +101,15 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "136"
+        "position": "135"
     },
     {
-        "card_name": "Cunning Manuver",
-        "number": 121,
+        "card_name": "Embers of Emotion",
+        "number": 122,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "148"
+        "position": "173"
     },
     {
         "card_name": "flying hate",
@@ -117,7 +117,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "156"
+        "position": "152"
     },
     {
         "card_name": "big flyer",
@@ -129,7 +129,7 @@
     },
     {
         "card_name": "Deepsea Delver",
-        "number": 70,
+        "number": 69,
         "shape": "adventure",
         "set": "FIM",
         "rotated": false,
@@ -141,15 +141,15 @@
         "shape": "adventure",
         "set": "FIM",
         "rotated": false,
-        "position": "138"
+        "position": "137"
     },
     {
-        "card_name": "Embers of Emotion",
+        "card_name": "first strike trick",
         "number": 123,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "178"
+        "position": "190"
     },
     {
         "card_name": "Lavish Campaigner",
@@ -157,7 +157,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "150"
+        "position": "146"
     },
     {
         "card_name": "creature w/ friend yum",
@@ -168,12 +168,12 @@
         "position": "119"
     },
     {
-        "card_name": "Globeify",
-        "number": 74,
-        "shape": "normal",
+        "card_name": "Imperfect Artist",
+        "number": 73,
+        "shape": "adventure",
         "set": "FIM",
         "rotated": false,
-        "position": "134"
+        "position": "130"
     },
     {
         "card_name": "Plagued Pony",
@@ -181,7 +181,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "135"
+        "position": "134"
     },
     {
         "card_name": "Kirin Exile",
@@ -189,7 +189,7 @@
         "shape": "battle split",
         "set": "FIM",
         "rotated": true,
-        "position": "149"
+        "position": "145"
     },
     {
         "card_name": "Lost in Deepgrove",
@@ -197,7 +197,7 @@
         "shape": "battle split",
         "set": "FIM",
         "rotated": true,
-        "position": "155"
+        "position": "151"
     },
     {
         "card_name": "Endless Iteration",
@@ -208,12 +208,12 @@
         "position": "123"
     },
     {
-        "card_name": "Imperfect Artist",
-        "number": 75,
-        "shape": "adventure",
+        "card_name": "Nomadic Hatcher",
+        "number": 76,
+        "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "130"
+        "position": "127"
     },
     {
         "card_name": "Predatory Night-lurker",
@@ -221,15 +221,15 @@
         "shape": "adventure",
         "set": "FIM",
         "rotated": false,
-        "position": "140"
+        "position": "139"
     },
     {
-        "card_name": "Outland Axebearer",
+        "card_name": "mass pumper",
         "number": 126,
         "shape": "adventure",
         "set": "FIM",
         "rotated": false,
-        "position": "173"
+        "position": "189"
     },
     {
         "card_name": "Outland Yakrider",
@@ -237,7 +237,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "180"
+        "position": "175"
     },
     {
         "card_name": "My Little Ponies",
@@ -245,15 +245,15 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "179"
+        "position": "174"
     },
     {
-        "card_name": "Nomadic Hatcher",
-        "number": 78,
-        "shape": "normal",
+        "card_name": "Serpentine Encounter",
+        "number": 77,
+        "shape": "battle split",
         "set": "FIM",
-        "rotated": false,
-        "position": "127"
+        "rotated": true,
+        "position": "133"
     },
     {
         "card_name": "Queen's Executioner",
@@ -261,15 +261,15 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "139"
+        "position": "138"
     },
     {
-        "card_name": "Rallied Radiers",
+        "card_name": "Outland Axebearer",
         "number": 127,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "FIM",
         "rotated": false,
-        "position": "145"
+        "position": "168"
     },
     {
         "card_name": "Perilous Descent",
@@ -277,7 +277,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "174"
+        "position": "169"
     },
     {
         "card_name": "Outland Tamer",
@@ -288,28 +288,28 @@
         "position": "118"
     },
     {
-        "card_name": "Outland Stormcaller",
-        "number": 79,
+        "card_name": "Small flyer",
+        "number": 78,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "126"
+        "position": "187"
     },
     {
-        "card_name": "Sardonic Recluse",
+        "card_name": "Sardonic Recluse (reart)",
         "number": 104,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "137"
+        "position": "136"
     },
     {
-        "card_name": "reflavor?",
+        "card_name": "Rallied Radiers",
         "number": 128,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "146"
+        "position": "143"
     },
     {
         "card_name": "Prowling Timberwolf",
@@ -317,7 +317,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "154"
+        "position": "150"
     },
     {
         "card_name": "Perfect Pair",
@@ -328,12 +328,12 @@
         "position": "117"
     },
     {
-        "card_name": "Serpentine Encounter",
-        "number": 80,
-        "shape": "battle split",
+        "card_name": "Spell discounter",
+        "number": 79,
+        "shape": "normal",
         "set": "FIM",
-        "rotated": true,
-        "position": "133"
+        "rotated": false,
+        "position": "128"
     },
     {
         "card_name": "Saved by the Stars",
@@ -341,7 +341,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "143"
+        "position": "141"
     },
     {
         "card_name": "Unruly Brewer",
@@ -349,7 +349,7 @@
         "shape": "adventure",
         "set": "FIM",
         "rotated": false,
-        "position": "172"
+        "position": "167"
     },
     {
         "card_name": "Unicorn's Reversal",
@@ -357,7 +357,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "175"
+        "position": "170"
     },
     {
         "card_name": "Winpeak Talekeepers",
@@ -368,12 +368,12 @@
         "position": "120"
     },
     {
-        "card_name": "Spell discounter",
-        "number": 81,
+        "card_name": "tuck + COUNTER",
+        "number": 80,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "128"
+        "position": "186"
     },
     {
         "card_name": "Ursa Encounter",
@@ -381,7 +381,7 @@
         "shape": "battle split",
         "set": "FIM",
         "rotated": true,
-        "position": "141"
+        "position": "140"
     },
     {
         "card_name": "Winpeak Soldier",
@@ -389,7 +389,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "147"
+        "position": "144"
     },
     {
         "card_name": "Wayfaring Kirin",
@@ -397,7 +397,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "151"
+        "position": "147"
     },
     {
         "card_name": "er"
@@ -420,7 +420,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "157"
+        "position": "153"
     },
     {
         "card_name": "Illusive Peacock",
@@ -428,7 +428,7 @@
         "shape": "adventure",
         "set": "FIM",
         "rotated": false,
-        "position": "160"
+        "position": "156"
     },
     {
         "card_name": "Changeling Commander",
@@ -436,15 +436,15 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "159"
+        "position": "155"
     },
     {
         "card_name": "Outskirt Scouts",
-        "number": 175,
+        "number": 176,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "182"
+        "position": "177"
     },
     {
         "card_name": "Deepgrove Hydra",
@@ -452,7 +452,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "163"
+        "position": "158"
     },
     {
         "card_name": "Swift Skyhunter",
@@ -460,15 +460,15 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "158"
+        "position": "154"
     },
     {
-        "card_name": "Splatterhoof Kirin",
-        "number": 176,
-        "shape": "normal",
+        "card_name": "Outland Stormcaller",
+        "number": 175,
+        "shape": "adventure",
         "set": "FIM",
         "rotated": false,
-        "position": "161"
+        "position": "126"
     },
     {
         "card_name": "Hive Scouting",
@@ -476,7 +476,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "162"
+        "position": "157"
     },
     {
         "card_name": "Windborne Kirin",
@@ -484,15 +484,15 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "183"
+        "position": "178"
     },
     {
-        "card_name": "ur hyrbdi 2",
+        "card_name": "ug hyrbdi 2",
         "number": 178,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "181"
+        "position": "176"
     },
     {
         "card_name": "er"
@@ -513,7 +513,7 @@
         "shape": "battle split",
         "set": "FIM",
         "rotated": true,
-        "position": "164"
+        "position": "159"
     },
     {
         "card_name": "Unaware Employee",
@@ -521,7 +521,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "190"
+        "position": "185"
     },
     {
         "card_name": "e"
@@ -553,7 +553,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "166"
+        "position": "161"
     },
     {
         "card_name": "Volatile Peak",
@@ -561,7 +561,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "167"
+        "position": "162"
     },
     {
         "card_name": "Changeling Nest",
@@ -569,7 +569,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "168"
+        "position": "163"
     },
     {
         "card_name": "rw land",
@@ -577,7 +577,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "169"
+        "position": "164"
     },
     {
         "card_name": "Deepgrove Center",
@@ -585,7 +585,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "170"
+        "position": "165"
     },
     {
         "card_name": "er"
@@ -608,7 +608,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "165"
+        "position": "160"
     },
     {
         "card_name": "e"
@@ -641,7 +641,7 @@
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
-        "position": "171"
+        "position": "166"
     },
     {
         "card_name": "e"

@@ -95,7 +95,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Pony",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/125.png"
 			}
@@ -103,9 +103,9 @@
 		{
 			"name": "Outland Stormcaller",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{1}{U/R}",
 			"type": "Creature — Unicorn Wizard",
-			"collector_number": "79",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/126.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature",
-			"collector_number": "78",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/127.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Unicorn",
-			"collector_number": "81",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/128.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Merfolk",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/129.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Pegasus",
-			"collector_number": "75",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/130.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/131.png"
 			}
@@ -164,8 +164,8 @@
 			"name": "bounce",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Instant",
-			"collector_number": "67",
+			"type": "Sorcery",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/132.png"
 			}
@@ -175,19 +175,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Battle — Problem",
-			"collector_number": "80",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/133.png"
-			}
-		},
-		{
-			"name": "Globeify",
-			"rarity": "common",
-			"mana_cost": "{U}",
-			"type": "Enchantment — Aura",
-			"collector_number": "74",
-			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/134.png"
 			}
 		},
 		{
@@ -197,7 +187,7 @@
 			"type": "Creature — Pony",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/135.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/134.png"
 			}
 		},
 		{
@@ -207,17 +197,17 @@
 			"type": "Creature — Pony Warlock",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/136.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/135.png"
 			}
 		},
 		{
-			"name": "Sardonic Recluse",
+			"name": "Sardonic Recluse (reart)",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Unicorn Warlock",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/137.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/136.png"
 			}
 		},
 		{
@@ -227,7 +217,7 @@
 			"type": "Creature — Shapeshifter",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/138.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/137.png"
 			}
 		},
 		{
@@ -237,7 +227,7 @@
 			"type": "Creature — Shapeshifter Warrior",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/139.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/138.png"
 			}
 		},
 		{
@@ -247,7 +237,7 @@
 			"type": "Creature — Pegasus Vampire",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/140.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/139.png"
 			}
 		},
 		{
@@ -257,17 +247,7 @@
 			"type": "Battle — Problem",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/141.png"
-			}
-		},
-		{
-			"name": "Deadly Extortion",
-			"rarity": "common",
-			"mana_cost": "{2}{B}{B}",
-			"type": "Instant",
-			"collector_number": "93",
-			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/142.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/140.png"
 			}
 		},
 		{
@@ -277,7 +257,7 @@
 			"type": "Instant",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/143.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/141.png"
 			}
 		},
 		{
@@ -287,7 +267,7 @@
 			"type": "Creature — Kirin",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/144.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/142.png"
 			}
 		},
 		{
@@ -295,19 +275,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Pony",
-			"collector_number": "127",
-			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/145.png"
-			}
-		},
-		{
-			"name": "reflavor?",
-			"rarity": "common",
-			"mana_cost": "{3}{R}",
-			"type": "Creature — Kirin",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/146.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/143.png"
 			}
 		},
 		{
@@ -317,17 +287,7 @@
 			"type": "Creature — Unicorn Soldier",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/147.png"
-			}
-		},
-		{
-			"name": "Cunning Manuver",
-			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Instant",
-			"collector_number": "121",
-			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/148.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/144.png"
 			}
 		},
 		{
@@ -337,7 +297,7 @@
 			"type": "Battle — Problem",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/149.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/145.png"
 			}
 		},
 		{
@@ -347,7 +307,7 @@
 			"type": "Creature",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/150.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/146.png"
 			}
 		},
 		{
@@ -357,7 +317,7 @@
 			"type": "Creature — Kirin",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/151.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/147.png"
 			}
 		},
 		{
@@ -367,7 +327,7 @@
 			"type": "Creature — Unicorn Archer",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/152.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/148.png"
 			}
 		},
 		{
@@ -377,7 +337,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/153.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/149.png"
 			}
 		},
 		{
@@ -387,7 +347,7 @@
 			"type": "Creature — Plant Wolf",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/154.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/150.png"
 			}
 		},
 		{
@@ -397,7 +357,7 @@
 			"type": "Battle — Problem",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/155.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/151.png"
 			}
 		},
 		{
@@ -407,7 +367,7 @@
 			"type": "Sorcery",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/156.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/152.png"
 			}
 		},
 		{
@@ -417,7 +377,7 @@
 			"type": "Creature — Shapeshifter",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/157.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/153.png"
 			}
 		},
 		{
@@ -427,7 +387,7 @@
 			"type": "Creature — Vampire Pegasus",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/158.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/154.png"
 			}
 		},
 		{
@@ -437,7 +397,7 @@
 			"type": "Creature — Shapeshifter",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/159.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/155.png"
 			}
 		},
 		{
@@ -447,17 +407,7 @@
 			"type": "Creature — Bird Chimera",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/160.png"
-			}
-		},
-		{
-			"name": "Splatterhoof Kirin",
-			"rarity": "common",
-			"mana_cost": "{1}{U/R}{U/R}",
-			"type": "Creature — Kirin",
-			"collector_number": "176",
-			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/161.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/156.png"
 			}
 		},
 		{
@@ -467,7 +417,7 @@
 			"type": "Sorcery",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/162.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/157.png"
 			}
 		},
 		{
@@ -477,7 +427,7 @@
 			"type": "Creature — Hydra",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/163.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/158.png"
 			}
 		},
 		{
@@ -487,7 +437,7 @@
 			"type": "Battle — Problem",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/164.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/159.png"
 			}
 		},
 		{
@@ -497,7 +447,7 @@
 			"type": "Land",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/165.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/160.png"
 			}
 		},
 		{
@@ -507,7 +457,7 @@
 			"type": "Land",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/166.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/161.png"
 			}
 		},
 		{
@@ -517,7 +467,7 @@
 			"type": "Land",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/167.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/162.png"
 			}
 		},
 		{
@@ -527,7 +477,7 @@
 			"type": "Land",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/168.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/163.png"
 			}
 		},
 		{
@@ -537,7 +487,7 @@
 			"type": "Land",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/169.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/164.png"
 			}
 		},
 		{
@@ -547,7 +497,7 @@
 			"type": "Land",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/170.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/165.png"
 			}
 		},
 		{
@@ -557,7 +507,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/171.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/166.png"
 			}
 		},
 		{
@@ -567,7 +517,7 @@
 			"type": "Creature — Unicorn Wizard",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/172.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/167.png"
 			}
 		},
 		{
@@ -575,9 +525,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Pony Warrior",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/173.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/168.png"
 			}
 		},
 		{
@@ -587,7 +537,7 @@
 			"type": "Instant",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/174.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/169.png"
 			}
 		},
 		{
@@ -597,7 +547,7 @@
 			"type": "Instant",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/175.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/170.png"
 			}
 		},
 		{
@@ -607,7 +557,7 @@
 			"type": "Instant",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/176.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/171.png"
 			}
 		},
 		{
@@ -615,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "123",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/178.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/173.png"
 			}
 		},
 		{
@@ -627,7 +577,7 @@
 			"type": "Instant",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/179.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/174.png"
 			}
 		},
 		{
@@ -637,17 +587,17 @@
 			"type": "Creature — Pony Warrior",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/180.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/175.png"
 			}
 		},
 		{
-			"name": "ur hyrbdi 2",
+			"name": "ug hyrbdi 2",
 			"rarity": "common",
 			"mana_cost": "{1}{G/U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/181.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/176.png"
 			}
 		},
 		{
@@ -655,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R/W}",
 			"type": "Creature — Zebra Scout",
-			"collector_number": "175",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/182.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/177.png"
 			}
 		},
 		{
@@ -667,17 +617,17 @@
 			"type": "Creature — Kirin",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/183.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/178.png"
 			}
 		},
 		{
 			"name": "Death's Clutches",
 			"rarity": "common",
-			"mana_cost": "{B}",
-			"type": "Sorcery",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/184.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/179.png"
 			}
 		},
 		{
@@ -686,6 +636,56 @@
 			"mana_cost": "{2}",
 			"type": "Creature — Pony Employee",
 			"collector_number": "31",
+			"image_uris": {
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/185.png"
+			}
+		},
+		{
+			"name": "tuck + COUNTER",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/186.png"
+			}
+		},
+		{
+			"name": "Small flyer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/187.png"
+			}
+		},
+		{
+			"name": "big removal",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/188.png"
+			}
+		},
+		{
+			"name": "mass pumper",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "creature",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/189.png"
+			}
+		},
+		{
+			"name": "first strike trick",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/190.png"
 			}
@@ -713,21 +713,17 @@
 	8 Courageous Intervention
 	8 bounce
 	8 Serpentine Encounter
-	8 Globeify
 	8 Plagued Pony
 	8 Deepgrove Gravecaller
-	8 Sardonic Recluse
+	8 Sardonic Recluse (reart)
 	8 Disguised Changeling
 	8 Queen's Executioner
 	8 Predatory Night-lurker
 	8 Ursa Encounter
-	8 Deadly Extortion
 	8 Saved by the Stars
 	8 Blazing Kirin
 	8 Rallied Radiers
-	8 reflavor?
 	8 Winpeak Soldier
-	8 Cunning Manuver
 	8 Kirin Exile
 	8 Lavish Campaigner
 	8 Wayfaring Kirin
@@ -740,7 +736,6 @@
 	8 Swift Skyhunter
 	8 Changeling Commander
 	8 Illusive Peacock
-	8 Splatterhoof Kirin
 	8 Hive Scouting
 	8 Deepgrove Hydra
 	8 land searcher
@@ -758,11 +753,16 @@
 	8 Embers of Emotion
 	8 My Little Ponies
 	8 Outland Yakrider
-	8 ur hyrbdi 2
+	8 ug hyrbdi 2
 	8 Outskirt Scouts
 	8 Windborne Kirin
 	8 Death's Clutches
 	8 Unaware Employee
+	8 tuck + COUNTER
+	8 Small flyer
+	8 big removal
+	8 mass pumper
+	8 first strike trick
 [common | masterpiece(1)]
 	8 backup
 	8 Perfect Pair
@@ -782,21 +782,17 @@
 	8 Courageous Intervention
 	8 bounce
 	8 Serpentine Encounter
-	8 Globeify
 	8 Plagued Pony
 	8 Deepgrove Gravecaller
-	8 Sardonic Recluse
+	8 Sardonic Recluse (reart)
 	8 Disguised Changeling
 	8 Queen's Executioner
 	8 Predatory Night-lurker
 	8 Ursa Encounter
-	8 Deadly Extortion
 	8 Saved by the Stars
 	8 Blazing Kirin
 	8 Rallied Radiers
-	8 reflavor?
 	8 Winpeak Soldier
-	8 Cunning Manuver
 	8 Kirin Exile
 	8 Lavish Campaigner
 	8 Wayfaring Kirin
@@ -809,7 +805,6 @@
 	8 Swift Skyhunter
 	8 Changeling Commander
 	8 Illusive Peacock
-	8 Splatterhoof Kirin
 	8 Hive Scouting
 	8 Deepgrove Hydra
 	8 land searcher
@@ -828,11 +823,16 @@
 	8 Embers of Emotion
 	8 My Little Ponies
 	8 Outland Yakrider
-	8 ur hyrbdi 2
+	8 ug hyrbdi 2
 	8 Outskirt Scouts
 	8 Windborne Kirin
 	8 Death's Clutches
 	8 Unaware Employee
+	8 tuck + COUNTER
+	8 Small flyer
+	8 big removal
+	8 mass pumper
+	8 first strike trick
 [foil(1)]
 	12 backup
 	12 Perfect Pair
@@ -852,21 +852,17 @@
 	12 Courageous Intervention
 	12 bounce
 	12 Serpentine Encounter
-	12 Globeify
 	12 Plagued Pony
 	12 Deepgrove Gravecaller
-	12 Sardonic Recluse
+	12 Sardonic Recluse (reart)
 	12 Disguised Changeling
 	12 Queen's Executioner
 	12 Predatory Night-lurker
 	12 Ursa Encounter
-	12 Deadly Extortion
 	12 Saved by the Stars
 	12 Blazing Kirin
 	12 Rallied Radiers
-	12 reflavor?
 	12 Winpeak Soldier
-	12 Cunning Manuver
 	12 Kirin Exile
 	12 Lavish Campaigner
 	12 Wayfaring Kirin
@@ -879,7 +875,6 @@
 	12 Swift Skyhunter
 	12 Changeling Commander
 	12 Illusive Peacock
-	12 Splatterhoof Kirin
 	12 Hive Scouting
 	12 Deepgrove Hydra
 	12 land searcher
@@ -897,11 +892,16 @@
 	12 Embers of Emotion
 	12 My Little Ponies
 	12 Outland Yakrider
-	12 ur hyrbdi 2
+	12 ug hyrbdi 2
 	12 Outskirt Scouts
 	12 Windborne Kirin
 	12 Death's Clutches
 	12 Unaware Employee
+	12 tuck + COUNTER
+	12 Small flyer
+	12 big removal
+	12 mass pumper
+	12 first strike trick
 [wildcard(1)]
 	6 backup
 	6 Perfect Pair
@@ -921,21 +921,17 @@
 	6 Courageous Intervention
 	6 bounce
 	6 Serpentine Encounter
-	6 Globeify
 	6 Plagued Pony
 	6 Deepgrove Gravecaller
-	6 Sardonic Recluse
+	6 Sardonic Recluse (reart)
 	6 Disguised Changeling
 	6 Queen's Executioner
 	6 Predatory Night-lurker
 	6 Ursa Encounter
-	6 Deadly Extortion
 	6 Saved by the Stars
 	6 Blazing Kirin
 	6 Rallied Radiers
-	6 reflavor?
 	6 Winpeak Soldier
-	6 Cunning Manuver
 	6 Kirin Exile
 	6 Lavish Campaigner
 	6 Wayfaring Kirin
@@ -948,7 +944,6 @@
 	6 Swift Skyhunter
 	6 Changeling Commander
 	6 Illusive Peacock
-	6 Splatterhoof Kirin
 	6 Hive Scouting
 	6 Deepgrove Hydra
 	6 land searcher
@@ -966,8 +961,13 @@
 	6 Embers of Emotion
 	6 My Little Ponies
 	6 Outland Yakrider
-	6 ur hyrbdi 2
+	6 ug hyrbdi 2
 	6 Outskirt Scouts
 	6 Windborne Kirin
 	6 Death's Clutches
 	6 Unaware Employee
+	6 tuck + COUNTER
+	6 Small flyer
+	6 big removal
+	6 mass pumper
+	6 first strike trick

@@ -1,4 +1,149 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Sardonic Recluse (reart) added.
+ug hyrbdi 2 added.
+tuck + COUNTER added.
+Small flyer added.
+big removal added.
+mass pumper added.
+first strike trick added.
+
+Globeify removed.
+Sardonic Recluse removed.
+Deadly Extortion removed.
+reflavor? removed.
+Cunning Manuver removed.
+Splatterhoof Kirin removed.
+ur hyrbdi 2 removed.
+
+Alicorn Awakening
+rules_text: Target creature gets +1/+0 and gains first strike until end of turn. Create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Target creature gets +2/+0 and gains first strike until end of turn. Create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Aspiring Adventurer
+
+Outland Stormcaller
+cost: {1}{U} => {1}{UR}
+rules_text: {T}: Add {U}. Spend this mana only to cast a battle spell or a spell from anywhere other than your hand. [i](Prepared spells are cast from exile.)[/i] => This creature enters prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i]
+pt: 1/2 => 2/2
+
+Deepsea Delver
+pt: 3/4 => 2/4
+
+bounce
+type: Instant => Sorcery
+
+Serpentine Encounter
+loyalty: 4 => 3
+
+Plagued Pony
+
+Deepgrove Gravecaller
+pt: 1/3 => 2/2
+
+Disguised Changeling
+
+Queen's Executioner
+rules_text: Menace
+When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+This creature gets +1/+0 as long as you've sacrificed a token this turn. => Menace
+When this creature enters, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+This creature gets +2/+0 as long as you've sacrificed a token this turn.
+
+Predatory Night-lurker
+
+Ursa Encounter
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, you may draw a card. If you do, you lose 1 life. => [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, target opponent discards a card.
+
+Saved by the Stars
+rules_text: Until end of turn, target creature gets +2/+0 and gains “When this creature dies, return it to the battlefield tapped under its owner's control and you create a Treasure token.” [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Until end of turn, target creature gets gains “When this creature dies, return it to the battlefield tapped under its owner's control and each opponent loses 2 life.”
+
+Blazing Kirin
+
+Rallied Radiers
+
+Winpeak Soldier
+
+Kirin Exile
+
+Lavish Campaigner
+
+Wayfaring Kirin
+
+Deepgrove Hunter
+
+Ancients of Growth
+
+Prowling Timberwolf
+
+Lost in Deepgrove
+
+flying hate
+
+Deepgrove Impersonator
+
+Swift Skyhunter
+
+Changeling Commander
+
+Illusive Peacock
+
+Hive Scouting
+rules_text: Create a 3/2 green Shapeshifter creature token and a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Create a 3/2 green Shapeshifter creature token and a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Deepgrove Hydra
+
+land searcher
+
+Evolving Wilds
+
+wb land
+
+Volatile Peak
+
+Changeling Nest
+
+rw land
+
+Deepgrove Center
+
+Perissian Tales
+
+Unruly Brewer
+
+Outland Axebearer
+
+Perilous Descent
+
+Unicorn's Reversal
+
+Burst Lightning
+
+Embers of Emotion
+
+My Little Ponies
+
+Outland Yakrider
+
+Outskirt Scouts
+rules_text: Whenever this creature attacks, creatures you control get +1/+0 until end of turn. => Reach
+Whenever this creature attacks, creatures you control get +1/+0 until end of turn.
+
+Windborne Kirin
+
+Death's Clutches
+type: Sorcery => Instant
+cost: {B} => {1}{B}
+rules_text: As an additional cost to cast this spell, pay {4} or sacrifice an artifact or creature.
+Destroy target creature. => Kicker—Sacrifice an artifact or creature. [i](You may sacrifice an artifact or creature. in addition to any other costs as you cast this spell.)[/i]
+Target creature gets -2/-2 until end of turn. If this spell was kicked, that creature gets -6/-6 until end of turn instead.
+
+Unaware Employee
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Perfect Pair added.
