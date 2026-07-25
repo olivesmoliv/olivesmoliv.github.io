@@ -1,4 +1,218 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Easygoing Mountaineers added.
+lifelinky added.
+Sunforged Paladin added.
+Sparkstone Studier added.
+Path to Everywhere added.
+Magic of Friendship added.
+Citywide Pursuit added.
+flash trick added.
+untapper added.
+flying generator added.
+copy added.
+Sink added.
+Imprisoned in the Moon added.
+instant and sorcery rebuy added.
+Obsessive Tracking added.
+Snarling Timberwolf added.
+Guardian Cerberus added.
+Dipose added.
+Not Dead Yet added.
+Winpeak Archaeologist added.
+Splatterhoof Kirin added.
+bolt waver added.
+Dragonlands Unicorn added.
+big guy added.
+Rose's Fury added.
+Forbidden Friendship added.
+guy with sparkstone added.
+self-replacer added.
+um is that a radish added.
+Collossal Timberwolf added.
+Homesickness added.
+Winpeak Elites added.
+Winpeak Defense added.
+UR Signpost added.
+UR Noncreature signpost added.
+Cynical Hiveleader added.
+Deadly Extortion added.
+Dauntless General added.
+Fiery Ascent added.
+Curious Changeling added.
+Overgrowing Timberland added.
+Naive Changeling added.
+gu hybrid U added.
+Deepsea Pioneer added.
+wb hybrid U added.
+Dancing Longma added.
+big artifact added.
+overcosted removal added.
+Royal Horseshoe added.
+Crystal Tree added.
+Sunburst Dragon added.
+Pegasus's Whirlwind added.
+Sardonic Recluse added.
+Take Down added.
+Rebuilding Effort added.
+Small-town Shores added.
+Shoreline Clash added.
+Skycoach Waypoint added.
+Hunted Sparkholder added.
+bg money added.
+On Ice added.
+Soaring Searcher added.
+Touch of the Void added.
+polycule added.
+Aerial Ambush added.
+wb money added.
+fodders added.
+biter added.
+
+big flyer removed.
+bounce removed.
+Sardonic Recluse (reart) removed.
+flying hate removed.
+land searcher removed.
+rw land removed.
+Perissian Tales removed.
+Perilous Descent removed.
+ug hyrbdi 2 removed.
+tuck + COUNTER removed.
+Small flyer removed.
+big removal removed.
+mass pumper removed.
+first strike trick removed.
+
+backup
+
+Perfect Pair
+
+Outland Tamer
+
+creature w/ friend yum
+
+Winpeak Talekeepers
+rules_text: Whenever this creature deals combat damage to a player or battle, it becomes prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i] => Whenever this creature deals combat damage to a player or noncreature permanent, it becomes prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i]
+
+Alicorn Awakening
+rules_text: Target creature gets +2/+0 and gains first strike until end of turn. Create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Target creature gets +1/+0 and gains first strike until end of turn. Create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Endless Iteration
+
+Banishing Light
+
+Aspiring Adventurer
+pt: 1/3 => 2/1
+
+Outland Stormcaller
+
+Nomadic Hatcher
+type: Creature => Creature — Pegasus
+
+Spell discounter
+
+Deepsea Delver
+
+Imperfect Artist
+
+Courageous Intervention
+
+Serpentine Encounter
+
+Plagued Pony
+
+Deepgrove Gravecaller
+
+Disguised Changeling
+pt: 2/2 => 1/3
+
+Queen's Executioner
+rules_text: Menace
+When this creature enters, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+This creature gets +2/+0 as long as you've sacrificed a token this turn. => Menace
+When this creature enters, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+This creature gets +2/+0 as long as you've sacrificed a permanent this turn.
+
+Predatory Night-lurker
+
+Ursa Encounter
+
+Saved by the Stars
+rules_text: Until end of turn, target creature gets gains “When this creature dies, return it to the battlefield tapped under its owner's control and each opponent loses 2 life.” => Until end of turn, target creature gains “When this creature dies, return it to the battlefield tapped under its owner's control and each opponent loses 2 life.”
+
+Blazing Kirin
+
+Rallied Radiers
+
+Winpeak Soldier
+
+Kirin Exile
+
+Lavish Campaigner
+
+Wayfaring Kirin
+
+Deepgrove Hunter
+
+Ancients of Growth
+
+Prowling Timberwolf
+
+Lost in Deepgrove
+
+Deepgrove Impersonator
+
+Swift Skyhunter
+
+Changeling Commander
+rules_text: Whenever you sacrifice a token, put a +1/+1 counter on target creature you control. => Whenever you sacrifice another creature or artifact, put a +1/+1 counter on target creature you control.
+pt: 2/3 => 2/2
+
+Illusive Peacock
+
+Hive Scouting
+
+Deepgrove Hydra
+
+Evolving Wilds
+
+wb land
+
+Volatile Peak
+
+Changeling Nest
+
+Deepgrove Center
+
+Unruly Brewer
+
+Outland Axebearer
+
+Unicorn's Reversal
+
+Burst Lightning
+
+Embers of Emotion
+
+My Little Ponies
+
+Outland Yakrider
+
+Outskirt Scouts
+
+Windborne Kirin
+
+Death's Clutches
+rules_text: Kicker—Sacrifice an artifact or creature. [i](You may sacrifice an artifact or creature. in addition to any other costs as you cast this spell.)[/i]
+Target creature gets -2/-2 until end of turn. If this spell was kicked, that creature gets -6/-6 until end of turn instead. => Kicker—Sacrifice an artifact or creature. [i](You may sacrifice an artifact or creature in addition to any other costs as you cast this spell.)[/i]
+Target creature gets -2/-2 until end of turn. If this spell was kicked, that creature gets -6/-6 until end of turn instead.
+
+Unaware Employee
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Sardonic Recluse (reart) added.
