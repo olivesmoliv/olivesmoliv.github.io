@@ -1,4 +1,30 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Snarling Timberwolf
+
+Not Dead Yet
+loyalty:  => 4
+
+Splatterhoof Kirin
+rules_text: Whenever you cast a noncreature spell and whenever you defeat a battle, you may exile the top card of your library. Until end of turn, you may play that card. This ability triggers only once each turn. => Whenever you cast a noncreature spell and whenever you defeat a battle, you may exile the top card of your library. Until end of turn, you may play that card. Do this only once each turn.
+
+Homesickness
+cost: {2}{G}{G} => {1}{G}{G}
+
+Overgrowing Timberland
+
+Ancients of Growth
+
+biter
+rules_text: Target creature you control deals damage equal to its power to another target creature, planeswalker, or battle.
+Create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Target creature you control deals damage equal to its power to another target creature, planeswalker, or battle.
+Target player creates a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Easygoing Mountaineers added.

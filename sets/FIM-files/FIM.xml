@@ -5,7 +5,7 @@
 			<name>FIM</name>
 			<longname>Perissian Tales</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-25</releasedate>
+			<releasedate>2026-07-26</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -344,6 +344,7 @@ When this Problem enters or is defeated, return up to one target creature card f
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<loyalty>4</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -370,7 +371,7 @@ Discard a card, then draw a card. This spell deals 1 damage to each opponent.</t
 		</card>
 		<card>
 			<name>Splatterhoof Kirin</name>
-			<text>Whenever you cast a noncreature spell and whenever you defeat a battle, you may exile the top card of your library. Until end of turn, you may play that card. This ability triggers only once each turn.</text>
+			<text>Whenever you cast a noncreature spell and whenever you defeat a battle, you may exile the top card of your library. Until end of turn, you may play that card. Do this only once each turn.</text>
 			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/83.png" num="121">FIM</set>
 			<prop>
 				<layout>normal</layout>
@@ -563,8 +564,8 @@ When this Problem enters or is defeated, return target non-battle permanent card
 				<side>front</side>
 				<type>Battle — Problem</type>
 				<maintype>Battle</maintype>
-				<manacost>2GG</manacost>
-				<cmc>4</cmc>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 				<loyalty>5</loyalty>
@@ -2210,7 +2211,7 @@ Whenever a Skeleton you control dies, target opponent loses 1 life.</text>
 		<card>
 			<name>biter</name>
 			<text>Target creature you control deals damage equal to its power to another target creature, planeswalker, or battle.
-Create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+Target player creates a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
 			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/190.png" num="135">FIM</set>
 			<prop>
 				<layout>normal</layout>

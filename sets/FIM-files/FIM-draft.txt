@@ -303,7 +303,7 @@
 		{
 			"name": "Homesickness",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}{G}",
+			"mana_cost": "{1}{G}{G}",
 			"type": "Battle — Problem",
 			"collector_number": "139",
 			"image_uris": {
