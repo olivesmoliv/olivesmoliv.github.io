@@ -1,4 +1,41 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+exile top two added.
+Nostalgia added.
+Rallied Raiders added.
+
+Forbidden Friendship removed.
+Homesickness removed.
+Rallied Radiers removed.
+
+Winpeak Defense
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, create two 1/1 black Pegasus creature tokens with flying. => [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, create two 1/1 white Pony creature tokens with lifelink.
+
+overcosted removal
+pt: 3/2 => 2/2
+
+Royal Horseshoe
+rules_text: When this Equipment enters, create a 1/1 white Ally creature token, then attach this Equipment to it.
+Equipped creature gets +1/+0.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When this Equipment enters, create a 1/1 white Pony creature token, then attach this Equipment to it.
+Equipped creature gets +1/+0.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Outland Stormcaller
+pt: 2/2 => 2/1
+
+Queen's Executioner
+rules_text: Menace
+When this creature enters, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+This creature gets +2/+0 as long as you've sacrificed a permanent this turn. => Menace
+When this creature enters, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+At the beginning of combat on your turn, if you sacrificed a permanent this turn, this creature gets +2/+0 until end of turn.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 

@@ -462,7 +462,7 @@ Flying, haste</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Forbidden Friendship</name>
+			<name>exile top two</name>
 			<text>(As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)
 When this Problem enters or is defeated, exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card.</text>
 			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/88.png" num="115">FIM</set>
@@ -555,10 +555,10 @@ Trample</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Homesickness</name>
+			<name>Nostalgia</name>
 			<text>(As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)
 When this Problem enters or is defeated, return target non-battle permanent card from your graveyard to your hand. If it was a land card, you may put it onto the battlefield tapped instead.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/93.png" num="139">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/93.png" num="141">FIM</set>
 			<prop>
 				<layout>battle</layout>
 				<side>front</side>
@@ -593,7 +593,7 @@ Creature tokens you control get +1/+1.</text>
 		<card>
 			<name>Winpeak Defense</name>
 			<text>(As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)
-When this Problem enters or is defeated, create two 1/1 black Pegasus creature tokens with flying.</text>
+When this Problem enters or is defeated, create two 1/1 white Pony creature tokens with lifelink.</text>
 			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/95.png" num="163">FIM</set>
 			<prop>
 				<layout>battle</layout>
@@ -880,13 +880,13 @@ Destroy target nonbasic permanent.</text>
 				<maintype>Creature</maintype>
 				<manacost>3 // 7</manacost>
 				<cmc>3</cmc>
-				<pt>3/2</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Royal Horseshoe</name>
-			<text>When this Equipment enters, create a 1/1 white Ally creature token, then attach this Equipment to it.
+			<text>When this Equipment enters, create a 1/1 white Pony creature token, then attach this Equipment to it.
 Equipped creature gets +1/+0.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
 			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/111.png" num="182">FIM</set>
@@ -1113,7 +1113,7 @@ Exile the top two cards of your library. You may play one of them this turn.</te
 				<cmc>2</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
-				<pt>2/2</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1324,7 +1324,7 @@ Target player reveals their hand. You choose a nonland card from it. That player
 			<name>Queen&apos;s Executioner</name>
 			<text>Menace
 When this creature enters, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
-This creature gets +2/+0 as long as you&apos;ve sacrificed a permanent this turn.</text>
+At the beginning of combat on your turn, if you sacrificed a permanent this turn, this creature gets +2/+0 until end of turn.</text>
 			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/135.png" num="93">FIM</set>
 			<prop>
 				<layout>normal</layout>
@@ -1413,7 +1413,7 @@ When this Problem enters or is defeated, target opponent discards a card.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Rallied Radiers</name>
+			<name>Rallied Raiders</name>
 			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 Menace</text>
 			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/140.png" num="119">FIM</set>
@@ -1469,7 +1469,7 @@ When this Problem enters or is defeated, you may discard a card. If you do, draw
 		<card>
 			<name>Lavish Campaigner</name>
 			<text>{T}: Add one mana of any color. If that mana is spent to cast a spell with mana value 4 or greater, it can&apos;t be countered.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/143.png" num="140">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/143.png" num="139">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1562,7 +1562,7 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 			<name>Lost in Deepgrove</name>
 			<text>(As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)
 When this Problem enters or is defeated, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/148.png" num="141">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/148.png" num="140">FIM</set>
 			<prop>
 				<layout>battle</layout>
 				<side>front</side>

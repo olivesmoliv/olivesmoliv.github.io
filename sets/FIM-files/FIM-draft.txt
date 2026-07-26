@@ -251,7 +251,7 @@
 			}
 		},
 		{
-			"name": "Forbidden Friendship",
+			"name": "exile top two",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Battle — Problem",
@@ -301,11 +301,11 @@
 			}
 		},
 		{
-			"name": "Homesickness",
+			"name": "Nostalgia",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Battle — Problem",
-			"collector_number": "139",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/93.png"
 			}
@@ -771,7 +771,7 @@
 			}
 		},
 		{
-			"name": "Rallied Radiers",
+			"name": "Rallied Raiders",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Pony",
@@ -805,7 +805,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/143.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Battle — Problem",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/148.png"
 			}
@@ -1259,12 +1259,12 @@
 	4 Dragonlands Unicorn
 	4 big guy
 	4 Rose's Fury
-	4 Forbidden Friendship
+	4 exile top two
 	4 guy with sparkstone
 	4 self-replacer
 	4 um is that a radish
 	4 Collossal Timberwolf
-	4 Homesickness
+	4 Nostalgia
 	4 Winpeak Elites
 	4 Winpeak Defense
 	4 UR Signpost
@@ -1317,7 +1317,7 @@
 	8 Ursa Encounter
 	8 Saved by the Stars
 	8 Blazing Kirin
-	8 Rallied Radiers
+	8 Rallied Raiders
 	8 Winpeak Soldier
 	8 Kirin Exile
 	8 Lavish Campaigner
@@ -1386,7 +1386,7 @@
 	8 Ursa Encounter
 	8 Saved by the Stars
 	8 Blazing Kirin
-	8 Rallied Radiers
+	8 Rallied Raiders
 	8 Winpeak Soldier
 	8 Kirin Exile
 	8 Lavish Campaigner
@@ -1453,12 +1453,12 @@
 	6 Dragonlands Unicorn
 	6 big guy
 	6 Rose's Fury
-	6 Forbidden Friendship
+	6 exile top two
 	6 guy with sparkstone
 	6 self-replacer
 	6 um is that a radish
 	6 Collossal Timberwolf
-	6 Homesickness
+	6 Nostalgia
 	6 Winpeak Elites
 	6 Winpeak Defense
 	6 UR Signpost
@@ -1505,7 +1505,7 @@
 	12 Ursa Encounter
 	12 Saved by the Stars
 	12 Blazing Kirin
-	12 Rallied Radiers
+	12 Rallied Raiders
 	12 Winpeak Soldier
 	12 Kirin Exile
 	12 Lavish Campaigner
@@ -1577,12 +1577,12 @@
 	15 Dragonlands Unicorn
 	15 big guy
 	15 Rose's Fury
-	15 Forbidden Friendship
+	15 exile top two
 	15 guy with sparkstone
 	15 self-replacer
 	15 um is that a radish
 	15 Collossal Timberwolf
-	15 Homesickness
+	15 Nostalgia
 	15 Winpeak Elites
 	15 Winpeak Defense
 	15 UR Signpost
@@ -1629,7 +1629,7 @@
 	6 Ursa Encounter
 	6 Saved by the Stars
 	6 Blazing Kirin
-	6 Rallied Radiers
+	6 Rallied Raiders
 	6 Winpeak Soldier
 	6 Kirin Exile
 	6 Lavish Campaigner

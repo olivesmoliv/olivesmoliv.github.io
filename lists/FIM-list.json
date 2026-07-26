@@ -144,7 +144,7 @@
         "position": "81"
     },
     {
-        "card_name": "Forbidden Friendship",
+        "card_name": "exile top two",
         "number": 115,
         "shape": "battle split",
         "set": "FIM",
@@ -192,8 +192,8 @@
         "position": "87"
     },
     {
-        "card_name": "Homesickness",
-        "number": 139,
+        "card_name": "Nostalgia",
+        "number": 141,
         "shape": "battle split",
         "set": "FIM",
         "rotated": true,
@@ -393,7 +393,7 @@
     },
     {
         "card_name": "Lavish Campaigner",
-        "number": 140,
+        "number": 139,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
@@ -433,7 +433,7 @@
     },
     {
         "card_name": "Lost in Deepgrove",
-        "number": 141,
+        "number": 140,
         "shape": "battle split",
         "set": "FIM",
         "rotated": true,
@@ -584,7 +584,7 @@
         "position": "138"
     },
     {
-        "card_name": "Rallied Radiers",
+        "card_name": "Rallied Raiders",
         "number": 119,
         "shape": "normal",
         "set": "FIM",
