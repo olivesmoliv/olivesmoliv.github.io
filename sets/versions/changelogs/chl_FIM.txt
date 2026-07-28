@@ -1,4 +1,258 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Frolicking Friend added.
+Friendship is Magic added.
+Leaping Unicorn added.
+Calmwater Sailor added.
+Piper's Hypnosis added.
+Recreating Burst added.
+Dispose added.
+Royal Archaeologist added.
+Lavaborne Unicorn added.
+Sunsear Dragon added.
+Forbidden Bond added.
+Hunted Heir added.
+Galloping Unicorn added.
+Plantbound Pony added.
+Socialable Seapony added.
+Kirin's Defense added.
+Busy Birdcaller added.
+Cordial Shifter added.
+Risen Earth added.
+Ironclad Soldier added.
+Pond Pal added.
+Courageous Clash added.
+Cloudhome Tourist added.
+Predatory Gravelurker added.
+Claws of the Ursa added.
+Cloudcliff Aerie added.
+Royal Studier added.
+United Trio added.
+Graveyard Raiser added.
+Coalin Scouts added.
+Savage Descent added.
+
+lifelinky removed.
+Magic of Friendship removed.
+flash trick removed.
+untapper removed.
+copy removed.
+instant and sorcery rebuy removed.
+Dipose removed.
+Winpeak Archaeologist removed.
+bolt waver removed.
+big guy removed.
+exile top two removed.
+guy with sparkstone removed.
+self-replacer removed.
+um is that a radish removed.
+UR Signpost removed.
+UR Noncreature signpost removed.
+gu hybrid U removed.
+wb hybrid U removed.
+big artifact removed.
+overcosted removal removed.
+backup removed.
+creature w/ friend yum removed.
+Spell discounter removed.
+Predatory Night-lurker removed.
+Ursa Encounter removed.
+wb land removed.
+bg money removed.
+polycule removed.
+wb money removed.
+fodders removed.
+biter removed.
+
+Easygoing Mountaineers
+
+Sunforged Paladin
+
+Sparkstone Studier
+
+Path to Everywhere
+
+Citywide Pursuit
+
+flying generator
+
+Sink
+
+Imprisoned in the Moon
+
+Obsessive Tracking
+
+Snarling Timberwolf
+
+Guardian Cerberus
+
+Not Dead Yet
+
+Splatterhoof Kirin
+
+Dragonlands Unicorn
+
+Rose's Fury
+
+Collossal Timberwolf
+
+Nostalgia
+
+Winpeak Elites
+
+Winpeak Defense
+
+Cynical Hiveleader
+
+Deadly Extortion
+
+Dauntless General
+
+Fiery Ascent
+
+Curious Changeling
+
+Overgrowing Timberland
+
+Naive Changeling
+
+Deepsea Pioneer
+
+Dancing Longma
+
+Royal Horseshoe
+
+Crystal Tree
+
+Perfect Pair
+
+Outland Tamer
+type: Creature => Creature — Pony Druid
+
+Winpeak Talekeepers
+
+Sunburst Dragon
+
+Alicorn Awakening
+
+Endless Iteration
+
+Banishing Light
+
+Aspiring Adventurer
+
+Outland Stormcaller
+
+Nomadic Hatcher
+
+Deepsea Delver
+
+Imperfect Artist
+
+Courageous Intervention
+
+Pegasus's Whirlwind
+
+Serpentine Encounter
+
+Plagued Pony
+
+Deepgrove Gravecaller
+
+Sardonic Recluse
+
+Disguised Changeling
+
+Queen's Executioner
+
+Saved by the Stars
+
+Blazing Kirin
+
+Rallied Raiders
+
+Winpeak Soldier
+
+Kirin Exile
+
+Lavish Campaigner
+type: Creature => Creature — Pony Noble
+
+Wayfaring Kirin
+
+Deepgrove Hunter
+
+Ancients of Growth
+
+Prowling Timberwolf
+
+Lost in Deepgrove
+
+Take Down
+
+Deepgrove Impersonator
+
+Swift Skyhunter
+
+Changeling Commander
+
+Illusive Peacock
+
+Hive Scouting
+
+Deepgrove Hydra
+
+Rebuilding Effort
+
+Evolving Wilds
+
+Volatile Peak
+
+Changeling Nest
+
+Small-town Shores
+
+Deepgrove Center
+
+Unruly Brewer
+
+Outland Axebearer
+
+Shoreline Clash
+
+Unicorn's Reversal
+
+Burst Lightning
+
+Skycoach Waypoint
+
+Embers of Emotion
+
+My Little Ponies
+
+Outland Yakrider
+
+Hunted Sparkholder
+
+Outskirt Scouts
+
+Windborne Kirin
+
+Death's Clutches
+
+Unaware Employee
+
+On Ice
+
+Soaring Searcher
+
+Touch of the Void
+
+Aerial Ambush
+
+
+VERSION 10 CHANGELOG
 ====================
 
 exile top two added.
