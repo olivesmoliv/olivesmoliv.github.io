@@ -1,4 +1,30 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+
+Leaping Unicorn
+
+Dispose
+type: Instant => Sorcery
+
+Deepsea Delver
+pt: 2/4 => 3/3
+
+Wayfaring Kirin
+rules_text: When this creature enters, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => This creature enters prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i]
+
+Soaring Searcher
+type: Creature => Creature — Pegasus
+
+Graveyard Raiser
+rules_text: Whenever this creature enters or deals combat damage to a player, create a 1/1 black Skeleton creature token.
+Whenever a Skeleton you control dies, target opponent loses 1 life. => Whenever this creature deals combat damage to a player, create a 1/1 black Skeleton creature token.
+Whenever a Skeleton you control dies, target opponent loses 1 life.
+pt: 2/3 => 3/2
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Frolicking Friend added.

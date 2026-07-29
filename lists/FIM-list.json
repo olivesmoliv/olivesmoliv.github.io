@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Dragonlands Unicorn",
-        "number": 110,
+        "number": 108,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
@@ -65,7 +65,7 @@
     },
     {
         "card_name": "Forbidden Bond",
-        "number": 112,
+        "number": 110,
         "shape": "battle split",
         "set": "FIM",
         "rotated": true,
@@ -105,7 +105,7 @@
     },
     {
         "card_name": "Lavaborne Unicorn",
-        "number": 114,
+        "number": 113,
         "shape": "adventure",
         "set": "FIM",
         "rotated": false,
@@ -305,7 +305,7 @@
     },
     {
         "card_name": "Aerial Ambush",
-        "number": 107,
+        "number": 105,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
@@ -345,7 +345,7 @@
     },
     {
         "card_name": "Blazing Kirin",
-        "number": 108,
+        "number": 106,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
@@ -385,7 +385,7 @@
     },
     {
         "card_name": "Burst Lightning",
-        "number": 109,
+        "number": 107,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
@@ -425,7 +425,7 @@
     },
     {
         "card_name": "Embers of Emotion",
-        "number": 111,
+        "number": 109,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
@@ -465,7 +465,7 @@
     },
     {
         "card_name": "Kirin Exile",
-        "number": 113,
+        "number": 112,
         "shape": "battle split",
         "set": "FIM",
         "rotated": true,
@@ -674,7 +674,7 @@
     {
         "card_name": "Wayfaring Kirin",
         "number": 148,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "FIM",
         "rotated": false,
         "position": "143"
@@ -704,7 +704,7 @@
     },
     {
         "card_name": "Kirin's Defense",
-        "number": 157,
+        "number": 158,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
@@ -712,7 +712,7 @@
     },
     {
         "card_name": "Cynical Hiveleader",
-        "number": 151,
+        "number": 152,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
@@ -720,7 +720,7 @@
     },
     {
         "card_name": "Dauntless General",
-        "number": 152,
+        "number": 153,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
@@ -728,7 +728,7 @@
     },
     {
         "card_name": "Curious Changeling",
-        "number": 150,
+        "number": 151,
         "shape": "adventure",
         "set": "FIM",
         "rotated": false,
@@ -752,7 +752,7 @@
     },
     {
         "card_name": "Deadly Extortion",
-        "number": 153,
+        "number": 154,
         "shape": "normal",
         "set": "FIM",
         "rotated": false,
@@ -760,7 +760,7 @@
     },
     {
         "card_name": "Fiery Ascent",
-        "number": 154,
+        "number": 155,
         "shape": "battle split",
         "set": "FIM",
         "rotated": true,

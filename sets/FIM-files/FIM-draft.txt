@@ -174,7 +174,7 @@
 			"name": "Dispose",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "86",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/79.png"
@@ -215,7 +215,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Unicorn",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/83.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Unicorn",
-			"collector_number": "110",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/84.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Battle — Problem",
-			"collector_number": "112",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/87.png"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "157",
+			"collector_number": "158",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/96.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "151",
+			"collector_number": "152",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/97.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Instant",
-			"collector_number": "153",
+			"collector_number": "154",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/98.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Pony Soldier",
-			"collector_number": "152",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/99.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Battle — Problem",
-			"collector_number": "154",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/100.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "150",
+			"collector_number": "151",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/101.png"
 			}
@@ -765,7 +765,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Kirin",
-			"collector_number": "108",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/138.png"
 			}
@@ -795,7 +795,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Battle — Problem",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/141.png"
 			}
@@ -1045,7 +1045,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "109",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/167.png"
 			}
@@ -1065,7 +1065,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "111",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/169.png"
 			}
@@ -1164,7 +1164,7 @@
 			"name": "Soaring Searcher",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature",
+			"type": "Creature — Pegasus",
 			"collector_number": "73",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/182.png"
@@ -1195,7 +1195,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "107",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/185.png"
 			}
