@@ -1,4 +1,264 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Small-Town Shores added.
+Deepgrove Gully added.
+Mirthful Mailpony added.
+
+Small-town Shores removed.
+Deepgrove Center removed.
+Soaring Searcher removed.
+
+Easygoing Mountaineers
+
+Frolicking Friend
+
+Sunforged Paladin
+
+Sparkstone Studier
+
+Path to Everywhere
+
+Friendship is Magic
+
+Citywide Pursuit
+
+Leaping Unicorn
+
+Calmwater Sailor
+
+flying generator
+
+Piper's Hypnosis
+
+Sink
+
+Imprisoned in the Moon
+
+Recreating Burst
+
+Obsessive Tracking
+
+Snarling Timberwolf
+
+Guardian Cerberus
+
+Dispose
+
+Not Dead Yet
+
+Royal Archaeologist
+
+Splatterhoof Kirin
+
+Lavaborne Unicorn
+
+Dragonlands Unicorn
+
+Sunsear Dragon
+
+Rose's Fury
+
+Forbidden Bond
+
+Hunted Heir
+
+Galloping Unicorn
+
+Plantbound Pony
+
+Collossal Timberwolf
+type: Creature => Creature — Plant Wolf
+
+Nostalgia
+
+Winpeak Elites
+
+Winpeak Defense
+loyalty: 3 => 4
+
+Socialable Seapony
+
+Kirin's Defense
+
+Cynical Hiveleader
+
+Deadly Extortion
+
+Dauntless General
+
+Fiery Ascent
+
+Curious Changeling
+
+Overgrowing Timberland
+
+Naive Changeling
+
+Busy Birdcaller
+
+Deepsea Pioneer
+
+Cordial Shifter
+
+Dancing Longma
+
+Risen Earth
+
+Ironclad Soldier
+
+Royal Horseshoe
+
+Crystal Tree
+
+Pond Pal
+
+Perfect Pair
+
+Outland Tamer
+
+Courageous Clash
+loyalty: 3 => 4
+
+Winpeak Talekeepers
+
+Sunburst Dragon
+
+Alicorn Awakening
+
+Endless Iteration
+
+Banishing Light
+
+Aspiring Adventurer
+
+Outland Stormcaller
+
+Nomadic Hatcher
+
+Cloudhome Tourist
+
+Deepsea Delver
+
+Imperfect Artist
+
+Courageous Intervention
+
+Pegasus's Whirlwind
+
+Serpentine Encounter
+
+Plagued Pony
+
+Deepgrove Gravecaller
+rules_text: Whenever you create a token, each opponent loses 1 life and you gain 1 life. => Whenever you create one or more tokens, each opponent loses 1 life and you gain 1 life.
+
+Sardonic Recluse
+
+Disguised Changeling
+
+Queen's Executioner
+
+Predatory Gravelurker
+
+Claws of the Ursa
+
+Saved by the Stars
+
+Blazing Kirin
+
+Rallied Raiders
+
+Winpeak Soldier
+
+Kirin Exile
+
+Lavish Campaigner
+
+Wayfaring Kirin
+
+Deepgrove Hunter
+
+Ancients of Growth
+
+Prowling Timberwolf
+
+Lost in Deepgrove
+
+Take Down
+
+Deepgrove Impersonator
+
+Swift Skyhunter
+
+Changeling Commander
+
+Illusive Peacock
+
+Hive Scouting
+
+Deepgrove Hydra
+
+Rebuilding Effort
+
+Evolving Wilds
+
+Cloudcliff Aerie
+
+Volatile Peak
+
+Changeling Nest
+
+Unruly Brewer
+
+Outland Axebearer
+
+Shoreline Clash
+
+Unicorn's Reversal
+
+Burst Lightning
+
+Skycoach Waypoint
+
+Embers of Emotion
+
+My Little Ponies
+
+Outland Yakrider
+
+Hunted Sparkholder
+
+Outskirt Scouts
+
+Windborne Kirin
+
+Death's Clutches
+
+Royal Studier
+
+Unaware Employee
+
+On Ice
+
+Touch of the Void
+
+United Trio
+
+Aerial Ambush
+
+Graveyard Raiser
+rules_text: Whenever this creature deals combat damage to a player, create a 1/1 black Skeleton creature token.
+Whenever a Skeleton you control dies, target opponent loses 1 life. => Whenever this creature deals combat damage to a player or noncreature permanent, create a 1/1 black Skeleton creature token.
+Whenever a Skeleton you control dies, target opponent loses 1 life.
+pt: 3/2 => 3/3
+
+Coalin Scouts
+
+Savage Descent
+
+
+VERSION 12 CHANGELOG
 ====================
 
 
