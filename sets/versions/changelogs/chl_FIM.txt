@@ -1,4 +1,267 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Ravenous Gator added.
+
+Deadly Extortion removed.
+
+Easygoing Mountaineers
+
+Frolicking Friend
+
+Sunforged Paladin
+
+Sparkstone Studier
+
+Path to Everywhere
+
+Friendship is Magic
+
+Citywide Pursuit
+loyalty: 4 => 5
+
+Leaping Unicorn
+
+Calmwater Sailor
+
+flying generator
+
+Piper's Hypnosis
+
+Sink
+
+Imprisoned in the Moon
+
+Recreating Burst
+loyalty: 3 => 4
+
+Obsessive Tracking
+
+Snarling Timberwolf
+
+Guardian Cerberus
+
+Dispose
+
+Not Dead Yet
+loyalty: 4 => 5
+
+Royal Archaeologist
+
+Splatterhoof Kirin
+
+Lavaborne Unicorn
+
+Dragonlands Unicorn
+
+Sunsear Dragon
+
+Rose's Fury
+
+Forbidden Bond
+loyalty: 3 => 4
+
+Hunted Heir
+
+Galloping Unicorn
+
+Plantbound Pony
+
+Collossal Timberwolf
+
+Nostalgia
+
+Winpeak Elites
+
+Winpeak Defense
+
+Socialable Seapony
+
+Kirin's Defense
+
+Cynical Hiveleader
+
+Dauntless General
+
+Fiery Ascent
+
+Curious Changeling
+
+Overgrowing Timberland
+
+Naive Changeling
+
+Busy Birdcaller
+
+Deepsea Pioneer
+
+Cordial Shifter
+
+Dancing Longma
+
+Risen Earth
+
+Ironclad Soldier
+
+Royal Horseshoe
+
+Crystal Tree
+
+Pond Pal
+
+Perfect Pair
+
+Outland Tamer
+
+Courageous Clash
+loyalty: 4 => 5
+
+Winpeak Talekeepers
+
+Sunburst Dragon
+
+Alicorn Awakening
+
+Endless Iteration
+
+Banishing Light
+
+Aspiring Adventurer
+
+Outland Stormcaller
+
+Nomadic Hatcher
+
+Cloudhome Tourist
+
+Deepsea Delver
+
+Imperfect Artist
+
+Courageous Intervention
+
+Pegasus's Whirlwind
+
+Serpentine Encounter
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, scry 1, then draw two cards. [i](To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)[/i] => [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, draw two cards.
+loyalty: 3 => 5
+
+Plagued Pony
+
+Deepgrove Gravecaller
+
+Sardonic Recluse
+
+Disguised Changeling
+
+Queen's Executioner
+
+Predatory Gravelurker
+
+Claws of the Ursa
+loyalty: 3 => 4
+
+Saved by the Stars
+
+Blazing Kirin
+
+Rallied Raiders
+
+Winpeak Soldier
+
+Kirin Exile
+loyalty: 3 => 4
+
+Lavish Campaigner
+
+Wayfaring Kirin
+
+Deepgrove Hunter
+
+Ancients of Growth
+
+Prowling Timberwolf
+
+Lost in Deepgrove
+
+Take Down
+
+Deepgrove Impersonator
+
+Swift Skyhunter
+
+Changeling Commander
+
+Illusive Peacock
+
+Hive Scouting
+
+Deepgrove Hydra
+
+Rebuilding Effort
+
+Evolving Wilds
+
+Cloudcliff Aerie
+
+Volatile Peak
+
+Changeling Nest
+
+Small-Town Shores
+
+Deepgrove Gully
+
+Unruly Brewer
+
+Outland Axebearer
+
+Shoreline Clash
+
+Unicorn's Reversal
+
+Burst Lightning
+
+Skycoach Waypoint
+
+Embers of Emotion
+
+My Little Ponies
+
+Outland Yakrider
+
+Hunted Sparkholder
+
+Outskirt Scouts
+
+Windborne Kirin
+
+Death's Clutches
+
+Royal Studier
+
+Unaware Employee
+
+On Ice
+
+Mirthful Mailpony
+
+Touch of the Void
+
+United Trio
+
+Aerial Ambush
+
+Graveyard Raiser
+
+Coalin Scouts
+
+Savage Descent
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Small-Town Shores added.
