@@ -1,4 +1,317 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Ancients of Wind added.
+Proud Pony added.
+
+Winpeak Talekeepers removed.
+Sunburst Dragon removed.
+
+Easygoing Mountaineers
+rules_text: [i]Unite — [/i]At the beginning of your end step, if you created a token this turn, put a +1/+1 counter on this creature. => [i]Unite — [/i]At the beginning of your end step, if a token entered under your control this turn, put a +1/+1 counter on this creature.
+
+Frolicking Friend
+
+Sunforged Paladin
+
+Sparkstone Studier
+
+Path to Everywhere
+
+Friendship is Magic
+
+Citywide Pursuit
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield. => [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield.
+
+Leaping Unicorn
+type: Creature => Creature — Unicorn
+
+Calmwater Sailor
+
+flying generator
+
+Piper's Hypnosis
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, create a token that's a copy of target non-battle permanent you control. => [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, create a token that's a copy of target non-battle permanent you control.
+
+Sink
+
+Imprisoned in the Moon
+
+Recreating Burst
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, return up to one target instant or sorcery card from your graveyard to your hand. => [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, return up to one target instant or sorcery card from your graveyard to your hand.
+
+Obsessive Tracking
+
+Snarling Timberwolf
+
+Guardian Cerberus
+rules_text: [i]Unite — [/i]At the beginning of your end step, if you created a token this turn, you draw a card and lose 1 life. => [i]Unite — [/i]At the beginning of your end step, if a token entered under your control this turn, you draw a card and lose 1 life.
+
+Dispose
+
+Not Dead Yet
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, return up to one target creature card from your graveyard to the battlefield. => [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, return up to one target creature card from your graveyard to the battlefield.
+
+Royal Archaeologist
+
+Splatterhoof Kirin
+
+Lavaborne Unicorn
+
+Dragonlands Unicorn
+
+Sunsear Dragon
+
+Rose's Fury
+
+Forbidden Bond
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card. => [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card.
+
+Hunted Heir
+
+Galloping Unicorn
+
+Plantbound Pony
+
+Collossal Timberwolf
+
+Nostalgia
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, return target non-battle permanent card from your graveyard to your hand. If it was a land card, you may put it onto the battlefield tapped instead. => [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]s
+When this Problem enters or is defeated, return target non-battle permanent card from your graveyard to your hand. If it was a land card, you may put it onto the battlefield tapped instead.
+
+Winpeak Elites
+
+Winpeak Defense
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, create two 1/1 white Pony creature tokens with lifelink. => [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, create two 1/1 white Pony creature tokens with lifelink.
+
+Socialable Seapony
+
+Kirin's Defense
+
+Cynical Hiveleader
+
+Ravenous Gator
+
+Dauntless General
+rules_text: Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Trample, lifelink => Trample
+Whenever you put a counter on a creature you control, draw a card. This ability triggers only once each turn.
+pt: 3/3 => 4/4
+
+Fiery Ascent
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, it deals 2 damage to each opponent and you gain 2 life. => [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, it deals 2 damage to each opponent. You may discard a card. If you do, draw two cards.
+
+Curious Changeling
+
+Overgrowing Timberland
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, draw a card, then you may put a land card from your hand onto the battlefield. => [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, draw a card, then you may put a land card from your hand onto the battlefield.
+
+Naive Changeling
+
+Busy Birdcaller
+
+Deepsea Pioneer
+
+Cordial Shifter
+
+Dancing Longma
+
+Risen Earth
+
+Ironclad Soldier
+
+Royal Horseshoe
+
+Crystal Tree
+
+Pond Pal
+
+Perfect Pair
+
+Outland Tamer
+rules_text: [i]Unite — [/i]This creature has lifelink as long as you've created a token this turn. => [i]Unite — [/i]This creature has lifelink as long a token entered under your control this turn.
+
+Courageous Clash
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this battle enters or is defeated, create two 1/1 white Pony creature tokens. => [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this battle enters or is defeated, create two 1/1 white Pony creature tokens.
+
+Alicorn Awakening
+cost: {1}{W} => {W}
+rules_text: Target creature gets +1/+0 and gains first strike until end of turn. Create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Target creature gets +2/+2 and gains flying until end of turn. If it's attacking a battle, you gain 2 life.
+
+Endless Iteration
+
+Banishing Light
+
+Aspiring Adventurer
+
+Outland Stormcaller
+
+Nomadic Hatcher
+
+Cloudhome Tourist
+
+Deepsea Delver
+
+Imperfect Artist
+
+Courageous Intervention
+
+Pegasus's Whirlwind
+
+Serpentine Encounter
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, draw two cards. => [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, draw two cards.
+
+Plagued Pony
+
+Deepgrove Gravecaller
+
+Sardonic Recluse
+
+Disguised Changeling
+
+Queen's Executioner
+
+Predatory Gravelurker
+
+Claws of the Ursa
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, target opponent discards a card. => [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, target opponent discards a card.
+
+Saved by the Stars
+
+Blazing Kirin
+
+Rallied Raiders
+
+Winpeak Soldier
+
+Kirin Exile
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, you may discard a card. If you do, draw two cards. => [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, you may discard a card. If you do, draw two cards.
+
+Lavish Campaigner
+
+Wayfaring Kirin
+
+Deepgrove Hunter
+
+Ancients of Growth
+
+Prowling Timberwolf
+
+Lost in Deepgrove
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, search your library for a basic land card, put it onto the battlefield tapped, then shuffle. => [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+Take Down
+
+Deepgrove Impersonator
+
+Swift Skyhunter
+rules_text: Flying
+[i]Unite — [/i]Whenever this creature attacks, if you've created a token this turn, you gain 1 life. => Flying
+[i]Unite — [/i]Whenever this creature attacks, if a token entered under your control this turn, you gain 1 life.
+
+Changeling Commander
+
+Illusive Peacock
+
+Hive Scouting
+
+Deepgrove Hydra
+
+Rebuilding Effort
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You can attack it. Remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, search your library for a basic land card, reveal it, put it into your hand, then shuffle. => [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+
+Evolving Wilds
+
+Cloudcliff Aerie
+
+Volatile Peak
+
+Changeling Nest
+
+Small-Town Shores
+
+Deepgrove Gully
+
+Unruly Brewer
+
+Outland Axebearer
+
+Shoreline Clash
+
+Unicorn's Reversal
+
+Burst Lightning
+
+Skycoach Waypoint
+
+Embers of Emotion
+
+My Little Ponies
+
+Outland Yakrider
+rules_text: Reach
+[i]Unite — [/i]Whenever this creature attacks, if you created a token this turn, put a +1/+1 counter on it. => Reach
+[i]Unite — [/i]Whenever this creature attacks, if a token entered under your control this turn, put a +1/+1 counter on it.
+
+Hunted Sparkholder
+
+Outskirt Scouts
+
+Windborne Kirin
+
+Death's Clutches
+
+Royal Studier
+
+Unaware Employee
+
+On Ice
+
+Mirthful Mailpony
+
+Touch of the Void
+
+United Trio
+
+Aerial Ambush
+
+Graveyard Raiser
+
+Coalin Scouts
+
+Savage Descent
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Ravenous Gator added.
