@@ -1,4 +1,379 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Sister of the Sun added.
+Sister of the Moon added.
+Cedar, Kirin Sovereign added.
+Hardcaster Mage added.
+Thing From Another World added.
+Wooded Chimera added.
+Garden Tender added.
+The Living Spark added.
+Happy Camper added.
+Rainbowhorn Kirin added.
+Fateful Absence added.
+Spirited Tracker added.
+Inquisitive Seapony added.
+Slay the Serpent added.
+Celestial Summoning added.
+Obsessive Stalker added.
+Darkhoof Stallion added.
+Court Hopeful added.
+Caress of Dreams added.
+The Oncoming Storm added.
+Scorching Prescence added.
+Sonic Rainboom added.
+Jasper, Renowned Archeologist added.
+Auxiliary Phoenix added.
+Raised Earth added.
+Yak Festival added.
+Peripatetic Zebra added.
+Jungling added.
+Questing Chimera added.
+Battle at Winpeak added.
+Distant Expeditioner added.
+Rimebound Reindeer added.
+Blaze of the Kirin added.
+Royal Mechanic added.
+Cloudhome added.
+Walls of Coalin added.
+Submerged City added.
+Deepgrove Woods added.
+Winpeak Heights added.
+Between Calm and Chaos added.
+The Sparkstone added.
+Starbird Scout added.
+Sociable Seapony added.
+Kira in a Strange Land added.
+Orratz, Chimeric Stitcher added.
+Rose, Exiled Kirin added.
+Blazing Wurm added.
+Cricket added.
+Amber, on Fiery Wings added.
+Insatiable Hivequeen added.
+Sisters of Sun and Moon added.
+Savvy Shopper added.
+Small World added.
+Ancient Study added.
+Chrysalis Dragon added.
+Wind Elemental added.
+Brilliant Blade added.
+Royal Saboteur added.
+gay ponies added.
+Sanguinary Scourge added.
+The Fabled Visitor added.
+Inspired Trailblazer added.
+Quartz of the Mirror Pool added.
+A New Generation added.
+Love Collects No Tax added.
+Trotivore added.
+Gold, Perissian Queen added.
+Timberborne Stallion added.
+Thunderbolt Unicorn added.
+
+flying generator removed.
+Socialable Seapony removed.
+
+Easygoing Mountaineers
+
+Frolicking Friend
+
+Sunforged Paladin
+
+Sparkstone Studier
+
+Path to Everywhere
+
+Friendship is Magic
+
+Citywide Pursuit
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield.
+
+Leaping Unicorn
+
+Calmwater Sailor
+
+Piper's Hypnosis
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, create a token that's a copy of target non-battle permanent you control. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, create a token that's a copy of target non-battle permanent you control.
+
+Sink
+
+Imprisoned in the Moon
+
+Recreating Burst
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, return up to one target instant or sorcery card from your graveyard to your hand. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, return up to one target instant or sorcery card from your graveyard to your hand.
+
+Obsessive Tracking
+
+Snarling Timberwolf
+
+Guardian Cerberus
+
+Dispose
+
+Not Dead Yet
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, return up to one target creature card from your graveyard to the battlefield. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, return up to one target creature card from your graveyard to the battlefield.
+
+Royal Archaeologist
+pt: 2/1 => 2/2
+
+Splatterhoof Kirin
+
+Lavaborne Unicorn
+
+Dragonlands Unicorn
+
+Sunsear Dragon
+
+Rose's Fury
+
+Forbidden Bond
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card.
+
+Hunted Heir
+
+Galloping Unicorn
+
+Plantbound Pony
+rules_text: This creature enters prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i]
+Whenever a land you control enters, put a +1/+1 counter on target creature you control. => This creature enters prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i]
+[i][i]Landfall[/i] — [/i]Whenever a land you control enters, put a +1/+1 counter on target creature you control.
+
+Collossal Timberwolf
+
+Nostalgia
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]s
+When this Problem enters or is defeated, return target non-battle permanent card from your graveyard to your hand. If it was a land card, you may put it onto the battlefield tapped instead. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, return target non-battle permanent card from your graveyard to your hand. If it was a land card, you may put it onto the battlefield tapped instead.
+
+Winpeak Elites
+
+Winpeak Defense
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, create two 1/1 white Pony creature tokens with lifelink. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, create two 1/1 white Pony creature tokens with lifelink.
+loyalty: 4 => 5
+
+Kirin's Defense
+
+Cynical Hiveleader
+
+Ravenous Gator
+
+Dauntless General
+
+Fiery Ascent
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, it deals 2 damage to each opponent. You may discard a card. If you do, draw two cards. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, it deals 2 damage to each opponent. You may discard a card. If you do, draw two cards.
+
+Curious Changeling
+
+Overgrowing Timberland
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, draw a card, then you may put a land card from your hand onto the battlefield. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, draw a card, then you may put a land card from your hand onto the battlefield.
+
+Naive Changeling
+
+Busy Birdcaller
+
+Deepsea Pioneer
+
+Cordial Shifter
+
+Dancing Longma
+
+Risen Earth
+
+Ironclad Soldier
+
+Royal Horseshoe
+
+Crystal Tree
+
+Pond Pal
+
+Perfect Pair
+
+Outland Tamer
+
+Courageous Clash
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this battle enters or is defeated, create two 1/1 white Pony creature tokens. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this battle enters or is defeated, create two 1/1 white Pony creature tokens.
+
+Ancients of Wind
+
+Proud Pony
+
+Alicorn Awakening
+
+Endless Iteration
+
+Banishing Light
+
+Aspiring Adventurer
+
+Outland Stormcaller
+
+Nomadic Hatcher
+
+Cloudhome Tourist
+type: Creature — Unicorn => Creature — Pegasus
+
+Deepsea Delver
+
+Imperfect Artist
+
+Courageous Intervention
+
+Pegasus's Whirlwind
+
+Serpentine Encounter
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, draw two cards. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, draw two cards.
+
+Plagued Pony
+
+Deepgrove Gravecaller
+
+Sardonic Recluse
+
+Disguised Changeling
+
+Queen's Executioner
+
+Predatory Gravelurker
+
+Claws of the Ursa
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, target opponent discards a card. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, target opponent discards a card.
+
+Saved by the Stars
+
+Blazing Kirin
+
+Rallied Raiders
+
+Winpeak Soldier
+
+Kirin Exile
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, you may discard a card. If you do, draw two cards. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, you may discard a card. If you do, draw two cards.
+
+Lavish Campaigner
+
+Wayfaring Kirin
+type: Creature — Kirin => Creature — Kirin Nomad
+
+Deepgrove Hunter
+
+Ancients of Growth
+
+Prowling Timberwolf
+
+Lost in Deepgrove
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, search your library for a basic land card, put it onto the battlefield tapped, then shuffle. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+Take Down
+
+Deepgrove Impersonator
+
+Swift Skyhunter
+type: Creature — Vampire Pegasus => Creature — Pegasus Vampire
+
+Changeling Commander
+
+Illusive Peacock
+
+Hive Scouting
+
+Deepgrove Hydra
+rules_text: Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+This creature enters with X +1/+1 counters on it. => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+This creature enters with X +1/+1 counters on it.
+
+Rebuilding Effort
+rules_text: [i](As a Problem enters, choose an opponent to defend it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, search your library for a basic land card, reveal it, put it into your hand, then shuffle. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+
+Evolving Wilds
+
+Cloudcliff Aerie
+
+Volatile Peak
+
+Changeling Nest
+
+Small-Town Shores
+
+Deepgrove Gully
+
+Unruly Brewer
+
+Outland Axebearer
+
+Shoreline Clash
+
+Unicorn's Reversal
+
+Burst Lightning
+
+Skycoach Waypoint
+
+Embers of Emotion
+
+My Little Ponies
+
+Outland Yakrider
+
+Hunted Sparkholder
+
+Outskirt Scouts
+
+Windborne Kirin
+
+Death's Clutches
+
+Royal Studier
+
+Unaware Employee
+
+On Ice
+
+Mirthful Mailpony
+
+Touch of the Void
+
+United Trio
+
+Aerial Ambush
+
+Graveyard Raiser
+
+Coalin Scouts
+
+Savage Descent
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Ancients of Wind added.
