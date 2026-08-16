@@ -5,7 +5,7 @@
 			<name>FIM</name>
 			<longname>Perissian Tales</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-13</releasedate>
+			<releasedate>2026-08-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3387,6 +3387,7 @@ Populate. (Create a token that&apos;s a copy of a creature token you control.)</
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>3/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

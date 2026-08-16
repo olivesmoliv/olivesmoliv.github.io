@@ -1,4 +1,13 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+
+
+Quartz of the Mirror Pool
+pt:  => 3/5
+
+
+VERSION 16 CHANGELOG
 ====================
 
 Sister of the Sun added.
