@@ -1,4 +1,267 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+
+
+Rainbowhorn Kirin
+rules_text: Backup 2 [i](When this creature enters, put two +1/+1 counters on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+During your turn, this creature has indestructible. => Backup 2 [i](When this creature enters, put two +1/+1 counters on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Whenever this creature attacks, it gains indestructible until end of turn.
+pt: 3/2 => 2/2
+
+Raised Earth
+cost: {2}{G}{G} => {3}{G}{G}
+rules_text: [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, create an X/X green Elemental creature token, where X is the number of differently named lands you control. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, create an X/X green Elemental creature token, where X is the number of lands you control.
+
+Sociable Seapony
+rules_text: At the beginning of your upkeep, if this creature isn't prepared, it becomes prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i] => This creature enters prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i]
+At the beginning of your upkeep, if this creature isn't prepared, it becomes prepared.
+
+Kirin's Defense
+
+Cynical Hiveleader
+
+Ravenous Gator
+
+Dauntless General
+
+Fiery Ascent
+
+Curious Changeling
+
+Overgrowing Timberland
+
+Naive Changeling
+
+Busy Birdcaller
+
+Deepsea Pioneer
+
+Cordial Shifter
+
+Dancing Longma
+
+Risen Earth
+
+Ironclad Soldier
+
+Royal Horseshoe
+
+Crystal Tree
+
+Pond Pal
+
+Perfect Pair
+
+Outland Tamer
+
+Courageous Clash
+
+Ancients of Wind
+
+Proud Pony
+
+Alicorn Awakening
+
+Endless Iteration
+
+Banishing Light
+
+Aspiring Adventurer
+
+Outland Stormcaller
+
+Nomadic Hatcher
+
+Cloudhome Tourist
+
+Deepsea Delver
+
+Imperfect Artist
+
+Courageous Intervention
+
+Pegasus's Whirlwind
+
+Serpentine Encounter
+
+Plagued Pony
+
+Deepgrove Gravecaller
+
+Sardonic Recluse
+
+Disguised Changeling
+
+Queen's Executioner
+
+Predatory Gravelurker
+
+Claws of the Ursa
+
+Saved by the Stars
+
+Blazing Kirin
+
+Rallied Raiders
+
+Winpeak Soldier
+
+Kirin Exile
+
+Lavish Campaigner
+
+Wayfaring Kirin
+
+Deepgrove Hunter
+
+Ancients of Growth
+
+Prowling Timberwolf
+
+Lost in Deepgrove
+
+Take Down
+
+Deepgrove Impersonator
+
+Swift Skyhunter
+
+Changeling Commander
+
+Illusive Peacock
+
+Hive Scouting
+
+Deepgrove Hydra
+
+Rebuilding Effort
+
+Evolving Wilds
+
+Cloudcliff Aerie
+
+Volatile Peak
+
+Changeling Nest
+
+Small-Town Shores
+
+Deepgrove Gully
+
+Unruly Brewer
+
+Outland Axebearer
+
+Shoreline Clash
+
+Unicorn's Reversal
+
+Burst Lightning
+
+Skycoach Waypoint
+
+Embers of Emotion
+
+My Little Ponies
+
+Outland Yakrider
+
+Hunted Sparkholder
+
+Outskirt Scouts
+
+Windborne Kirin
+
+Death's Clutches
+
+Kira in a Strange Land
+
+Orratz, Chimeric Stitcher
+
+Rose, Exiled Kirin
+
+Royal Studier
+
+Unaware Employee
+
+On Ice
+
+Mirthful Mailpony
+
+Touch of the Void
+
+United Trio
+
+Aerial Ambush
+
+Graveyard Raiser
+
+Coalin Scouts
+
+Blazing Wurm
+
+Savage Descent
+
+Cricket
+
+Amber, on Fiery Wings
+
+Insatiable Hivequeen
+
+Sisters of Sun and Moon
+
+Savvy Shopper
+
+Small World
+
+Ancient Study
+rules_text: Create X Clue tokens, where X is the number of artifacts you control, then sacrifice a permanent. [i](They're artifacts with “{2}, Sacrifice this token: Draw a card.”)[/i] => Create X Clue tokens, where X is the number of artifacts you control plus one, then sacrifice a permanent. [i](They're artifacts with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Chrysalis Dragon
+
+Wind Elemental
+
+Brilliant Blade
+
+Royal Saboteur
+
+gay ponies
+
+Sanguinary Scourge
+
+The Fabled Visitor
+
+Inspired Trailblazer
+
+Quartz of the Mirror Pool
+
+A New Generation
+
+Love Collects No Tax
+
+Trotivore
+
+Gold, Perissian Queen
+type: Creature — Pony Noble => Legendary Creature — Pony Noble
+rules_text: Whenever you attack, Gold becomes prepared if there are four or more different creature types among attacking creatures. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i] => Whenever you attack, if there are six or more different creature types among attacking creatures, create a colorless artifact token named Banner with “Attacking creatures you control get +1/+0.”
+{1}{R}, {T}, Sacrifice an artifact or discard a card: Draw a card.
+
+Timberborne Stallion
+
+Thunderbolt Unicorn
+
+Winpeak Defense
+type: Battle — Problem => Instant
+cost: {1}{W}{B} => {W}{B}
+rules_text: [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, create two 1/1 white Pony creature tokens with lifelink. => Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.
+loyalty: 5 => 
+
+
+VERSION 17 CHANGELOG
 ====================
 
 
