@@ -1,4 +1,77 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+Blazing Defense added.
+Arcane Awakening added.
+Nomadic Sorcerer added.
+Mare Admirers added.
+
+Kirin's Defense removed.
+Alicorn Awakening removed.
+Nomadic Hatcher removed.
+gay ponies removed.
+
+Easygoing Mountaineers
+
+Frolicking Friend
+pt: 1/1 => 2/1
+
+Sunforged Paladin
+rules_text: Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Whenever this creature attacks, put a +1/+1 counter on it. => Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.
+
+Path to Everywhere
+
+Friendship is Magic
+
+Calmwater Sailor
+
+Cordial Shifter
+
+Crystal Tree
+
+Proud Pony
+rules_text: Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Whenever this creature attacks, you gain 1 life and scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i] => Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Vigilance
+
+Banishing Light
+
+Courageous Intervention
+
+Sardonic Recluse
+
+Rallied Raiders
+
+Take Down
+
+Deepgrove Impersonator
+
+Evolving Wilds
+
+Unicorn's Reversal
+
+Skycoach Waypoint
+
+Embers of Emotion
+
+Outskirt Scouts
+
+Small World
+type: Instant => Sorcery
+rules_text: Create a 1/1 white Rabbit creature token with vigilance.
+At the beginning of your end step, if you put a counter on a creature this turn, return this card from your graveyard to your hand. => Create a 1/1 white Rabbit creature token. If you control another creature token, create two of those tokens instead.
+
+Trotivore
+
+Gold, Perissian Queen
+rules_text: Whenever you attack, if there are six or more different creature types among attacking creatures, create a colorless artifact token named Banner with “Attacking creatures you control get +1/+0.”
+{1}{R}, {T}, Sacrifice an artifact or discard a card: Draw a card. => Whenever you attack, if there are six or more different creature types among attacking creatures, create a colorless artifact token named Banner with “Attacking creatures you control get +1/+0.”
+{R} Sacrifice an artifact: Draw a card. Activate only once each turn.
+
+
+VERSION 18 CHANGELOG
 ====================
 
 
