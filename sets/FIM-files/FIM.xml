@@ -5,7 +5,7 @@
 			<name>FIM</name>
 			<longname>Perissian Tales</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-19</releasedate>
+			<releasedate>2026-08-20</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -184,7 +184,7 @@ Landfall — Whenever a land you control enters, create a Black Lotus token. (It
 		<card>
 			<name>Rainbowhorn Kirin</name>
 			<text>Backup 2 (When this creature enters, put two +1/+1 counters on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
-Whenever this creature attacks, it gains indestructible until end of turn.</text>
+Other creatures you control get +1/+1.</text>
 			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/9.png" num="23">FIM</set>
 			<prop>
 				<layout>normal</layout>
@@ -195,7 +195,7 @@ Whenever this creature attacks, it gains indestructible until end of turn.</text
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>2/2</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -318,7 +318,7 @@ Whenever a nontoken creature you control dies, this creature becomes prepared.
 
 ---
 
-Create a 2/2 black Elemental Unicorn creature token with menace.</text>
+Create a 2/2 black Elemental creature token with menace.</text>
 			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/16.png" num="59">FIM</set>
 			<prop>
 				<layout>adventure</layout>
@@ -429,7 +429,7 @@ Whenever Jasper attacks, you may discard a card. If you do, draw a card.
 
 ---
 
-Search your library for an artifact card with mana value 3 or less, put it onto then battlfield, then shuffle.</text>
+Search your library for an artifact card with mana value 3 or less, put it onto the battlefield, then shuffle.</text>
 			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/22.png" num="141">FIM</set>
 			<prop>
 				<layout>adventure</layout>
@@ -752,8 +752,8 @@ Create two 1/1 white Pony creature tokens.</text>
 		<card>
 			<name>Between Calm and Chaos</name>
 			<text>Choose one —
-• Calm — Draw two cards, then discard a card unless you sacrifice a nonland permanent.
-• Chaos — Destroy target artifact. Between Calm and Chaos deals 2 damage to its controller.</text>
+• Draw two cards, then discard a card unless you sacrifice a nonland permanent.
+• Destroy target artifact. Between Calm and Chaos deals 2 damage to that artifact&apos;s controller.</text>
 			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/39.png" num="130">FIM</set>
 			<prop>
 				<layout>normal</layout>
@@ -934,7 +934,7 @@ Put a +1/+1 counter on target creature.</text>
 
 ---
 
-Create a 2/2 blue Fish creature token with flying.</text>
+Create a 2/2 blue Merfolk creature token with flying.</text>
 			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/49.png" num="31">FIM</set>
 			<prop>
 				<layout>adventure</layout>
@@ -1088,7 +1088,7 @@ Whenever you sacrifice a nonland permanent, each opponent loses 1 life and you g
 		</card>
 		<card>
 			<name>Dispose</name>
-			<text>Destroy target creature. Create a 1/1 black Unicorn creature token.</text>
+			<text>Destroy target creature. Create a 1/1 white Pony creature token.</text>
 			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/58.png" num="63">FIM</set>
 			<prop>
 				<layout>normal</layout>
@@ -1386,7 +1386,7 @@ Put a +1/+1 counter on up to one target creature.</text>
 		</card>
 		<card>
 			<name>Blazing Defense</name>
-			<text>Whenever you cast a noncreature spell, create a 1/1 blue and green Kirin creature token.</text>
+			<text>Whenever you cast a noncreature spell, create a 1/1 blue Kirin creature token.</text>
 			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/74.png" num="131">FIM</set>
 			<prop>
 				<layout>normal</layout>
@@ -1573,7 +1573,7 @@ Whenever you cast a noncreature spell, this creature gets +1/+1 until end of tur
 		<card>
 			<name>Cordial Shifter</name>
 			<text>Lifelink
-When this creature enters, create a 1/1 black Pony creature token.</text>
+When this creature enters, create a 1/1 white Pony creature token.</text>
 			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/84.png" num="157">FIM</set>
 			<prop>
 				<layout>normal</layout>
@@ -1779,7 +1779,7 @@ Vigilance</text>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2269,7 +2269,7 @@ This creature enters prepared. (While it&apos;s prepared, you may cast a copy of
 
 ---
 
-Create a 4/4 green Type creature token.</text>
+Create a 4/4 green Unicorn creature token.</text>
 			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/122.png" num="106">FIM</set>
 			<prop>
 				<layout>adventure</layout>
@@ -2356,7 +2356,7 @@ When this Problem enters or is defeated, search your library for a basic land ca
 		</card>
 		<card>
 			<name>Deepgrove Impersonator</name>
-			<text>When this creature dies, create a 1/1 black Pony creature token.</text>
+			<text>When this creature dies, create a 1/1 white Pony creature token.</text>
 			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/127.png" num="160">FIM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3019,7 +3019,7 @@ Whenever a Skeleton you control dies, target opponent loses 1 life.</text>
 		<card>
 			<name>Coalin Scouts</name>
 			<text>This creature has menace as long as it&apos;s attacking a battle.
-{1}{B}, Exile this card from your graveyard: Create a 1/1 black Type creature token. Activate only as a sorcery.</text>
+{1}{B}, Exile this card from your graveyard: Create a 1/1 white Pony creature token. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/165.png" num="57">FIM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3114,7 +3114,7 @@ Whenever this creature attacks, add an amount of {R} equal to its power. Until e
 		</card>
 		<card>
 			<name>Insatiable Hivequeen</name>
-			<text>Deathtouch, ward {2}
+			<text>Ward {2}
 Whenever another nontoken creature you control dies, you may exile it. If you do, create a token that&apos;s a copy of that creature, except it&apos;s an artifact named Cocoon and loses all other card types.</text>
 			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/170.png" num="140">FIM</set>
 			<prop>
@@ -3171,7 +3171,7 @@ Put a +1/+1 counter on each non-God creature you control.</text>
 		</card>
 		<card>
 			<name>Small World</name>
-			<text>Create a 1/1 white Rabbit creature token. If you control another creature token, create two of those tokens instead.</text>
+			<text>Create a 1/1 white Rabbit creature token. If you control another Rabbit, create two of those tokens instead.</text>
 			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/173.png" num="25">FIM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3426,7 +3426,7 @@ Populate. (Create a token that&apos;s a copy of a creature token you control.)</
 		<card>
 			<name>Gold, Perissian Queen</name>
 			<text>Whenever you attack, if there are six or more different creature types among attacking creatures, create a colorless artifact token named Banner with &quot;Attacking creatures you control get +1/+0.&quot;
-{R} Sacrifice an artifact: Draw a card. Activate only once each turn.</text>
+{R}, Sacrifice an artifact: Draw a card. Activate only once each turn.</text>
 			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/187.png" num="88">FIM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3495,6 +3495,35 @@ Double all damage this creature would deal.</text>
 				<coloridentity>WB</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pony FIM</name>
+			<text></text>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/191.png" num="1">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Pony</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Royal Horseshoe</reverse-related>
+			<reverse-related count="2">Courageous Clash</reverse-related>
+			<reverse-related>Coalin Scouts</reverse-related>
+			<reverse-related>Cordial Shifter</reverse-related>
+			<reverse-related>Deepgrove Impersonator</reverse-related>
+			<reverse-related>Royal Studier</reverse-related>
+			<reverse-related>Sparkstone Studier</reverse-related>
+			<reverse-related>Endless Iteration</reverse-related>
+			<reverse-related count="2">My Little Ponies</reverse-related>
+			<reverse-related count="2">Winpeak Heights</reverse-related>
+			<reverse-related>Dispose</reverse-related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

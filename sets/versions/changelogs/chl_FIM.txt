@@ -1,4 +1,69 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+Pony added.
+
+
+Rainbowhorn Kirin
+rules_text: Backup 2 [i](When this creature enters, put two +1/+1 counters on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Whenever this creature attacks, it gains indestructible until end of turn. => Backup 2 [i](When this creature enters, put two +1/+1 counters on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Other creatures you control get +1/+1.
+pt: 2/2 => 3/3
+
+Darkhoof Stallion
+
+Jasper, Renowned Archeologist
+
+Between Calm and Chaos
+rules_text: Choose one —
+• [i]Calm — [/i]Draw two cards, then discard a card unless you sacrifice a nonland permanent.[i]
+[/i]• [i]Chaos — [/i]Destroy target artifact. Between Calm and Chaos deals 2 damage to its controller. => Choose one —
+• Draw two cards, then discard a card unless you sacrifice a nonland permanent.[i]
+[/i]• Destroy target artifact. Between Calm and Chaos deals 2 damage to that artifact's controller.
+
+Calmwater Sailor
+
+Dispose
+rules_text: Destroy target creature. Create a 1/1 black Unicorn creature token. => Destroy target creature. Create a 1/1 white Pony creature token.
+
+Blazing Defense
+rules_text: Whenever you cast a noncreature spell, create a 1/1 blue and green Kirin creature token. => Whenever you cast a noncreature spell, create a 1/1 blue Kirin creature token.
+
+Cordial Shifter
+rules_text: Lifelink
+When this creature enters, create a 1/1 black Pony creature token. => Lifelink
+When this creature enters, create a 1/1 white Pony creature token.
+
+Proud Pony
+pt: 3/3 => 3/2
+
+Nomadic Sorcerer
+
+Deepgrove Hunter
+
+Deepgrove Impersonator
+rules_text: When this creature dies, create a 1/1 black Pony creature token. => When this creature dies, create a 1/1 white Pony creature token.
+
+Coalin Scouts
+rules_text: This creature has menace as long as it's attacking a battle.
+{1}{B}, Exile this card from your graveyard: Create a 1/1 black Type creature token. Activate only as a sorcery. => This creature has menace as long as it's attacking a battle.
+{1}{B}, Exile this card from your graveyard: Create a 1/1 white Pony creature token. Activate only as a sorcery.
+
+Insatiable Hivequeen
+rules_text: Deathtouch, ward {2}
+Whenever another nontoken creature you control dies, you may exile it. If you do, create a token that's a copy of that creature, except it's an artifact named Cocoon and loses all other card types. => Ward {2}
+Whenever another nontoken creature you control dies, you may exile it. If you do, create a token that's a copy of that creature, except it's an artifact named Cocoon and loses all other card types.
+
+Small World
+rules_text: Create a 1/1 white Rabbit creature token. If you control another creature token, create two of those tokens instead. => Create a 1/1 white Rabbit creature token. If you control another Rabbit, create two of those tokens instead.
+
+Gold, Perissian Queen
+rules_text: Whenever you attack, if there are six or more different creature types among attacking creatures, create a colorless artifact token named Banner with “Attacking creatures you control get +1/+0.”
+{R} Sacrifice an artifact: Draw a card. Activate only once each turn. => Whenever you attack, if there are six or more different creature types among attacking creatures, create a colorless artifact token named Banner with “Attacking creatures you control get +1/+0.”
+{R}, Sacrifice an artifact: Draw a card. Activate only once each turn.
+
+
+VERSION 19 CHANGELOG
 ====================
 
 Blazing Defense added.
