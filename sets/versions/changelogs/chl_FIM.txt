@@ -1,4 +1,43 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+Hive Scout added.
+
+Hive Scouting removed.
+
+Hardcaster Mage
+rules_text: When this creature enters, you may exile target instant or sorcery card with mana value 2 or less from a graveyard as one of this creature prepared spells. Then it becomes prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i] => When this creature enters, you may exile target instant or sorcery card with mana value 3 or less from a graveyard as one of this creature prepared spells. Then it becomes prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i]
+
+Garden Tender
+rules_text: Flying
+[i][i]Landfall[/i] — [/i]Whenever a land you control enters, create a Black Lotus token. [i](It's a {0} artifact with “{T}, Sacrifice this token: Add three mana of any one color.”)[/i] => Flying
+[i][i]Landfall[/i] — [/i]Whenever a land you control enters, create a Black Lotus token. [i](It's a {0} artifact with “{T}, Sacrifice this artifact: Add three mana of any one color.”)[/i]
+
+Court Hopeful
+pt: 3/5 => 5/5
+
+Auxiliary Phoenix
+
+Nomadic Sorcerer
+
+Unruly Brewer
+
+Unicorn's Reversal
+
+Skycoach Waypoint
+
+Unaware Employee
+
+Insatiable Hivequeen
+
+Sisters of Sun and Moon
+
+Small World
+rules_text: Create a 1/1 white Rabbit creature token. If you control another Rabbit, create two of those tokens instead. => Create a 1/1 white Rabbit creature token. If another token you control entered this turn, create two of those tokens instead.
+Flashback {2}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+
+VERSION 20 CHANGELOG
 ====================
 
 Pony added.
