@@ -1,4 +1,80 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+Weaver, Sparkchaser added.
+Pony Army added.
+Nightmare added.
+Elemental added.
+Unicorn added.
+Elemental added.
+Fish added.
+Bird Illusion added.
+Black Lotus added.
+Everywhere added.
+Clue added.
+Merfolk added.
+Insect added.
+Unicorn Archer added.
+Pony Skeleton added.
+Treasure added.
+Kirin added.
+Ox added.
+Banner added.
+Pegasus added.
+Rabbit added.
+Planeswalker Token added.
+Clue added.
+
+Court Hopeful removed.
+
+Walls of Coalin
+
+Guardian Cerberus
+
+Collossal Timberwolf
+
+Sociable Seapony
+
+Blazing Defense
+rules_text: Whenever you cast a noncreature spell, create a 1/1 blue Kirin creature token. => Whenever you cast a noncreature spell, create a 1/1 blue and red Kirin creature token.
+
+Ravenous Gator
+
+Dauntless General
+
+Ironclad Soldier
+
+Crystal Tree
+
+Courageous Intervention
+
+Rallied Raiders
+
+Lavish Campaigner
+
+Deepgrove Hunter
+
+Illusive Peacock
+
+Deepgrove Hydra
+
+Shoreline Clash
+
+Unicorn's Reversal
+
+Outskirt Scouts
+
+Kira in a Strange Land
+
+Graveyard Raiser
+rules_text: Whenever this creature deals combat damage to a player or noncreature permanent, create a 1/1 black Skeleton creature token.
+Whenever a Skeleton you control dies, target opponent loses 1 life. => Whenever this creature deals combat damage to a player or noncreature permanent, create a 1/1 black Pony Skeleton creature token.
+Whenever a Skeleton you control dies, target opponent loses 1 life.
+
+Savage Descent
+
+
+VERSION 21 CHANGELOG
 ====================
 
 Hive Scout added.
