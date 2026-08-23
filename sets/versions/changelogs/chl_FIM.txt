@@ -1,4 +1,18 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+
+Planeswalker Token removed.
+
+The Sparkstone
+rules_text: When The Sparkstone enters, you may create a colorless planeswalker token with starting loyalty 3 and “This planeswalker has all loyalty abilities of all other planeswalkers on the battlefield.” 
+{T}: Add one mana of any color. => The Sparkstone has all loyalty abilities of all other planeswalkers on the battlefield.
+{T}: Add one mana of any color.
+
+Clue
+
+
+VERSION 22 CHANGELOG
 ====================
 
 Weaver, Sparkchaser added.
