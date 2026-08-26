@@ -1,4 +1,81 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+Animated Earth added.
+Zebra added.
+Emblem added.
+
+Risen Earth removed.
+
+Happy Camper
+
+Fateful Absence
+
+The Sparkstone
+
+Path to Everywhere
+
+Friendship is Magic
+
+Sink
+
+Guardian Cerberus
+
+Dispose
+
+Rose's Fury
+
+Hunted Heir
+
+Ravenous Gator
+rules_text: Menace
+{1}, Sacrifice an artifact or creature: Put a +1/+1 counter on this creature. => Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+{1}, Sacrifice an artifact or creature: Put a +1/+1 counter on this creature.
+
+Dauntless General
+
+Cordial Shifter
+
+Crystal Tree
+
+Palace Detainer
+type: Creature — Pony => Creature — Pony Soldier
+
+Outland Tamer
+
+Courageous Clash
+rules_text: [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this battle enters or is defeated, create two 1/1 white Pony creature tokens. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, create two 1/1 white Pony creature tokens.
+
+Arcane Awakening
+
+Banishing Light
+
+Courageous Intervention
+
+Deepgrove Gravecaller
+
+Rallied Raiders
+
+Lavish Campaigner
+
+Take Down
+
+Changeling Commander
+
+Evolving Wilds
+
+Embers of Emotion
+
+Outskirt Scouts
+
+Aerial Ambush
+
+Winpeak Defense
+
+
+VERSION 24 CHANGELOG
 ====================
 
 Lorecaster Mage added.

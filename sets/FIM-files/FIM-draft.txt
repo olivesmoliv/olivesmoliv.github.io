@@ -861,11 +861,11 @@
 			}
 		},
 		{
-			"name": "Risen Earth",
+			"name": "Animated Earth",
 			"rarity": "uncommon",
 			"mana_cost": "{6}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "176",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/86.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "175",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/89.png"
 			}
@@ -904,7 +904,7 @@
 			"name": "Palace Detainer",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Pony",
+			"type": "Creature — Pony Soldier",
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/90.png"
@@ -1765,7 +1765,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/177.png"
 			}
@@ -1985,7 +1985,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/199.png"
 			}
@@ -1995,7 +1995,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Land",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/200.png"
 			}
@@ -2005,7 +2005,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/201.png"
 			}
@@ -2025,7 +2025,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/203.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/206.png"
 			}
@@ -2065,7 +2065,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Kirin",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/207.png"
 			}
@@ -2085,7 +2085,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/209.png"
 			}
@@ -2095,7 +2095,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Pegasus",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/210.png"
 			}
@@ -2115,9 +2115,79 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/212.png"
+			}
+		},
+		{
+			"name": "Zebra",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zebra",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/213.png"
+			}
+		},
+		{
+			"name": "Emblem",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Emblem",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/214.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/215.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/216.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/217.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/218.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/219.png"
 			}
 		}
 	]
@@ -2236,7 +2306,7 @@
 	4 Deepsea Pioneer
 	4 Cordial Shifter
 	4 Dancing Longma
-	4 Risen Earth
+	4 Animated Earth
 	4 Ironclad Soldier
 	4 Royal Horseshoe
 	4 Crystal Tree
@@ -2471,7 +2541,7 @@
 	6 Deepsea Pioneer
 	6 Cordial Shifter
 	6 Dancing Longma
-	6 Risen Earth
+	6 Animated Earth
 	6 Ironclad Soldier
 	6 Royal Horseshoe
 	6 Crystal Tree
@@ -2662,7 +2732,7 @@
 	15 Deepsea Pioneer
 	15 Cordial Shifter
 	15 Dancing Longma
-	15 Risen Earth
+	15 Animated Earth
 	15 Ironclad Soldier
 	15 Royal Horseshoe
 	15 Crystal Tree
