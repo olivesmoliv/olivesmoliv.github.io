@@ -5,7 +5,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — God",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/0.png"
 			}
@@ -24,18 +24,18 @@
 			"name": "Cedar, Kirin Sovereign",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Creature — Kirin",
+			"type": "Legendary Creature — Kirin Noble",
 			"collector_number": "84",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/2.png"
 			}
 		},
 		{
-			"name": "Hardcaster Mage",
+			"name": "Lorecaster Mage",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Unicorn",
-			"collector_number": "89",
+			"type": "Creature — Unicorn Wizard",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/3.png"
 			}
@@ -61,11 +61,11 @@
 			}
 		},
 		{
-			"name": "Garden Tender",
+			"name": "Lotus Tender",
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Pegasus Unicorn",
-			"collector_number": "139",
+			"collector_number": "143",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Planeswalker",
-			"collector_number": "143",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Unicorn",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Kirin",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/9.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Pony Artificer",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/22.png"
 			}
@@ -241,11 +241,11 @@
 			}
 		},
 		{
-			"name": "Raised Earth",
+			"name": "Earth Taken Form",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Battle — Problem",
-			"collector_number": "118",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/24.png"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Zebra Nomad",
-			"collector_number": "114",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/26.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment",
-			"collector_number": "109",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/27.png"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Chimera",
-			"collector_number": "117",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/28.png"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Elk Wizard",
-			"collector_number": "146",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/31.png"
 			}
@@ -331,11 +331,11 @@
 			}
 		},
 		{
-			"name": "Royal Mechanic",
+			"name": "Queensworn Tinkerer",
 			"rarity": "rare",
 			"mana_cost": "{2}{U/R}",
 			"type": "Creature — Pegasus Artificer",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/33.png"
 			}
@@ -391,11 +391,11 @@
 			}
 		},
 		{
-			"name": "Between Calm and Chaos",
+			"name": "Calm or Chaos",
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Instant",
-			"collector_number": "130",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/39.png"
 			}
@@ -421,11 +421,11 @@
 			}
 		},
 		{
-			"name": "Frolicking Friend",
+			"name": "Twintail Pathfinder",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Pony",
-			"collector_number": "14",
+			"type": "Creature — Pony Scout",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/42.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Unicorn Knight",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/43.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Unicorn Artificer",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/44.png"
 			}
@@ -501,7 +501,7 @@
 			}
 		},
 		{
-			"name": "Starbird Scout",
+			"name": "Starbird Channeler",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Pegasus Scout",
@@ -601,11 +601,11 @@
 			}
 		},
 		{
-			"name": "Royal Archaeologist",
+			"name": "Queensworn Archaeologist",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Unicorn Artificer",
-			"collector_number": "96",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/60.png"
 			}
@@ -625,13 +625,13 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Unicorn",
-			"collector_number": "91",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/62.png"
 			}
 		},
 		{
-			"name": "Dragonlands Unicorn",
+			"name": "Dragonhome Unicorn",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Unicorn",
@@ -655,7 +655,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/65.png"
 			}
@@ -675,7 +675,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Unicorn",
-			"collector_number": "108",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/67.png"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Unicorn",
-			"collector_number": "107",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/68.png"
 			}
@@ -695,7 +695,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Plant Pony",
-			"collector_number": "115",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/69.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Plant Wolf",
-			"collector_number": "105",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/70.png"
 			}
@@ -715,17 +715,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Battle — Problem",
-			"collector_number": "112",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/71.png"
 			}
 		},
 		{
-			"name": "Winpeak Elites",
+			"name": "Queensworn Elites",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Pony Unicorn Wizard",
-			"collector_number": "153",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/72.png"
 			}
@@ -735,7 +735,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Merfolk",
-			"collector_number": "149",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/73.png"
 			}
@@ -745,7 +745,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/74.png"
 			}
@@ -765,7 +765,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Crocodile",
-			"collector_number": "145",
+			"collector_number": "146",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/76.png"
 			}
@@ -901,11 +901,11 @@
 			}
 		},
 		{
-			"name": "Pond Pal",
+			"name": "Palace Detainer",
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Pony",
-			"collector_number": "20",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/90.png"
 			}
@@ -925,7 +925,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Pony Druid",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/92.png"
 			}
@@ -955,7 +955,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Pony",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/95.png"
 			}
@@ -1073,7 +1073,7 @@
 		{
 			"name": "Serpentine Encounter",
 			"rarity": "common",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Battle — Problem",
 			"collector_number": "49",
 			"image_uris": {
@@ -1175,7 +1175,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Pony",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/117.png"
 			}
@@ -1195,7 +1195,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Battle — Problem",
-			"collector_number": "90",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/119.png"
 			}
@@ -1205,7 +1205,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Pony Noble",
-			"collector_number": "110",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/120.png"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Unicorn Archer",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/122.png"
 			}
@@ -1245,7 +1245,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Plant Wolf",
-			"collector_number": "116",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/124.png"
 			}
@@ -1255,7 +1255,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Battle — Problem",
-			"collector_number": "111",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/125.png"
 			}
@@ -1475,7 +1475,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/148.png"
 			}
@@ -1485,7 +1485,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Pony Warrior",
-			"collector_number": "113",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/149.png"
 			}
@@ -1535,7 +1535,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Planeswalker — K-14",
-			"collector_number": "142",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/154.png"
 			}
@@ -1554,18 +1554,18 @@
 			"name": "Rose, Exiled Kirin",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
-			"type": "Legendary Creature — Kirin",
-			"collector_number": "147",
+			"type": "Legendary Creature — Kirin Noble",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/156.png"
 			}
 		},
 		{
-			"name": "Royal Studier",
+			"name": "Coalin Archivist",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Unicorn",
-			"collector_number": "119",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/157.png"
 			}
@@ -1671,7 +1671,7 @@
 			}
 		},
 		{
-			"name": "Cricket",
+			"name": "Cricket, Wayfaring Changeling",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Shapeshifter",
@@ -1695,7 +1695,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Creature — Shapeshifter Noble",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/170.png"
 			}
@@ -1705,7 +1705,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — God",
-			"collector_number": "148",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/171.png"
 			}
@@ -1725,7 +1725,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/173.png"
 			}
@@ -1751,7 +1751,7 @@
 			}
 		},
 		{
-			"name": "Wind Elemental",
+			"name": "Windrider Elemental",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Elemental",
@@ -1771,11 +1771,11 @@
 			}
 		},
 		{
-			"name": "Royal Saboteur",
+			"name": "Queensworn Saboteur",
 			"rarity": "rare",
 			"mana_cost": "{2}{W/B}{W/B}",
 			"type": "Creature — Unicorn",
-			"collector_number": "170",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/178.png"
 			}
@@ -1825,7 +1825,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — Unicorn",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/183.png"
 			}
@@ -1875,7 +1875,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Pony",
-			"collector_number": "151",
+			"collector_number": "152",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/188.png"
 			}
@@ -1885,7 +1885,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Creature — Unicorn",
-			"collector_number": "150",
+			"collector_number": "151",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/189.png"
 			}
@@ -1895,7 +1895,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Instant",
-			"collector_number": "152",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/190.png"
 			}
@@ -1985,7 +1985,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/199.png"
 			}
@@ -2005,7 +2005,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/201.png"
 			}
@@ -2085,7 +2085,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/209.png"
 			}
@@ -2111,11 +2111,11 @@
 			}
 		},
 		{
-			"name": "Clue",
+			"name": "Tenderblossom",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Clue",
-			"collector_number": "20",
+			"type": "Token Enchantment",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/212.png"
 			}
@@ -2126,10 +2126,10 @@
 	1 Sister of the Sun
 	1 Sister of the Moon
 	1 Cedar, Kirin Sovereign
-	2 Hardcaster Mage
+	2 Lorecaster Mage
 	1 Thing From Another World
 	1 Wooded Chimera
-	1 Garden Tender
+	1 Lotus Tender
 	1 The Living Spark
 	2 Happy Camper
 	2 Rainbowhorn Kirin
@@ -2147,7 +2147,7 @@
 	2 Sonic Rainboom
 	1 Jasper, Renowned Archeologist
 	2 Auxiliary Phoenix
-	2 Raised Earth
+	2 Earth Taken Form
 	2 Yak Festival
 	2 Peripatetic Zebra
 	2 Jungling
@@ -2156,19 +2156,19 @@
 	2 Distant Expeditioner
 	2 Rimebound Reindeer
 	2 Blaze of the Kirin
-	2 Royal Mechanic
+	2 Queensworn Tinkerer
 	2 Cloudhome
 	2 Walls of Coalin
 	2 Submerged City
 	2 Deepgrove Woods
 	2 Winpeak Heights
-	2 Between Calm and Chaos
+	2 Calm or Chaos
 	2 The Sparkstone
 	1 Kira in a Strange Land
 	1 Orratz, Chimeric Stitcher
 	2 Rose, Exiled Kirin
 	2 Blazing Wurm
-	2 Cricket
+	2 Cricket, Wayfaring Changeling
 	2 Amber, on Fiery Wings
 	2 Insatiable Hivequeen
 	2 Sisters of Sun and Moon
@@ -2176,9 +2176,9 @@
 	2 Small World
 	2 Ancient Study
 	1 Chrysalis Dragon
-	2 Wind Elemental
+	2 Windrider Elemental
 	2 Brilliant Blade
-	2 Royal Saboteur
+	2 Queensworn Saboteur
 	2 Mare Admirers
 	2 Sanguinary Scourge
 	1 The Fabled Visitor
@@ -2192,7 +2192,7 @@
 	2 Thunderbolt Unicorn
 [uncommon(3)]
 	4 Easygoing Mountaineers
-	4 Frolicking Friend
+	4 Twintail Pathfinder
 	4 Sunforged Paladin
 	4 Sparkstone Studier
 	4 Path to Everywhere
@@ -2200,7 +2200,7 @@
 	4 Citywide Pursuit
 	4 Leaping Unicorn
 	4 Calmwater Sailor
-	4 Starbird Scout
+	4 Starbird Channeler
 	4 Piper's Hypnosis
 	4 Sink
 	4 Imprisoned in the Moon
@@ -2210,10 +2210,10 @@
 	4 Guardian Cerberus
 	4 Dispose
 	4 Not Dead Yet
-	4 Royal Archaeologist
+	4 Queensworn Archaeologist
 	4 Splatterhoof Kirin
 	4 Lavaborne Unicorn
-	4 Dragonlands Unicorn
+	4 Dragonhome Unicorn
 	4 Sunsear Dragon
 	4 Rose's Fury
 	4 Forbidden Bond
@@ -2222,7 +2222,7 @@
 	4 Plantbound Pony
 	4 Collossal Timberwolf
 	4 Nostalgia
-	4 Winpeak Elites
+	4 Queensworn Elites
 	4 Sociable Seapony
 	4 Blazing Defense
 	4 Cynical Hiveleader
@@ -2241,13 +2241,13 @@
 	4 Royal Horseshoe
 	4 Crystal Tree
 	4 Skycoach Waypoint
-	4 Royal Studier
+	4 Coalin Archivist
 	4 Graveyard Raiser
 	4 Coalin Scouts
 	4 Savage Descent
 	4 Winpeak Defense
 [common(6)]
-	8 Pond Pal
+	8 Palace Detainer
 	8 Perfect Pair
 	8 Outland Tamer
 	8 Courageous Clash
@@ -2316,7 +2316,7 @@
 	8 United Trio
 	8 Aerial Ambush
 [common | masterpiece(1)]
-	8 Pond Pal
+	8 Palace Detainer
 	8 Perfect Pair
 	8 Outland Tamer
 	8 Courageous Clash
@@ -2388,10 +2388,10 @@
 	1 Sister of the Sun
 	1 Sister of the Moon
 	1 Cedar, Kirin Sovereign
-	2 Hardcaster Mage
+	2 Lorecaster Mage
 	1 Thing From Another World
 	1 Wooded Chimera
-	1 Garden Tender
+	1 Lotus Tender
 	1 The Living Spark
 	2 Happy Camper
 	2 Rainbowhorn Kirin
@@ -2409,7 +2409,7 @@
 	2 Sonic Rainboom
 	1 Jasper, Renowned Archeologist
 	2 Auxiliary Phoenix
-	2 Raised Earth
+	2 Earth Taken Form
 	2 Yak Festival
 	2 Peripatetic Zebra
 	2 Jungling
@@ -2418,16 +2418,16 @@
 	2 Distant Expeditioner
 	2 Rimebound Reindeer
 	2 Blaze of the Kirin
-	2 Royal Mechanic
+	2 Queensworn Tinkerer
 	2 Cloudhome
 	2 Walls of Coalin
 	2 Submerged City
 	2 Deepgrove Woods
 	2 Winpeak Heights
-	2 Between Calm and Chaos
+	2 Calm or Chaos
 	2 The Sparkstone
 	6 Easygoing Mountaineers
-	6 Frolicking Friend
+	6 Twintail Pathfinder
 	6 Sunforged Paladin
 	6 Sparkstone Studier
 	6 Path to Everywhere
@@ -2435,7 +2435,7 @@
 	6 Citywide Pursuit
 	6 Leaping Unicorn
 	6 Calmwater Sailor
-	6 Starbird Scout
+	6 Starbird Channeler
 	6 Piper's Hypnosis
 	6 Sink
 	6 Imprisoned in the Moon
@@ -2445,10 +2445,10 @@
 	6 Guardian Cerberus
 	6 Dispose
 	6 Not Dead Yet
-	6 Royal Archaeologist
+	6 Queensworn Archaeologist
 	6 Splatterhoof Kirin
 	6 Lavaborne Unicorn
-	6 Dragonlands Unicorn
+	6 Dragonhome Unicorn
 	6 Sunsear Dragon
 	6 Rose's Fury
 	6 Forbidden Bond
@@ -2457,7 +2457,7 @@
 	6 Plantbound Pony
 	6 Collossal Timberwolf
 	6 Nostalgia
-	6 Winpeak Elites
+	6 Queensworn Elites
 	6 Sociable Seapony
 	6 Blazing Defense
 	6 Cynical Hiveleader
@@ -2475,7 +2475,7 @@
 	6 Ironclad Soldier
 	6 Royal Horseshoe
 	6 Crystal Tree
-	12 Pond Pal
+	12 Palace Detainer
 	12 Perfect Pair
 	12 Outland Tamer
 	12 Courageous Clash
@@ -2541,7 +2541,7 @@
 	1 Kira in a Strange Land
 	1 Orratz, Chimeric Stitcher
 	2 Rose, Exiled Kirin
-	6 Royal Studier
+	6 Coalin Archivist
 	12 Unaware Employee
 	12 On Ice
 	12 Mirthful Mailpony
@@ -2552,7 +2552,7 @@
 	6 Coalin Scouts
 	2 Blazing Wurm
 	6 Savage Descent
-	2 Cricket
+	2 Cricket, Wayfaring Changeling
 	2 Amber, on Fiery Wings
 	2 Insatiable Hivequeen
 	2 Sisters of Sun and Moon
@@ -2560,9 +2560,9 @@
 	2 Small World
 	2 Ancient Study
 	1 Chrysalis Dragon
-	2 Wind Elemental
+	2 Windrider Elemental
 	2 Brilliant Blade
-	2 Royal Saboteur
+	2 Queensworn Saboteur
 	2 Mare Admirers
 	2 Sanguinary Scourge
 	1 The Fabled Visitor
@@ -2579,10 +2579,10 @@
 	4 Sister of the Sun
 	4 Sister of the Moon
 	4 Cedar, Kirin Sovereign
-	7 Hardcaster Mage
+	7 Lorecaster Mage
 	4 Thing From Another World
 	4 Wooded Chimera
-	4 Garden Tender
+	4 Lotus Tender
 	4 The Living Spark
 	7 Happy Camper
 	7 Rainbowhorn Kirin
@@ -2600,7 +2600,7 @@
 	7 Sonic Rainboom
 	4 Jasper, Renowned Archeologist
 	7 Auxiliary Phoenix
-	7 Raised Earth
+	7 Earth Taken Form
 	7 Yak Festival
 	7 Peripatetic Zebra
 	7 Jungling
@@ -2609,16 +2609,16 @@
 	7 Distant Expeditioner
 	7 Rimebound Reindeer
 	7 Blaze of the Kirin
-	7 Royal Mechanic
+	7 Queensworn Tinkerer
 	7 Cloudhome
 	7 Walls of Coalin
 	7 Submerged City
 	7 Deepgrove Woods
 	7 Winpeak Heights
-	7 Between Calm and Chaos
+	7 Calm or Chaos
 	7 The Sparkstone
 	15 Easygoing Mountaineers
-	15 Frolicking Friend
+	15 Twintail Pathfinder
 	15 Sunforged Paladin
 	15 Sparkstone Studier
 	15 Path to Everywhere
@@ -2626,7 +2626,7 @@
 	15 Citywide Pursuit
 	15 Leaping Unicorn
 	15 Calmwater Sailor
-	15 Starbird Scout
+	15 Starbird Channeler
 	15 Piper's Hypnosis
 	15 Sink
 	15 Imprisoned in the Moon
@@ -2636,10 +2636,10 @@
 	15 Guardian Cerberus
 	15 Dispose
 	15 Not Dead Yet
-	15 Royal Archaeologist
+	15 Queensworn Archaeologist
 	15 Splatterhoof Kirin
 	15 Lavaborne Unicorn
-	15 Dragonlands Unicorn
+	15 Dragonhome Unicorn
 	15 Sunsear Dragon
 	15 Rose's Fury
 	15 Forbidden Bond
@@ -2648,7 +2648,7 @@
 	15 Plantbound Pony
 	15 Collossal Timberwolf
 	15 Nostalgia
-	15 Winpeak Elites
+	15 Queensworn Elites
 	15 Sociable Seapony
 	15 Blazing Defense
 	15 Cynical Hiveleader
@@ -2666,7 +2666,7 @@
 	15 Ironclad Soldier
 	15 Royal Horseshoe
 	15 Crystal Tree
-	6 Pond Pal
+	6 Palace Detainer
 	6 Perfect Pair
 	6 Outland Tamer
 	6 Courageous Clash
@@ -2732,7 +2732,7 @@
 	4 Kira in a Strange Land
 	4 Orratz, Chimeric Stitcher
 	7 Rose, Exiled Kirin
-	15 Royal Studier
+	15 Coalin Archivist
 	6 Unaware Employee
 	6 On Ice
 	6 Mirthful Mailpony
@@ -2743,7 +2743,7 @@
 	15 Coalin Scouts
 	7 Blazing Wurm
 	15 Savage Descent
-	7 Cricket
+	7 Cricket, Wayfaring Changeling
 	7 Amber, on Fiery Wings
 	7 Insatiable Hivequeen
 	7 Sisters of Sun and Moon
@@ -2751,9 +2751,9 @@
 	7 Small World
 	7 Ancient Study
 	4 Chrysalis Dragon
-	7 Wind Elemental
+	7 Windrider Elemental
 	7 Brilliant Blade
-	7 Royal Saboteur
+	7 Queensworn Saboteur
 	7 Mare Admirers
 	7 Sanguinary Scourge
 	4 The Fabled Visitor

@@ -1,4 +1,157 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+Lorecaster Mage added.
+Lotus Tender added.
+Earth Taken Form added.
+Queensworn Tinkerer added.
+Calm or Chaos added.
+Twintail Pathfinder added.
+Starbird Channeler added.
+Queensworn Archaeologist added.
+Dragonhome Unicorn added.
+Queensworn Elites added.
+Palace Detainer added.
+Coalin Archivist added.
+Cricket, Wayfaring Changeling added.
+Windrider Elemental added.
+Queensworn Saboteur added.
+Tenderblossom added.
+
+Hardcaster Mage removed.
+Garden Tender removed.
+Raised Earth removed.
+Royal Mechanic removed.
+Between Calm and Chaos removed.
+Frolicking Friend removed.
+Starbird Scout removed.
+Royal Archaeologist removed.
+Dragonlands Unicorn removed.
+Winpeak Elites removed.
+Pond Pal removed.
+Royal Studier removed.
+Cricket removed.
+Wind Elemental removed.
+Royal Saboteur removed.
+Clue removed.
+
+Cedar, Kirin Sovereign
+type: Legendary Creature — Kirin => Legendary Creature — Kirin Noble
+
+Weaver, Sparkchaser
+
+Caress of Dreams
+
+The Oncoming Storm
+pt: 5/4 => 4/4
+
+Jasper, Renowned Archeologist
+
+Distant Expeditioner
+
+Submerged City
+
+Easygoing Mountaineers
+
+Calmwater Sailor
+
+Dispose
+
+Lavaborne Unicorn
+
+Sociable Seapony
+
+Blazing Defense
+
+Dancing Longma
+rules_text: Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Double strike => Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Double strike [i](This creature deals both first-strike and regular combat damage.)[/i]
+
+Outland Tamer
+
+Cloudhome Tourist
+
+Deepsea Delver
+
+Pegasus's Whirlwind
+rules_text: Return target creature or battle to its owner's hand. => Return target nonland permanent to its owner's hand.
+
+Serpentine Encounter
+cost: {3}{U} => {1}{U}
+rules_text: [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, draw two cards. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, draw a card.
+loyalty: 5 => 4
+
+Plagued Pony
+
+Sardonic Recluse
+
+Blazing Kirin
+
+Deepgrove Impersonator
+
+Illusive Peacock
+
+Hive Scout
+
+Skycoach Waypoint
+
+Embers of Emotion
+
+My Little Ponies
+
+Kira in a Strange Land
+rules_text: Creatures you control get +1/+1.
+[+1]: You gain 1 life.
+[-3]: Create a black enchantment token with “At the beginning of your upkeep, you lose 1 life and create a 1/1 black and white Pegasus creature token with flying.” => Creatures you control get +1/+1.
+[+1]: You gain 1 life.
+[-3]: Create a black and white enchantment token named Tenderblossom with “At the beginning of your upkeep, you lose 1 life and create a 1/1 black and white Pegasus creature token with flying.”
+special_text: Creatures you control get +1/+1.
+[+1]: You gain 1 life.
+[-3]: Create a black enchantment token with “At the beginning of your upkeep, you lose 1 life and create a 1/1 black and white Pegasus creature token with flying.” => Creatures you control get +1/+1.
+[+1]: You gain 1 life.
+[-3]: Create a black and white enchantment token named Tenderblossom with “At the beginning of your upkeep, you lose 1 life and create a 1/1 black and white Pegasus creature token with flying.”
+
+Rose, Exiled Kirin
+type: Legendary Creature — Kirin => Legendary Creature — Kirin Noble
+
+Unaware Employee
+
+Trotivore
+
+Pony
+
+Pony Army
+
+Nightmare
+
+Elemental
+
+Unicorn
+
+Elemental
+
+Bird Illusion
+
+Black Lotus
+
+Everywhere
+
+Merfolk
+rules_text: Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i] => 
+
+Kirin
+
+Banner
+
+Pegasus
+
+Rabbit
+
+
+VERSION 23 CHANGELOG
 ====================
 
 
