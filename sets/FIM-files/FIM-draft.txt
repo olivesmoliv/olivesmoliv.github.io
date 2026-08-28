@@ -243,7 +243,7 @@
 		{
 			"name": "Earth Taken Form",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}{G}",
+			"mana_cost": "{1}{G}{G}",
 			"type": "Battle — Problem",
 			"collector_number": "108",
 			"image_uris": {
@@ -1713,7 +1713,7 @@
 		{
 			"name": "Savvy Shopper",
 			"rarity": "rare",
-			"mana_cost": "{1}{G}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Creature — Pony",
 			"collector_number": "121",
 			"image_uris": {

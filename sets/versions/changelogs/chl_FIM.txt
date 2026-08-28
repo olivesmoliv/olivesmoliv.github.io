@@ -1,4 +1,37 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+
+
+Earth Taken Form
+cost: {3}{G}{G} => {1}{G}{G}
+loyalty: 6 => 5
+
+Snarling Timberwolf
+
+Guardian Cerberus
+
+Sunsear Dragon
+
+Ravenous Gator
+
+Nomadic Sorcerer
+
+Deepgrove Gravecaller
+
+Deepgrove Impersonator
+
+Outskirt Scouts
+
+Mirthful Mailpony
+
+Savvy Shopper
+cost: {1}{G}{G} => {2}{G}
+
+Brilliant Blade
+
+
+VERSION 25 CHANGELOG
 ====================
 
 Animated Earth added.
