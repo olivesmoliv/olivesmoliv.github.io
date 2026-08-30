@@ -25,7 +25,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Kirin Noble",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/2.png"
 			}
@@ -293,7 +293,7 @@
 		{
 			"name": "Battle at Winpeak",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Battle — Problem",
 			"collector_number": "7",
 			"image_uris": {
@@ -481,10 +481,10 @@
 			}
 		},
 		{
-			"name": "Leaping Unicorn",
+			"name": "Leaping Pegasus",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Unicorn",
+			"type": "Creature — Pegasus",
 			"collector_number": "39",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/48.png"
@@ -1441,11 +1441,11 @@
 			}
 		},
 		{
-			"name": "Burst Lightning",
+			"name": "Crackling Lightning",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "83",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/145.png"
 			}
@@ -1911,23 +1911,13 @@
 			}
 		},
 		{
-			"name": "Pony Army",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Pony Army",
-			"collector_number": "9",
-			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/192.png"
-			}
-		},
-		{
 			"name": "Nightmare",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Nightmare",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/193.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/192.png"
 			}
 		},
 		{
@@ -1935,9 +1925,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/194.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/193.png"
 			}
 		},
 		{
@@ -1947,7 +1937,7 @@
 			"type": "Token Creature — Unicorn",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/195.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/194.png"
 			}
 		},
 		{
@@ -1957,7 +1947,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/196.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/195.png"
 			}
 		},
 		{
@@ -1967,7 +1957,7 @@
 			"type": "Token Creature — Fish",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/197.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/196.png"
 			}
 		},
 		{
@@ -1977,7 +1967,7 @@
 			"type": "Token Creature — Bird Illusion",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/198.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/197.png"
 			}
 		},
 		{
@@ -1985,9 +1975,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/199.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/198.png"
 			}
 		},
 		{
@@ -1995,9 +1985,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Land",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/200.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/199.png"
 			}
 		},
 		{
@@ -2005,9 +1995,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/201.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/200.png"
 			}
 		},
 		{
@@ -2017,17 +2007,17 @@
 			"type": "Token Creature — Merfolk",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/202.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/201.png"
 			}
 		},
 		{
-			"name": "Insect",
+			"name": "Spider",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Insect",
-			"collector_number": "15",
+			"type": "Token Creature — Spider",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/203.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/202.png"
 			}
 		},
 		{
@@ -2035,9 +2025,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Unicorn Archer",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/204.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/203.png"
 			}
 		},
 		{
@@ -2045,9 +2035,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Pony Skeleton",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/205.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/204.png"
 			}
 		},
 		{
@@ -2055,9 +2045,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/206.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/205.png"
 			}
 		},
 		{
@@ -2065,9 +2055,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Kirin",
-			"collector_number": "16",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/207.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/206.png"
 			}
 		},
 		{
@@ -2075,9 +2065,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Ox",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/208.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/207.png"
 			}
 		},
 		{
@@ -2085,9 +2075,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact",
-			"collector_number": "19",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/209.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/208.png"
 			}
 		},
 		{
@@ -2095,9 +2085,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Pegasus",
-			"collector_number": "17",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/210.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/209.png"
 			}
 		},
 		{
@@ -2107,7 +2097,7 @@
 			"type": "Token Creature — Rabbit",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/211.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/210.png"
 			}
 		},
 		{
@@ -2115,9 +2105,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/212.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/211.png"
 			}
 		},
 		{
@@ -2125,9 +2115,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Zebra",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/213.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/212.png"
 			}
 		},
 		{
@@ -2135,9 +2125,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/214.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/213.png"
 			}
 		},
 		{
@@ -2147,7 +2137,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/215.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/214.png"
 			}
 		},
 		{
@@ -2157,7 +2147,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/216.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/215.png"
 			}
 		},
 		{
@@ -2167,7 +2157,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/217.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/216.png"
 			}
 		},
 		{
@@ -2177,7 +2167,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/218.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/217.png"
 			}
 		},
 		{
@@ -2187,7 +2177,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/219.png"
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/218.png"
 			}
 		}
 	]
@@ -2268,7 +2258,7 @@
 	4 Path to Everywhere
 	4 Friendship is Magic
 	4 Citywide Pursuit
-	4 Leaping Unicorn
+	4 Leaping Pegasus
 	4 Calmwater Sailor
 	4 Starbird Channeler
 	4 Piper's Hypnosis
@@ -2371,7 +2361,7 @@
 	8 Outland Axebearer
 	8 Shoreline Clash
 	8 Unicorn's Reversal
-	8 Burst Lightning
+	8 Crackling Lightning
 	8 Embers of Emotion
 	8 My Little Ponies
 	8 Outland Yakrider
@@ -2440,7 +2430,7 @@
 	8 Outland Axebearer
 	8 Shoreline Clash
 	8 Unicorn's Reversal
-	8 Burst Lightning
+	8 Crackling Lightning
 	8 Embers of Emotion
 	8 My Little Ponies
 	8 Outland Yakrider
@@ -2503,7 +2493,7 @@
 	6 Path to Everywhere
 	6 Friendship is Magic
 	6 Citywide Pursuit
-	6 Leaping Unicorn
+	6 Leaping Pegasus
 	6 Calmwater Sailor
 	6 Starbird Channeler
 	6 Piper's Hypnosis
@@ -2599,7 +2589,7 @@
 	12 Outland Axebearer
 	12 Shoreline Clash
 	12 Unicorn's Reversal
-	12 Burst Lightning
+	12 Crackling Lightning
 	6 Skycoach Waypoint
 	12 Embers of Emotion
 	12 My Little Ponies
@@ -2694,7 +2684,7 @@
 	15 Path to Everywhere
 	15 Friendship is Magic
 	15 Citywide Pursuit
-	15 Leaping Unicorn
+	15 Leaping Pegasus
 	15 Calmwater Sailor
 	15 Starbird Channeler
 	15 Piper's Hypnosis
@@ -2790,7 +2780,7 @@
 	6 Outland Axebearer
 	6 Shoreline Clash
 	6 Unicorn's Reversal
-	6 Burst Lightning
+	6 Crackling Lightning
 	15 Skycoach Waypoint
 	6 Embers of Emotion
 	6 My Little Ponies

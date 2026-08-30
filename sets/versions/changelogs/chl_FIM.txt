@@ -1,4 +1,134 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+Leaping Pegasus added.
+Crackling Lightning added.
+Spider added.
+
+Leaping Unicorn removed.
+Burst Lightning removed.
+Pony Army removed.
+Insect removed.
+
+Lorecaster Mage
+
+Lotus Tender
+
+Fateful Absence
+
+Spirited Tracker
+
+Obsessive Stalker
+
+Jasper, Renowned Archeologist
+
+Peripatetic Zebra
+
+Questing Chimera
+
+Battle at Winpeak
+cost: {2}{W} => {3}{W}
+rules_text: [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+Whenever one or more defense counters are removed from this Problem, amass Ponies X, where X is the number of counters removed. [i](Put X +1/+1 counters on an Army you control. It's also a Pony If you don't control an Army, create a 0/0 black Pony Army creature token first.)[/i] => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, put two +1/+1 counters on each creature you control.
+loyalty: 5 => 6
+
+Blaze of the Kirin
+rules_text: [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+Whenever one or more defense counters are removed from this battle, put that many +1/+1 counters on up to target creature you control. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+Whenever one or more defense counters are removed from this Problem, put that many +1/+1 counters on up to target creature you control.
+
+Cloudhome
+
+Walls of Coalin
+
+Submerged City
+
+Deepgrove Woods
+
+Winpeak Heights
+
+Calm or Chaos
+
+Sink
+
+Animated Earth
+
+Royal Horseshoe
+rules_text: When this Equipment enters, create a 1/1 white Pony creature token, then attach this Equipment to it.
+Equipped creature gets +1/+0.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When this Equipment enters, create a 1/1 white Pony creature token, then attach this Equipment to it.
+Equipped creature gets +1/+1.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Plagued Pony
+rules_text: When this creature dies, create a 1/1 black and green Insect creature token with flying. => When this creature dies, create a 1/1 black and green Spider creature token. Each opponent loses 1 life.
+
+Sardonic Recluse
+rules_text: Flying, deathtouch
+{3}, Sacrifice another creature or artifact: Draw a card. => Flying
+{3}, Sacrifice another creature or artifact: Draw a card.
+pt: 2/2 => 2/3
+
+Orratz, Chimeric Stitcher
+
+Rose, Exiled Kirin
+
+On Ice
+rules_text: Choose one —
+• The owner of target nonland permanent puts it on their choice of the top or bottom of their library.
+• Counter target spell. => Choose one —
+• The owner of target creature puts it on their choice of the top or bottom of their library.
+• Counter target spell.
+
+Ancient Study
+
+Gold, Perissian Queen
+
+Nightmare
+
+Elemental
+
+Unicorn
+
+Elemental
+
+Fish
+
+Bird Illusion
+
+Black Lotus
+
+Everywhere
+
+Clue
+
+Merfolk
+
+Unicorn Archer
+
+Pony Skeleton
+
+Treasure
+
+Kirin
+
+Ox
+
+Banner
+
+Pegasus
+
+Rabbit
+
+Tenderblossom
+
+Zebra
+
+Emblem
+
+
+VERSION 26 CHANGELOG
 ====================
 
 
