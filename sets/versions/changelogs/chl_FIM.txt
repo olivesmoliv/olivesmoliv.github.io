@@ -1,4 +1,303 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+Coalin Scout added.
+
+Coalin Scouts removed.
+
+Slay the Serpent
+
+Scorching Prescence
+
+Earth Taken Form
+
+Battle at Winpeak
+
+Celestial Summoning
+
+Blaze of the Kirin
+
+Citywide Pursuit
+
+Piper's Hypnosis
+
+Recreating Burst
+
+Not Dead Yet
+
+Forbidden Bond
+
+Nostalgia
+
+Fiery Ascent
+rules_text: [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, it deals 2 damage to each opponent. You may discard a card. If you do, draw two cards. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, it deals 2 damage to each opponent and gain 2 life. You may discard a card. If you do, draw a card.
+
+Overgrowing Timberland
+
+Courageous Clash
+
+Serpentine Encounter
+
+Claws of the Ursa
+
+Kirin Exile
+
+Lost in Deepgrove
+
+Rebuilding Effort
+
+Sister of the Sun
+
+Sister of the Moon
+
+Cedar, Kirin Sovereign
+
+Lorecaster Mage
+
+Thing From Another World
+
+Wooded Chimera
+
+Lotus Tender
+
+The Living Spark
+
+Happy Camper
+
+Rainbowhorn Kirin
+
+Fateful Absence
+
+Spirited Tracker
+
+Inquisitive Seapony
+
+Obsessive Stalker
+
+Darkhoof Stallion
+
+Weaver, Sparkchaser
+
+Caress of Dreams
+
+The Oncoming Storm
+
+Sonic Rainboom
+
+Jasper, Renowned Archeologist
+
+Auxiliary Phoenix
+
+Yak Festival
+
+Peripatetic Zebra
+
+Jungling
+
+Questing Chimera
+
+Distant Expeditioner
+
+Rimebound Reindeer
+
+Queensworn Tinkerer
+
+Cloudhome
+
+Walls of Coalin
+
+Submerged City
+
+Deepgrove Woods
+
+Winpeak Heights
+
+Calm or Chaos
+
+The Sparkstone
+
+Easygoing Mountaineers
+
+Twintail Pathfinder
+
+Sunforged Paladin
+pt: 2/1 => 2/2
+
+Sparkstone Studier
+
+Path to Everywhere
+
+Friendship is Magic
+
+Leaping Pegasus
+
+Calmwater Sailor
+
+Starbird Channeler
+
+Sink
+
+Imprisoned in the Moon
+
+Obsessive Tracking
+
+Snarling Timberwolf
+
+Guardian Cerberus
+
+Dispose
+
+Queensworn Archaeologist
+
+Splatterhoof Kirin
+
+Lavaborne Unicorn
+
+Dragonhome Unicorn
+
+Sunsear Dragon
+
+Rose's Fury
+
+Hunted Heir
+
+Galloping Unicorn
+
+Plantbound Pony
+
+Collossal Timberwolf
+
+Queensworn Elites
+
+Sociable Seapony
+
+Blazing Defense
+
+Cynical Hiveleader
+
+Ravenous Gator
+
+Dauntless General
+
+Curious Changeling
+
+Naive Changeling
+
+Busy Birdcaller
+
+Deepsea Pioneer
+
+Cordial Shifter
+
+Dancing Longma
+
+Animated Earth
+
+Ironclad Soldier
+
+Royal Horseshoe
+
+Crystal Tree
+
+Palace Detainer
+
+Perfect Pair
+
+Outland Tamer
+
+Ancients of Wind
+
+Proud Pony
+
+Arcane Awakening
+
+Endless Iteration
+
+Banishing Light
+
+Aspiring Adventurer
+
+Outland Stormcaller
+
+Nomadic Sorcerer
+
+Cloudhome Tourist
+
+Deepsea Delver
+
+Imperfect Artist
+
+Courageous Intervention
+
+Pegasus's Whirlwind
+
+Plagued Pony
+
+Deepgrove Gravecaller
+
+Sardonic Recluse
+
+Disguised Changeling
+
+Queen's Executioner
+
+Predatory Gravelurker
+
+Saved by the Stars
+
+Blazing Kirin
+
+Rallied Raiders
+
+Winpeak Soldier
+
+Lavish Campaigner
+
+Wayfaring Kirin
+
+Deepgrove Hunter
+
+Ancients of Growth
+
+Prowling Timberwolf
+
+Take Down
+
+Deepgrove Impersonator
+
+Swift Skyhunter
+
+Changeling Commander
+
+Illusive Peacock
+
+Hive Scout
+
+Deepgrove Hydra
+
+Evolving Wilds
+
+Cloudcliff Aerie
+
+Volatile Peak
+
+Changeling Nest
+
+Small-Town Shores
+
+Deepgrove Gully
+
+Ancient Study
+
+Brilliant Blade
+rules_text: Whenever you cast a noncreature spell, put a hone counter on this Equipment. [i](Each hone counter on an Equipment grants +1/+0 to equipped creature.)[/i]
+Equip {2} => Whenever you cast a noncreature spell, put a hone counter on this Equipment. [i](Each hone counter on an Equipment grants +1/+0 to equipped creature.)[/i] [i](Each hone counter on an Equipment grants +1/+0 to equipped creature.)[/i]
+Equip {2}
+
+
+VERSION 27 CHANGELOG
 ====================
 
 Leaping Pegasus added.

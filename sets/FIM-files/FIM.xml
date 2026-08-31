@@ -5,10 +5,368 @@
 			<name>FIM</name>
 			<longname>Periss: Friendship Is Magic</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-30</releasedate>
+			<releasedate>2026-08-31</releasedate>
 		</set>
 	</sets>
 	<cards>
+		<card>
+			<name>Slay the Serpent</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, create a 2/2 blue Unicorn creature token with &quot;Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.&quot;</text>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/0.png" num="51">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scorching Prescence</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
+			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/1.png" num="97">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>7</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Earth Taken Form</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, create an X/X green Elemental creature token, where X is the number of lands you control.</text>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/2.png" num="108">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Battle at Winpeak</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, put two +1/+1 counters on each creature you control.</text>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/3.png" num="7">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>6</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Celestial Summoning</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters, create a 5/5 black Nightmare creature token. It can&apos;t block and can&apos;t attack players for as long as you control this Problem.</text>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/4.png" num="55">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blaze of the Kirin</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+Whenever one or more defense counters are removed from this Problem, put that many +1/+1 counters on up to target creature you control.</text>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/5.png" num="154">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>1R/WR/W</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<loyalty>6</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Citywide Pursuit</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/6.png" num="8">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Piper&apos;s Hypnosis</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, create a token that&apos;s a copy of target non-battle permanent you control.</text>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/7.png" num="47">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Recreating Burst</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, return up to one target instant or sorcery card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/8.png" num="48">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Not Dead Yet</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, return up to one target creature card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/9.png" num="65">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Forbidden Bond</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card.</text>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/10.png" num="87">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nostalgia</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, return target non-battle permanent card from your graveyard to your hand. If it was a land card, you may put it onto the battlefield tapped instead.</text>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/11.png" num="114">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fiery Ascent</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, it deals 2 damage to each opponent and gain 2 life. You may discard a card. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/12.png" num="138">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Overgrowing Timberland</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, draw a card, then you may put a land card from your hand onto the battlefield.</text>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/13.png" num="144">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Courageous Clash</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, create two 1/1 white Pony creature tokens.</text>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/14.png" num="9">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Serpentine Encounter</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, draw a card.</text>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/15.png" num="49">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Claws of the Ursa</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, target opponent discards a card.</text>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/16.png" num="56">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kirin Exile</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, you may discard a card. If you do, draw two cards.</text>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/17.png" num="89">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lost in Deepgrove</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/18.png" num="113">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rebuilding Effort</name>
+			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
+When this Problem enters or is defeated, search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/19.png" num="2">FIM</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Problem</type>
+				<maintype>Battle</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
 		<card>
 			<name>Sister of the Sun // Sun&apos;s Radiance</name>
 			<text>Sister of the Sun enters prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
@@ -18,7 +376,7 @@ Sister of the Sun can&apos;t attack or block as long as she&apos;s prepared.
 ---
 
 Return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
-			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/0.png" num="23">FIM</set>
+			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/21.png" num="23">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -41,7 +399,7 @@ Sister of the Moon can&apos;t attack or block as long as she&apos;s prepared.
 ---
 
 Each player sacrifices a creature.</text>
-			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/1.png" num="75">FIM</set>
+			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/22.png" num="75">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -59,7 +417,7 @@ Each player sacrifices a creature.</text>
 			<name>Cedar, Kirin Sovereign</name>
 			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 If a source you control would deal damage to an opponent or a permanent an opponent controls or protects, it deals that much damage plus 1 instead.</text>
-			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/2.png" num="83">FIM</set>
+			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/23.png" num="83">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -76,7 +434,7 @@ If a source you control would deal damage to an opponent or a permanent an oppon
 		<card>
 			<name>Lorecaster Mage</name>
 			<text>When this creature enters, you may exile target instant or sorcery card with mana value 3 or less from a graveyard as one of this creature prepared spells. Then it becomes prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/3.png" num="91">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/24.png" num="91">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -94,7 +452,7 @@ If a source you control would deal damage to an opponent or a permanent an oppon
 			<name>Thing From Another World</name>
 			<text>Whenever this creature deals combat damage to a player or noncreature permanent, create a Clue token.
 Artifacts you control are Landers in addition to their other types and have &quot;{2}, {T}, Sacrifice this artifact: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.&quot;</text>
-			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/4.png" num="124">FIM</set>
+			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/25.png" num="124">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -112,7 +470,7 @@ Artifacts you control are Landers in addition to their other types and have &quo
 			<name>Wooded Chimera</name>
 			<text>Backup 2 (When this creature enters, put two +1/+1 counters on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 You may have this creature assign combat damage as though it wasn&apos;t blocked.</text>
-			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/5.png" num="127">FIM</set>
+			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/26.png" num="127">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -130,7 +488,7 @@ You may have this creature assign combat damage as though it wasn&apos;t blocked
 			<name>Lotus Tender</name>
 			<text>Flying
 Landfall — Whenever a land you control enters, create a Black Lotus token. (It&apos;s a {0} artifact with &quot;{T}, Sacrifice this artifact: Add three mana of any one color.&quot;)</text>
-			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/6.png" num="143">FIM</set>
+			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/27.png" num="143">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -150,7 +508,7 @@ Landfall — Whenever a land you control enters, create a Black Lotus token. (It
 [+1]: Draw a card, then discard a card.
 [-2]: The Living Spark deals 2 damage to any nonplayer target and 1 damage to its controller.
 [-5]: You get an emblem with &quot;Noncreature spells you cast cost {1} less to cast.&quot;</text>
-			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/7.png" num="142">FIM</set>
+			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/28.png" num="142">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -167,7 +525,7 @@ Landfall — Whenever a land you control enters, create a Black Lotus token. (It
 		<card>
 			<name>Happy Camper</name>
 			<text>Unite — {T}: Draw a card. Activate only if a token entered under your control this turn and only as a sorcery.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/8.png" num="14">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/29.png" num="14">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -185,7 +543,7 @@ Landfall — Whenever a land you control enters, create a Black Lotus token. (It
 			<name>Rainbowhorn Kirin</name>
 			<text>Backup 2 (When this creature enters, put two +1/+1 counters on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 Other creatures you control get +1/+1.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/9.png" num="22">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/30.png" num="22">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -202,7 +560,7 @@ Other creatures you control get +1/+1.</text>
 		<card>
 			<name>Fateful Absence</name>
 			<text>Destroy target creature or planeswalker. Its controller creates a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/10.png" num="12">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/31.png" num="12">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -219,7 +577,7 @@ Other creatures you control get +1/+1.</text>
 			<name>Spirited Tracker</name>
 			<text>Landfall — Whenever a land you control enters, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
 Whenever you sacrifice a Clue, up to one target creature can&apos;t be blocked this turn.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/11.png" num="52">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/32.png" num="52">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -242,7 +600,7 @@ Whenever you cast your third spell each turn, this creature becomes prepared.
 
 Enchant creature
 Whenever enchanted creature deals damage to an opponent, you may draw a card.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/12.png" num="38">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/33.png" num="38">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -257,46 +615,10 @@ Whenever enchanted creature deals damage to an opponent, you may draw a card.</t
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Slay the Serpent</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, create a 2/2 blue Unicorn creature token with &quot;Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.&quot;</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/13.png" num="51">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>2U</manacost>
-				<cmc>3</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-				<loyalty>4</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Celestial Summoning</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters, create a 5/5 black Nightmare creature token. It can&apos;t block and can&apos;t attack players for as long as you control this Problem.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/14.png" num="55">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<loyalty>5</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Obsessive Stalker</name>
 			<text>Menace
 Unite — Whenever this creature attacks, it deals 2 damage to you unless if a token entered under your control this turn.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/15.png" num="66">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/34.png" num="66">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -319,7 +641,7 @@ Whenever a nontoken creature you control dies, this creature becomes prepared.
 ---
 
 Create a 2/2 black Elemental creature token with menace.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/16.png" num="58">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/35.png" num="58">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -337,7 +659,7 @@ Create a 2/2 black Elemental creature token with menace.</text>
 			<name>Weaver, Sparkchaser</name>
 			<text>At the beginning of your end step, create a 1/1 black Pony Skeleton creature token, then put a +1/+1 counter on each other Skeleton you control.
 Creature tokens you control have menace.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/17.png" num="78">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/36.png" num="78">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -354,7 +676,7 @@ Creature tokens you control have menace.</text>
 		<card>
 			<name>Caress of Dreams</name>
 			<text>Exile target creature or battle card with mana value 3 or less from your graveyard. Cast a copy of it without paying its mana cost. It enters tapped if it&apos;s a creature.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/18.png" num="54">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/37.png" num="54">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -372,7 +694,7 @@ Creature tokens you control have menace.</text>
 			<text>Storm (When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)
 The Oncoming Storm isn&apos;t legendary if it&apos;s a token.
 Flying</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/19.png" num="92">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/38.png" num="92">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -387,29 +709,11 @@ Flying</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Scorching Prescence</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
-			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/20.png" num="97">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>3RR</manacost>
-				<cmc>5</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<loyalty>7</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Sonic Rainboom</name>
 			<text>Choose one —
 • Sonic Rainboom deals 5 damage to any nonplayer target.
 • Add {W}{U}{B}{R}{G}. Until end of turn, you don&apos;t lose this mana as steps and phases end. You can&apos;t spend this mana to cast spells from your hand.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/21.png" num="98">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/39.png" num="98">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -430,7 +734,7 @@ Whenever Jasper attacks, you may discard a card. If you do, draw a card.
 ---
 
 Search your library for an artifact card with mana value 3 or less, put it onto the battlefield, then shuffle.</text>
-			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/22.png" num="140">FIM</set>
+			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/40.png" num="140">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -449,7 +753,7 @@ Search your library for an artifact card with mana value 3 or less, put it onto 
 			<text>Flying
 This creature attacks each combat if able.
 At the beginning of combat on your turn, if you&apos;ve put a counter on a creature this turn, return this card from your graveyard to the battlefield. It gains haste until end of turn.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/23.png" num="80">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/41.png" num="80">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -464,24 +768,6 @@ At the beginning of combat on your turn, if you&apos;ve put a counter on a creat
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Earth Taken Form</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, create an X/X green Elemental creature token, where X is the number of lands you control.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/24.png" num="108">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>1GG</manacost>
-				<cmc>3</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<loyalty>5</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Yak Festival // Yak&apos;s Banner</name>
 			<text>Whenever you attack, create a 2/2 green Ox creature token that&apos;s tapped and attacking and this enchantment becomes prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
 
@@ -489,7 +775,7 @@ When this Problem enters or is defeated, create an X/X green Elemental creature 
 
 As this artifact enters, choose a creature type.
 Creatures you control of the chosen type get +1/+1.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/25.png" num="128">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/42.png" num="128">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -506,7 +792,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 			<name>Peripatetic Zebra</name>
 			<text>You may spend {C} as though it were mana of any color to cast spells from anywhere other than your hand. (Prepare spells are cast from exile.)
 {T}: Add {C}.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/26.png" num="116">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/43.png" num="116">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -524,7 +810,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 			<name>Jungling</name>
 			<text>Whenever one or more creatures you control deal combat damage to an opponent or noncreature permanent, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
 Whenever you sacrifice a Clue, create a 2/2 green Zebra creature token.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/27.png" num="111">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/44.png" num="111">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -543,7 +829,7 @@ Whenever you sacrifice a Clue, create a 2/2 green Zebra creature token.</text>
 Combat damage can&apos;t be prevented.
 Spells can&apos;t be countered.
 Whenever this creature deals combat damage to a player or noncreature permanent, you may put a land card from your hand onto the battlefield.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/28.png" num="119">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/45.png" num="119">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -558,27 +844,9 @@ Whenever this creature deals combat damage to a player or noncreature permanent,
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Battle at Winpeak</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, put two +1/+1 counters on each creature you control.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/29.png" num="7">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>3W</manacost>
-				<cmc>4</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<loyalty>6</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Distant Expeditioner</name>
 			<text>When this creature enters, if it was cast, search your library for a battle card, put it onto the battlefield, then shuffle. This creature deals 33 damage to it.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/30.png" num="137">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/46.png" num="137">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -595,7 +863,7 @@ When this Problem enters or is defeated, put two +1/+1 counters on each creature
 		<card>
 			<name>Rimebound Reindeer</name>
 			<text>Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent. If you cast that spell from anywhere other than your hand, add {U} or {R}. (Prepared spells are cast from exile.)</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/31.png" num="147">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/47.png" num="147">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -610,24 +878,6 @@ When this Problem enters or is defeated, put two +1/+1 counters on each creature
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Blaze of the Kirin</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-Whenever one or more defense counters are removed from this Problem, put that many +1/+1 counters on up to target creature you control.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/32.png" num="154">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>1R/WR/W</manacost>
-				<cmc>3</cmc>
-				<colors>WR</colors>
-				<coloridentity>WR</coloridentity>
-				<loyalty>6</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Queensworn Tinkerer // Teach by Example</name>
 			<text>Flying
 Whenever this creature attacks, draw a card, then discard a card. If you discard a nonland card this way, this creature becomes prepared.
@@ -635,7 +885,7 @@ Whenever this creature attacks, draw a card, then discard a card. If you discard
 ---
 
 When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/33.png" num="170">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/48.png" num="170">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -657,7 +907,7 @@ When you next cast an instant or sorcery spell this turn, copy that spell. You m
 ---
 
 Put a +1/+1 counter on each creature you control that attacked this turn.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/34.png" num="181">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/49.png" num="181">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -677,7 +927,7 @@ Put a +1/+1 counter on each creature you control that attacked this turn.</text>
 ---
 
 Return target creature card from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/35.png" num="189">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/50.png" num="189">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -697,7 +947,7 @@ Return target creature card from your graveyard to your hand.</text>
 ---
 
 Draw a card.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/36.png" num="187">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/51.png" num="187">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -717,7 +967,7 @@ Draw a card.</text>
 ---
 
 Target land you control becomes a 6/6 Elemental creature with trample until end of turn. It&apos;s still a land. Untap it.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/37.png" num="183">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/52.png" num="183">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -737,7 +987,7 @@ Target land you control becomes a 6/6 Elemental creature with trample until end 
 ---
 
 Create two 1/1 white Pony creature tokens.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/38.png" num="190">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/53.png" num="190">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -754,7 +1004,7 @@ Create two 1/1 white Pony creature tokens.</text>
 			<text>Choose one —
 • Draw two cards, then discard a card unless you sacrifice a nonland permanent.
 • Destroy target artifact. Between Calm and Chaos deals 2 damage to that artifact&apos;s controller.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/39.png" num="131">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/54.png" num="131">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -771,7 +1021,7 @@ Create two 1/1 white Pony creature tokens.</text>
 			<name>The Sparkstone</name>
 			<text>The Sparkstone has all loyalty abilities of all other planeswalkers on the battlefield.
 {T}: Add one mana of any color.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/40.png" num="178">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/55.png" num="178">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -785,7 +1035,7 @@ Create two 1/1 white Pony creature tokens.</text>
 		<card>
 			<name>Easygoing Mountaineers</name>
 			<text>Unite — At the beginning of your end step, if a token entered under your control this turn, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/41.png" num="10">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/56.png" num="10">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -803,7 +1053,7 @@ Create two 1/1 white Pony creature tokens.</text>
 			<name>Twintail Pathfinder</name>
 			<text>Lifelink
 Whenever this creature becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on it. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/42.png" num="27">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/57.png" num="27">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -821,7 +1071,7 @@ Whenever this creature becomes the target of a spell or ability you control for 
 			<name>Sunforged Paladin</name>
 			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/43.png" num="26">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/58.png" num="26">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -831,7 +1081,7 @@ Whenever this creature deals combat damage to a player, put a +1/+1 counter on i
 				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -839,7 +1089,7 @@ Whenever this creature deals combat damage to a player, put a +1/+1 counter on i
 			<name>Sparkstone Studier</name>
 			<text>When this creature enters, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
 Whenever you sacrifice a Clue, create a 1/1 white Pony creature token.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/44.png" num="25">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/59.png" num="25">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -856,7 +1106,7 @@ Whenever you sacrifice a Clue, create a 1/1 white Pony creature token.</text>
 		<card>
 			<name>Path to Everywhere</name>
 			<text>Exile target creature. Its controller creates a tapped colorless land token named Everywhere that is every basic land type.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/45.png" num="18">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/60.png" num="18">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -873,7 +1123,7 @@ Whenever you sacrifice a Clue, create a 1/1 white Pony creature token.</text>
 			<name>Friendship is Magic</name>
 			<text>Counter target spell that targets you or a permanent you control.
 Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/46.png" num="13">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/61.png" num="13">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -887,24 +1137,6 @@ Scry 1. (Look at the top card of your library. You may put that card on the bott
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Citywide Pursuit</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/47.png" num="8">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>2W</manacost>
-				<cmc>3</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<loyalty>5</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Leaping Pegasus // Splash!</name>
 			<text>Flash
 Flying
@@ -913,7 +1145,7 @@ This creature enters prepared. (While it&apos;s prepared, you may cast a copy of
 ---
 
 Put a +1/+1 counter on target creature.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/48.png" num="39">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/62.png" num="39">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -935,7 +1167,7 @@ Put a +1/+1 counter on target creature.</text>
 ---
 
 Create a 2/2 blue Merfolk creature token.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/49.png" num="31">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/63.png" num="31">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -952,7 +1184,7 @@ Create a 2/2 blue Merfolk creature token.</text>
 		<card>
 			<name>Starbird Channeler</name>
 			<text>Whenever you cast a noncreature spell, create a 1/1 blue Bird Illusion creature token with flying.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/50.png" num="53">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/64.png" num="53">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -967,27 +1199,9 @@ Create a 2/2 blue Merfolk creature token.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Piper&apos;s Hypnosis</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, create a token that&apos;s a copy of target non-battle permanent you control.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/51.png" num="47">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>4UU</manacost>
-				<cmc>6</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-				<loyalty>3</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Sink</name>
 			<text>Counter target creature or battle spell.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/52.png" num="50">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/65.png" num="50">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1004,7 +1218,7 @@ When this Problem enters or is defeated, create a token that&apos;s a copy of ta
 			<name>Imprisoned in the Moon</name>
 			<text>Enchant creature, land, or planeswalker
 Enchanted permanent is a colorless land with &quot;{T}: Add {C}&quot; and loses all other card types and abilities.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/53.png" num="37">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/66.png" num="37">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1018,28 +1232,10 @@ Enchanted permanent is a colorless land with &quot;{T}: Add {C}&quot; and loses 
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Recreating Burst</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, return up to one target instant or sorcery card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/54.png" num="48">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>2U</manacost>
-				<cmc>3</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-				<loyalty>4</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Obsessive Tracking</name>
 			<text>When this enchantment enters, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
 Whenever you sacrifice a nonland permanent, each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/55.png" num="67">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/67.png" num="67">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1055,7 +1251,7 @@ Whenever you sacrifice a nonland permanent, each opponent loses 1 life and you g
 		<card>
 			<name>Snarling Timberwolf</name>
 			<text>Whenever this creature attacks, you may sacrifice a creature or artifact. If you do, draw a card and put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/56.png" num="76">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/68.png" num="76">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1072,7 +1268,7 @@ Whenever you sacrifice a nonland permanent, each opponent loses 1 life and you g
 		<card>
 			<name>Guardian Cerberus</name>
 			<text>Unite — At the beginning of your end step, if a token entered under your control this turn, you draw a card and lose 1 life.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/57.png" num="64">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/69.png" num="64">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1089,7 +1285,7 @@ Whenever you sacrifice a nonland permanent, each opponent loses 1 life and you g
 		<card>
 			<name>Dispose</name>
 			<text>Destroy target creature. Create a 1/1 white Pony creature token.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/58.png" num="62">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/70.png" num="62">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1103,31 +1299,13 @@ Whenever you sacrifice a nonland permanent, each opponent loses 1 life and you g
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Not Dead Yet</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, return up to one target creature card from your graveyard to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/59.png" num="65">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>4B</manacost>
-				<cmc>5</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<loyalty>5</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Queensworn Archaeologist // Uncover Secrets</name>
 			<text>Whenever one or more +1/+1 counters are put on this creature, it becomes prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
 
 ---
 
 Discard a card, then draw a card. Uncover Secrets deals 1 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/60.png" num="94">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/71.png" num="94">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1144,7 +1322,7 @@ Discard a card, then draw a card. Uncover Secrets deals 1 damage to each opponen
 		<card>
 			<name>Splatterhoof Kirin</name>
 			<text>Whenever you cast a noncreature spell and whenever you defeat a battle, you may exile the top card of your library. Until end of turn, you may play that card. Do this only once each turn.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/61.png" num="99">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/72.png" num="99">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1166,7 +1344,7 @@ Whenever this creature deals combat damage to a player, it becomes prepared. (Wh
 ---
 
 Lavawave deals 2 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/62.png" num="90">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/73.png" num="90">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1185,7 +1363,7 @@ Lavawave deals 2 damage to each opponent.</text>
 			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 Haste
 This creature has menace as long as it&apos;s attacking a battle.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/63.png" num="85">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/74.png" num="85">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1203,7 +1381,7 @@ This creature has menace as long as it&apos;s attacking a battle.</text>
 			<name>Sunsear Dragon</name>
 			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 Flying, haste</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/64.png" num="100">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/75.png" num="100">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1220,7 +1398,7 @@ Flying, haste</text>
 		<card>
 			<name>Rose&apos;s Fury</name>
 			<text>Rose&apos;s Fury deals 5 damage to target creature or battle.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/65.png" num="96">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/76.png" num="96">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1234,27 +1412,9 @@ Flying, haste</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Forbidden Bond</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/66.png" num="87">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>R</manacost>
-				<cmc>1</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<loyalty>4</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Hunted Heir</name>
 			<text>When this creature dies, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/67.png" num="110">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/77.png" num="110">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1272,7 +1432,7 @@ When this Problem enters or is defeated, exile the top two cards of your library
 			<name>Galloping Unicorn</name>
 			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 Whenever this creature deals combat damage to a player or noncreature permanent, draw a card.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/68.png" num="109">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/78.png" num="109">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1294,7 +1454,7 @@ Landfall — Whenever a land you control enters, put a +1/+1 counter on target c
 ---
 
 Creates a tapped colorless land token named Everywhere that is every basic land type.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/69.png" num="117">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/79.png" num="117">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1312,7 +1472,7 @@ Creates a tapped colorless land token named Everywhere that is every basic land 
 			<name>Collossal Timberwolf</name>
 			<text>Backup 1, backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn. Each backup ability triggers separately.)
 Trample</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/70.png" num="106">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/80.png" num="106">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1327,28 +1487,10 @@ Trample</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Nostalgia</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, return target non-battle permanent card from your graveyard to your hand. If it was a land card, you may put it onto the battlefield tapped instead.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/71.png" num="114">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>1GG</manacost>
-				<cmc>3</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<loyalty>5</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Queensworn Elites</name>
 			<text>First strike
 Creature tokens you control get +1/+1.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/72.png" num="145">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/81.png" num="145">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1370,7 +1512,7 @@ At the beginning of your upkeep, if this creature isn&apos;t prepared, it become
 ---
 
 Put a +1/+1 counter on up to one target creature.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/73.png" num="150">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/82.png" num="150">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1387,7 +1529,7 @@ Put a +1/+1 counter on up to one target creature.</text>
 		<card>
 			<name>Blazing Defense</name>
 			<text>Whenever you cast a noncreature spell, create a 1/1 blue and red Kirin creature token.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/74.png" num="130">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/83.png" num="130">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1404,7 +1546,7 @@ Put a +1/+1 counter on up to one target creature.</text>
 			<name>Cynical Hiveleader</name>
 			<text>When this creature enters, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
 Whenever you sacrifice another creature or artifact, each opponent loses 1 life.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/75.png" num="135">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/84.png" num="135">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1422,7 +1564,7 @@ Whenever you sacrifice another creature or artifact, each opponent loses 1 life.
 			<name>Ravenous Gator</name>
 			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
 {1}, Sacrifice an artifact or creature: Put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/76.png" num="146">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/85.png" num="146">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1440,7 +1582,7 @@ Whenever you sacrifice another creature or artifact, each opponent loses 1 life.
 			<name>Dauntless General</name>
 			<text>Trample
 Whenever you put a counter on a creature you control, draw a card. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/77.png" num="136">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/86.png" num="136">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1455,24 +1597,6 @@ Whenever you put a counter on a creature you control, draw a card. This ability 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Fiery Ascent</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, it deals 2 damage to each opponent. You may discard a card. If you do, draw two cards.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/78.png" num="138">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>RW</manacost>
-				<cmc>2</cmc>
-				<colors>WR</colors>
-				<coloridentity>WR</coloridentity>
-				<loyalty>3</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Curious Changeling // Rampant Growth</name>
 			<text>This creature enters prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
 {6}: Scry 1, then draw a card.
@@ -1480,7 +1604,7 @@ When this Problem enters or is defeated, it deals 2 damage to each opponent. You
 ---
 
 Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/79.png" num="134">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/87.png" num="134">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1495,28 +1619,10 @@ Search your library for a basic land card, put that card onto the battlefield ta
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Overgrowing Timberland</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, draw a card, then you may put a land card from your hand onto the battlefield.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/80.png" num="144">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>1GU</manacost>
-				<cmc>3</cmc>
-				<colors>UG</colors>
-				<coloridentity>UG</coloridentity>
-				<loyalty>4</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Naive Changeling</name>
 			<text>Deathtouch
 When this creature dies, if it wasn&apos;t blocking, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/81.png" num="166">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/88.png" num="166">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1538,7 +1644,7 @@ This creature enters prepared. (While it&apos;s prepared, you may cast a copy of
 ---
 
 Reveal the top four cards of your library. You may put a creature or land card from among them into your hand. Put the rest on the bottom in a random order.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/82.png" num="155">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/89.png" num="155">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1556,7 +1662,7 @@ Reveal the top four cards of your library. You may put a creature or land card f
 			<name>Deepsea Pioneer</name>
 			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/83.png" num="161">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/90.png" num="161">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1574,7 +1680,7 @@ Whenever you cast a noncreature spell, this creature gets +1/+1 until end of tur
 			<name>Cordial Shifter</name>
 			<text>Lifelink
 When this creature enters, create a 1/1 white Pony creature token.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/84.png" num="157">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/91.png" num="157">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1592,7 +1698,7 @@ When this creature enters, create a 1/1 white Pony creature token.</text>
 			<name>Dancing Longma</name>
 			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 Double strike (This creature deals both first-strike and regular combat damage.)</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/85.png" num="158">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/92.png" num="158">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1610,7 +1716,7 @@ Double strike (This creature deals both first-strike and regular combat damage.)
 			<name>Animated Earth</name>
 			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 Vigilance</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/86.png" num="174">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/93.png" num="174">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1629,7 +1735,7 @@ Vigilance</text>
 ---
 
 Destroy target nonbasic permanent.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/87.png" num="1">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/94.png" num="1">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1646,7 +1752,7 @@ Destroy target nonbasic permanent.</text>
 			<text>When this Equipment enters, create a 1/1 white Pony creature token, then attach this Equipment to it.
 Equipped creature gets +1/+1.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/88.png" num="177">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/95.png" num="177">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1661,7 +1767,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>Crystal Tree</name>
 			<text>{T}: Add one mana of any color.
 Whenever you tap this artifact for mana, you may remove a defense counter from a battle you control.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/89.png" num="176">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/96.png" num="176">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1676,7 +1782,7 @@ Whenever you tap this artifact for mana, you may remove a defense counter from a
 			<name>Palace Detainer</name>
 			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 {1}, {T}: Tap target creature with mana value 4 or less.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/90.png" num="17">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/97.png" num="17">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1694,7 +1800,7 @@ Whenever you tap this artifact for mana, you may remove a defense counter from a
 			<name>Perfect Pair</name>
 			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 When this creature dies, put its counters on target creature you control.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/91.png" num="19">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/98.png" num="19">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1711,7 +1817,7 @@ When this creature dies, put its counters on target creature you control.</text>
 		<card>
 			<name>Outland Tamer</name>
 			<text>Unite — This creature has lifelink as long a token entered under your control this turn.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/92.png" num="16">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/99.png" num="16">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1726,24 +1832,6 @@ When this creature dies, put its counters on target creature you control.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Courageous Clash</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, create two 1/1 white Pony creature tokens.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/93.png" num="9">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>2W</manacost>
-				<cmc>3</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<loyalty>5</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Ancients of Wind // Ride the Wind</name>
 			<text>Flying
 Whenever this creature deals combat damage to a player or noncreature permanent, it becomes prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
@@ -1751,7 +1839,7 @@ Whenever this creature deals combat damage to a player or noncreature permanent,
 ---
 
 Put a +1/+1 counter on target creature.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/94.png" num="4">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/100.png" num="4">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1769,7 +1857,7 @@ Put a +1/+1 counter on target creature.</text>
 			<name>Proud Pony</name>
 			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 Vigilance</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/95.png" num="20">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/101.png" num="20">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1786,7 +1874,7 @@ Vigilance</text>
 		<card>
 			<name>Arcane Awakening</name>
 			<text>Target creature gets +2/+2 and gains flying until end of turn. If it&apos;s attacking a battle, you gain 2 life.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/96.png" num="5">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/102.png" num="5">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1804,7 +1892,7 @@ Vigilance</text>
 			<text>Enchant creature
 Enchanted creature can&apos;t attack or block.
 Whenever you defeat a battle, you may have enchanted creature&apos;s controller sacrifice it. If you do, create a 1/1 white Pony creature token.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/97.png" num="11">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/103.png" num="11">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1820,7 +1908,7 @@ Whenever you defeat a battle, you may have enchanted creature&apos;s controller 
 		<card>
 			<name>Banishing Light</name>
 			<text>When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/98.png" num="6">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/104.png" num="6">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1840,7 +1928,7 @@ Whenever you defeat a battle, you may have enchanted creature&apos;s controller 
 ---
 
 Draw two cards.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/99.png" num="30">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/105.png" num="30">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1861,7 +1949,7 @@ Draw two cards.</text>
 ---
 
 Exile the top two cards of your library. You may play one of them this turn.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/100.png" num="167">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/106.png" num="167">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1879,7 +1967,7 @@ Exile the top two cards of your library. You may play one of them this turn.</te
 			<name>Nomadic Sorcerer</name>
 			<text>Vigilance
 Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/101.png" num="44">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/107.png" num="44">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1897,7 +1985,7 @@ Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. Thi
 			<name>Cloudhome Tourist</name>
 			<text>Flying
 Noncreature spells you cast cost {1} less to cast.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/102.png" num="32">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/108.png" num="32">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1919,7 +2007,7 @@ When this creature enters, you may draw a card. If you do, discard a card.
 ---
 
 Create a 3/2 blue Fish creature token.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/103.png" num="34">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/109.png" num="34">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1941,7 +2029,7 @@ This creature enters prepared. (While it&apos;s prepared, you may cast a copy of
 ---
 
 Draw a card, then discard a card.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/104.png" num="36">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/110.png" num="36">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1958,7 +2046,7 @@ Draw a card, then discard a card.</text>
 		<card>
 			<name>Courageous Intervention</name>
 			<text>Counter target spell unless its controller pays {2}. If they do, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/105.png" num="33">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/111.png" num="33">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1974,7 +2062,7 @@ Draw a card, then discard a card.</text>
 		<card>
 			<name>Pegasus&apos;s Whirlwind</name>
 			<text>Return target nonland permanent to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/106.png" num="46">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/112.png" num="46">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1988,27 +2076,9 @@ Draw a card, then discard a card.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Serpentine Encounter</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, draw a card.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/107.png" num="49">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-				<loyalty>4</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Plagued Pony</name>
 			<text>When this creature dies, create a 1/1 black and green Spider creature token. Each opponent loses 1 life.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/108.png" num="69">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/113.png" num="69">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2025,7 +2095,7 @@ When this Problem enters or is defeated, draw a card.</text>
 		<card>
 			<name>Deepgrove Gravecaller</name>
 			<text>Whenever you create one or more tokens, each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/109.png" num="60">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/114.png" num="60">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2043,7 +2113,7 @@ When this Problem enters or is defeated, draw a card.</text>
 			<name>Sardonic Recluse</name>
 			<text>Flying
 {3}, Sacrifice another creature or artifact: Draw a card.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/110.png" num="73">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/115.png" num="73">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2064,7 +2134,7 @@ When this Problem enters or is defeated, draw a card.</text>
 ---
 
 Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/111.png" num="61">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/116.png" num="61">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -2083,7 +2153,7 @@ Target player reveals their hand. You choose a nonland card from it. That player
 			<text>Menace
 When this creature enters, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
 At the beginning of combat on your turn, if you sacrificed a permanent this turn, this creature gets +2/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/112.png" num="71">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/117.png" num="71">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2105,7 +2175,7 @@ This creature enters prepared. (While it&apos;s prepared, you may cast a copy of
 ---
 
 Target player loses 2 life and you gain 2 life.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/113.png" num="70">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/118.png" num="70">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -2120,27 +2190,9 @@ Target player loses 2 life and you gain 2 life.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Claws of the Ursa</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, target opponent discards a card.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/114.png" num="56">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<loyalty>4</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Saved by the Stars</name>
 			<text>Until end of turn, target creature gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control and each opponent loses 2 life.&quot;</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/115.png" num="74">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/119.png" num="74">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2156,7 +2208,7 @@ When this Problem enters or is defeated, target opponent discards a card.</text>
 		<card>
 			<name>Blazing Kirin</name>
 			<text>Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent or a battle that player protects.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/116.png" num="81">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/120.png" num="81">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2174,7 +2226,7 @@ When this Problem enters or is defeated, target opponent discards a card.</text>
 			<name>Rallied Raiders</name>
 			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 Menace</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/117.png" num="95">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/121.png" num="95">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2192,7 +2244,7 @@ Menace</text>
 			<name>Winpeak Soldier</name>
 			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 Trample</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/118.png" num="103">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/122.png" num="103">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2207,27 +2259,9 @@ Trample</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Kirin Exile</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, you may discard a card. If you do, draw two cards.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/119.png" num="89">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<loyalty>4</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Lavish Campaigner</name>
 			<text>{T}: Add one mana of any color. If that mana is spent to cast a spell with mana value 4 or greater, it can&apos;t be countered.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/120.png" num="112">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/123.png" num="112">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2248,7 +2282,7 @@ When this Problem enters or is defeated, you may discard a card. If you do, draw
 ---
 
 Put two +1/+1 counters on target creature.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/121.png" num="126">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/124.png" num="126">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -2270,7 +2304,7 @@ This creature enters prepared. (While it&apos;s prepared, you may cast a copy of
 ---
 
 Create a 4/4 green Unicorn Archer creature token.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/122.png" num="107">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/125.png" num="107">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -2288,7 +2322,7 @@ Create a 4/4 green Unicorn Archer creature token.</text>
 			<name>Ancients of Growth</name>
 			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 Vigilance</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/123.png" num="104">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/126.png" num="104">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2306,7 +2340,7 @@ Vigilance</text>
 			<name>Prowling Timberwolf</name>
 			<text>Trample over everything (This creature can deal excess combat damage to the player, battle or planeswalker it&apos;s attacking or the defender of the planeswalker or battle it&apos;s attacking.)
 Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/124.png" num="118">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/127.png" num="118">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2321,27 +2355,9 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Lost in Deepgrove</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/125.png" num="113">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<loyalty>4</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Take Down</name>
 			<text>Destroy target artifact, battle, enchantment, or creature with flying.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/126.png" num="123">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/128.png" num="123">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2357,7 +2373,7 @@ When this Problem enters or is defeated, search your library for a basic land ca
 		<card>
 			<name>Deepgrove Impersonator</name>
 			<text>When this creature dies, create a 1/1 white Pony creature token.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/127.png" num="160">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/129.png" num="160">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2375,7 +2391,7 @@ When this Problem enters or is defeated, search your library for a basic land ca
 			<name>Swift Skyhunter</name>
 			<text>Flying
 Unite — Whenever this creature attacks, if a token entered under your control this turn, you gain 1 life.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/128.png" num="171">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/130.png" num="171">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2392,7 +2408,7 @@ Unite — Whenever this creature attacks, if a token entered under your control 
 		<card>
 			<name>Changeling Commander</name>
 			<text>Whenever you sacrifice another creature or artifact, put a +1/+1 counter on target creature you control.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/129.png" num="156">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/131.png" num="156">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2413,7 +2429,7 @@ Unite — Whenever this creature attacks, if a token entered under your control 
 ---
 
 You may discard a card. If you do, draw two cards.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/130.png" num="164">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/132.png" num="164">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -2430,7 +2446,7 @@ You may discard a card. If you do, draw two cards.</text>
 		<card>
 			<name>Hive Scout</name>
 			<text>{2}{BG}: Return this card from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/131.png" num="162">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/133.png" num="162">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2448,7 +2464,7 @@ You may discard a card. If you do, draw two cards.</text>
 			<name>Deepgrove Hydra</name>
 			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 This creature enters with X +1/+1 counters on it.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/132.png" num="159">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/134.png" num="159">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2463,25 +2479,9 @@ This creature enters with X +1/+1 counters on it.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Rebuilding Effort</name>
-			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/133.png" num="2">FIM</set>
-			<prop>
-				<layout>battle</layout>
-				<side>front</side>
-				<type>Battle — Problem</type>
-				<maintype>Battle</maintype>
-				<manacost>2</manacost>
-				<cmc>2</cmc>
-				<loyalty>3</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Evolving Wilds</name>
 			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/134.png" num="184">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/135.png" num="184">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2497,7 +2497,7 @@ When this Problem enters or is defeated, search your library for a basic land ca
 			<text>This land enters tapped.
 {T}: Add {W} or {B}.
 {4}, {T}, Sacrifice this land: Draw a card.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/135.png" num="180">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/136.png" num="180">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2514,7 +2514,7 @@ When this Problem enters or is defeated, search your library for a basic land ca
 			<text>This land enters tapped.
 {T}: Add {U} or {R}.
 {4}, {T}, Sacrifice this land: Draw a card.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/136.png" num="188">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/137.png" num="188">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2531,7 +2531,7 @@ When this Problem enters or is defeated, search your library for a basic land ca
 			<text>This land enters tapped.
 {T}: Add {B} or {G}.
 {4}, {T}, Sacrifice this land: Draw a card.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/137.png" num="179">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/138.png" num="179">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2548,7 +2548,7 @@ When this Problem enters or is defeated, search your library for a basic land ca
 			<text>This land enters tapped.
 {T}: Add {R} or {W}.
 {4}, {T}, Sacrifice this land: Draw a card.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/138.png" num="186">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/139.png" num="186">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2565,7 +2565,7 @@ When this Problem enters or is defeated, search your library for a basic land ca
 			<text>This land enters tapped.
 {T}: Add {G} or {U}.
 {4}, {T}, Sacrifice this land: Draw a card.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/139.png" num="182">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/140.png" num="182">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3018,14 +3018,14 @@ Whenever a Skeleton you control dies, target opponent loses 1 life.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Coalin Scouts</name>
+			<name>Coalin Scout</name>
 			<text>This creature has menace as long as it&apos;s attacking a battle.
 {1}{B}, Exile this card from your graveyard: Create a 1/1 white Pony creature token. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/165.png" num="57">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Pony Scout</type>
+				<type>Creature — Unicorn Scout</type>
 				<maintype>Creature</maintype>
 				<manacost>1B</manacost>
 				<cmc>2</cmc>
@@ -3242,7 +3242,7 @@ If one or more +1/+1 counters would be put on a creature you control, that many 
 		</card>
 		<card>
 			<name>Brilliant Blade</name>
-			<text>Whenever you cast a noncreature spell, put a hone counter on this Equipment. (Each hone counter on an Equipment grants +1/+0 to equipped creature.)
+			<text>Whenever you cast a noncreature spell, put a hone counter on this Equipment. (Each hone counter on an Equipment grants +1/+0 to equipped creature.) (Each hone counter on an Equipment grants +1/+0 to equipped creature.)
 Equip {2}</text>
 			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/177.png" num="175">FIM</set>
 			<prop>
