@@ -1,4 +1,24 @@
-﻿VERSION 28 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+
+
+Fateful Absence
+
+The Sparkstone
+
+Dispose
+
+Rose's Fury
+
+Hunted Heir
+
+Outskirt Scouts
+
+Aerial Ambush
+
+
+VERSION 28 CHANGELOG
 ====================
 
 Coalin Scout added.
