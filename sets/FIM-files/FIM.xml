@@ -5,7 +5,7 @@
 			<name>FIM</name>
 			<longname>Periss: Friendship Is Magic</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-02</releasedate>
+			<releasedate>2026-09-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -229,7 +229,7 @@ When this Problem enters or is defeated, return target non-battle permanent card
 			<name>Fiery Ascent</name>
 			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
 When this Problem enters or is defeated, it deals 2 damage to each opponent and gain 2 life. You may discard a card. If you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/12.png" num="138">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/12.png" num="137">FIM</set>
 			<prop>
 				<layout>battle</layout>
 				<side>front</side>
@@ -488,7 +488,7 @@ You may have this creature assign combat damage as though it wasn&apos;t blocked
 			<name>Lotus Tender</name>
 			<text>Flying
 Landfall — Whenever a land you control enters, create a Black Lotus token. (It&apos;s a {0} artifact with &quot;{T}, Sacrifice this artifact: Add three mana of any one color.&quot;)</text>
-			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/27.png" num="143">FIM</set>
+			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/27.png" num="142">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -508,7 +508,7 @@ Landfall — Whenever a land you control enters, create a Black Lotus token. (It
 [+1]: Draw a card, then discard a card.
 [-2]: The Living Spark deals 2 damage to any nonplayer target and 1 damage to its controller.
 [-5]: You get an emblem with &quot;Noncreature spells you cast cost {1} less to cast.&quot;</text>
-			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/28.png" num="142">FIM</set>
+			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/28.png" num="141">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -636,7 +636,7 @@ Unite — Whenever this creature attacks, it deals 2 damage to you unless if a t
 			<name>Darkhoof Stallion // Ride at Dusk</name>
 			<text>Menace
 This creature enters prepared.
-Whenever a nontoken creature you control dies, this creature becomes prepared.
+Whenever a nontoken creature or artifact you control dies, this creature becomes prepared.
 
 ---
 
@@ -727,14 +727,14 @@ Flying</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Jasper, Renowned Archeologist // Pillage</name>
+			<name>Jasper, Renowned Archeologist // Heist</name>
 			<text>Jasper enters prepared.
 Whenever Jasper attacks, you may discard a card. If you do, draw a card.
 
 ---
 
 Search your library for an artifact card with mana value 3 or less, put it onto the battlefield, then shuffle.</text>
-			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/40.png" num="140">FIM</set>
+			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/40.png" num="139">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -846,7 +846,7 @@ Whenever this creature deals combat damage to a player or noncreature permanent,
 		<card>
 			<name>Distant Expeditioner</name>
 			<text>When this creature enters, if it was cast, search your library for a battle card, put it onto the battlefield, then shuffle. This creature deals 33 damage to it.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/46.png" num="137">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/46.png" num="136">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1546,7 +1546,7 @@ Put a +1/+1 counter on up to one target creature.</text>
 			<name>Cynical Hiveleader</name>
 			<text>When this creature enters, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
 Whenever you sacrifice another creature or artifact, each opponent loses 1 life.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/84.png" num="135">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/84.png" num="134">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1582,7 +1582,7 @@ Whenever you sacrifice another creature or artifact, each opponent loses 1 life.
 			<name>Dauntless General</name>
 			<text>Trample
 Whenever you put a counter on a creature you control, draw a card. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/86.png" num="136">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/86.png" num="135">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1604,7 +1604,7 @@ Whenever you put a counter on a creature you control, draw a card. This ability 
 ---
 
 Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/87.png" num="134">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/87.png" num="133">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -2815,7 +2815,7 @@ Target creature gets -2/-2 until end of turn. If this spell was kicked, that cre
 			<text>Creatures you control get +1/+1.
 [+1]: You gain 1 life.
 [-3]: Create a black and white enchantment token named Tenderblossom with &quot;At the beginning of your upkeep, you lose 1 life and create a 1/1 black and white Pegasus creature token with flying.&quot;</text>
-			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/154.png" num="141">FIM</set>
+			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/154.png" num="140">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3080,7 +3080,7 @@ Landfall — Whenever a land you control enters, add one mana of any color.
 ---
 
 Target player draws three cards and gains 3 life. Put three +1/+1 counters on up to one target creature.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/168.png" num="133">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/168.png" num="132">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -3117,7 +3117,7 @@ Whenever this creature attacks, add an amount of {R} equal to its power. Until e
 			<name>Insatiable Hivequeen</name>
 			<text>Ward {2}
 Whenever another nontoken creature you control dies, you may exile it. If you do, create a token that&apos;s a copy of that creature, except it&apos;s an artifact named Cocoon and loses all other card types.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/170.png" num="139">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/170.png" num="138">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3204,29 +3204,10 @@ Flashback {2}{W} (You may cast this card from your graveyard for its flashback c
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Chrysalis Dragon</name>
-			<text>This spell costs {1} less to cast for each Shapeshifter you control and each Shapeshifter card in your graveyard.
-Flying, trample
-Whenever this creature attacks, each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/175.png" num="132">FIM</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Shapeshifter Dragon</type>
-				<maintype>Creature</maintype>
-				<manacost>5BG</manacost>
-				<cmc>7</cmc>
-				<colors>BG</colors>
-				<coloridentity>BG</coloridentity>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Windrider Elemental</name>
 			<text>Flying
 If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/176.png" num="28">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/175.png" num="28">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3242,9 +3223,9 @@ If one or more +1/+1 counters would be put on a creature you control, that many 
 		</card>
 		<card>
 			<name>Brilliant Blade</name>
-			<text>Whenever you cast a noncreature spell, put a hone counter on this Equipment. (Each hone counter on an Equipment grants +1/+0 to equipped creature.) (Each hone counter on an Equipment grants +1/+0 to equipped creature.)
+			<text>Whenever you cast a noncreature spell, put a hone counter on this Equipment. (Each hone counter on an Equipment grants +1/+0 to equipped creature.)
 Equip {2}</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/177.png" num="175">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/176.png" num="175">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3259,7 +3240,7 @@ Equip {2}</text>
 			<name>Queensworn Saboteur</name>
 			<text>First strike
 Whenever this creature attacks, you may exile target creature card with mana value 3 or less from your graveyard. If you do, create a token that&apos;s a copy of it.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/178.png" num="169">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/177.png" num="169">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3281,7 +3262,7 @@ Whenever this creature attacks, you may exile target creature card with mana val
 
 Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 Draw a card.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/179.png" num="41">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/178.png" num="41">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -3303,7 +3284,7 @@ This creature enters prepared. (While it&apos;s prepared, you may cast a copy of
 ---
 
 Reveal the top card of your library and put that card into your hand. You lose life equal to its mana value. You may repeat this process any number of times.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/180.png" num="72">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/179.png" num="72">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -3321,7 +3302,7 @@ Reveal the top card of your library and put that card into your hand. You lose l
 			<name>The Fabled Visitor</name>
 			<text>Flying
 Paradox — Whenever you cast a spell from anywhere other than your hand, create a Clue token. (Prepared spells are cast from exile. Clue tokens are artifacts with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/181.png" num="35">FIM</set>
+			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/180.png" num="35">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3339,7 +3320,7 @@ Paradox — Whenever you cast a spell from anywhere other than your hand, create
 			<name>Inspired Trailblazer</name>
 			<text>This creature&apos;s power is equal to the number of differently named lands you control.
 Whenever this creature attacks, reveal the top card of your library. You may put it into your hand if it&apos;s a land. Otherwise, put it into your graveyard.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/182.png" num="165">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/181.png" num="165">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3361,7 +3342,7 @@ Whenever a creature you control deals combat damage to a player, it becomes prep
 ---
 
 Populate. (Create a token that&apos;s a copy of a creature token you control.)</text>
-			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/183.png" num="21">FIM</set>
+			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/182.png" num="21">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -3378,7 +3359,7 @@ Populate. (Create a token that&apos;s a copy of a creature token you control.)</
 		<card>
 			<name>A New Generation</name>
 			<text>Landfall — Whenever a land you control enters, you may create a token that&apos;s a copy of target creature you control, except it&apos;s not legendary and has base power and toughness X/X, where X is the number of lands that entered under your control this turn. Do this only once each turn.</text>
-			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/184.png" num="43">FIM</set>
+			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/183.png" num="43">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3394,7 +3375,7 @@ Populate. (Create a token that&apos;s a copy of a creature token you control.)</
 		<card>
 			<name>Love Collects No Tax</name>
 			<text>Whenever you cast an instant or sorcery spell from your hand, exile it as one this creature&apos;s prepared spells instead of putting it into your graveyard as it resolves. Then this creature becomes prepared. (While it&apos;s prepared, you may cast a copy of any of its prepared spells. Doing so unprepares it.)</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/185.png" num="40">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/184.png" num="40">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3411,7 +3392,7 @@ Populate. (Create a token that&apos;s a copy of a creature token you control.)</
 		<card>
 			<name>Trotivore</name>
 			<text>This creature&apos;s power and toughness are each equal to twice the number of creature cards in all graveyards.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/186.png" num="172">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/185.png" num="172">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3429,7 +3410,7 @@ Populate. (Create a token that&apos;s a copy of a creature token you control.)</
 			<name>Gold, Perissian Queen</name>
 			<text>Whenever you attack, if there are six or more different creature types among attacking creatures, create a colorless artifact token named Banner with &quot;Attacking creatures you control get +1/+0.&quot;
 {R}, Sacrifice an artifact: Draw a card. Activate only once each turn.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/187.png" num="88">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/186.png" num="88">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3450,17 +3431,17 @@ Populate. (Create a token that&apos;s a copy of a creature token you control.)</
 ---
 
 Reveal the top five cards of your library. You may put a creature or land card from among them into your hand. Put the rest into your graveyard.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/188.png" num="152">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/187.png" num="152">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
 				<type>Creature — Pony // Instant</type>
 				<maintype>Creature</maintype>
-				<manacost>1BG // BG</manacost>
-				<cmc>3</cmc>
+				<manacost>BG // BG</manacost>
+				<cmc>2</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
-				<pt>3/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3468,7 +3449,7 @@ Reveal the top five cards of your library. You may put a creature or land card f
 			<name>Thunderbolt Unicorn</name>
 			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 Double all damage this creature would deal.</text>
-			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/189.png" num="151">FIM</set>
+			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/188.png" num="151">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3485,7 +3466,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Winpeak Defense</name>
 			<text>Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.</text>
-			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/190.png" num="153">FIM</set>
+			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/189.png" num="153">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3501,7 +3482,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Pony FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/191.png" num="1">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/190.png" num="1">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3519,7 +3500,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Nightmare FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/192.png" num="8">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/191.png" num="8">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3537,7 +3518,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Elemental FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/193.png" num="10">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/192.png" num="10">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3555,7 +3536,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Unicorn FIM</name>
 			<text>Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/194.png" num="6">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/193.png" num="6">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3573,7 +3554,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Elemental FIM</name>
 			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/195.png" num="7">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/194.png" num="7">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3591,7 +3572,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Fish FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/196.png" num="4">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/195.png" num="4">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3609,7 +3590,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Bird Illusion FIM</name>
 			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/197.png" num="3">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/196.png" num="3">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3628,7 +3609,7 @@ Double all damage this creature would deal.</text>
 			<name>Black Lotus FIM</name>
 			<text>{T}, Sacrifice this artifact: Add three mana of any one color.
 (This token&apos;s mana cost is {0}.)</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/198.png" num="19">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/197.png" num="19">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3643,7 +3624,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Everywhere FIM</name>
 			<text>This land is a Plains, Island, Swamp, Mountain, and Forest. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/199.png" num="22">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/198.png" num="22">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3658,7 +3639,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Clue FIM</name>
 			<text>{2}, Sacrifice this token: Draw a card.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/200.png" num="20">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/199.png" num="20">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3673,7 +3654,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Merfolk FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/201.png" num="5">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/200.png" num="5">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3691,7 +3672,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Spider FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/202.png" num="16">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/201.png" num="16">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3709,7 +3690,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Unicorn Archer FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/203.png" num="12">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/202.png" num="12">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3727,7 +3708,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Pony Skeleton FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/204.png" num="9">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/203.png" num="9">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3745,7 +3726,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Treasure FIM</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/205.png" num="21">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/204.png" num="21">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3760,7 +3741,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Kirin FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/206.png" num="14">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/205.png" num="14">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3778,7 +3759,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Ox FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/207.png" num="11">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/206.png" num="11">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3796,7 +3777,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Banner FIM</name>
 			<text>Attacking creatures you control get +1/+0.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/208.png" num="18">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/207.png" num="18">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3811,7 +3792,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Pegasus FIM</name>
 			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/209.png" num="15">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/208.png" num="15">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3829,7 +3810,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Rabbit FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/210.png" num="2">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/209.png" num="2">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3847,7 +3828,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Tenderblossom FIM</name>
 			<text>At the beginning of your upkeep, you lose 1 life and create a 1/1 black and white Pegasus creature token with flying.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/211.png" num="17">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/210.png" num="17">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3864,7 +3845,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Zebra FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/212.png" num="13">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/211.png" num="13">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3882,7 +3863,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Emblem FIM</name>
 			<text>Noncreature spells you cast cost {1} less to cast.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/213.png" num="23">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/212.png" num="23">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3897,7 +3878,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/214.png" num="194">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/213.png" num="194">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3912,7 +3893,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/215.png" num="195">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/214.png" num="195">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3927,7 +3908,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/216.png" num="193">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/215.png" num="193">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3942,7 +3923,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/217.png" num="191">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/216.png" num="191">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3957,7 +3938,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/218.png" num="192">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/217.png" num="192">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3968,6 +3949,41 @@ Double all damage this creature would deal.</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Midnight Feeder</name>
+			<text>Menace
+Whenever another creature you control enters or dies, each opponent loses 1 life.</text>
+			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/218.png" num="143">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Unicorn Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mane of Stars</name>
+			<text>You draw a card and lose 1 life.
+Flashback {2}{UB} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="special" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/219.png" num="197">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U/B</manacost>
+				<cmc>1</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

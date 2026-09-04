@@ -1,4 +1,114 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+Midnight Feeder added.
+Mane of Stars added.
+
+Chrysalis Dragon removed.
+
+Darkhoof Stallion
+rules_text: Menace
+This creature enters prepared.
+Whenever a nontoken creature you control dies, this creature becomes prepared. => Menace
+This creature enters prepared.
+Whenever a nontoken creature or artifact you control dies, this creature becomes prepared.
+
+Jasper, Renowned Archeologist
+
+Calm or Chaos
+rules_text: Choose one —
+• Draw two cards, then discard a card unless you sacrifice a nonland permanent.[i]
+[/i]• Destroy target artifact. Between Calm and Chaos deals 2 damage to that artifact's controller. => Choose one —
+• Draw two cards, then discard a card unless you sacrifice a nonland permanent.
+• Destroy target artifact. Between Calm and Chaos deals 2 damage to that artifact's controller.
+
+Friendship is Magic
+
+Courageous Intervention
+
+Windrider Elemental
+
+Brilliant Blade
+rules_text: Whenever you cast a noncreature spell, put a hone counter on this Equipment. [i](Each hone counter on an Equipment grants +1/+0 to equipped creature.)[/i] [i](Each hone counter on an Equipment grants +1/+0 to equipped creature.)[/i]
+Equip {2} => Whenever you cast a noncreature spell, put a hone counter on this Equipment. [i](Each hone counter on an Equipment grants +1/+0 to equipped creature.)[/i]
+Equip {2}
+
+Queensworn Saboteur
+
+Mare Admirers
+
+Sanguinary Scourge
+
+The Fabled Visitor
+
+Inspired Trailblazer
+
+Quartz of the Mirror Pool
+
+A New Generation
+
+Love Collects No Tax
+
+Trotivore
+
+Gold, Perissian Queen
+
+Timberborne Stallion
+cost: {1}{B}{G} => {B}{G}
+pt: 3/3 => 2/2
+
+Thunderbolt Unicorn
+
+Winpeak Defense
+
+Pony
+
+Nightmare
+
+Elemental
+
+Unicorn
+
+Elemental
+
+Fish
+
+Bird Illusion
+
+Black Lotus
+
+Everywhere
+
+Clue
+
+Merfolk
+
+Spider
+
+Unicorn Archer
+
+Pony Skeleton
+
+Treasure
+
+Kirin
+
+Ox
+
+Banner
+
+Pegasus
+
+Rabbit
+
+Tenderblossom
+
+Zebra
+
+Emblem
+
+
+VERSION 29 CHANGELOG
 ====================
 
 
