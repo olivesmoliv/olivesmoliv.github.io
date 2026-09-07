@@ -2181,7 +2181,7 @@
 			}
 		},
 		{
-			"name": "Mane of Stars",
+			"name": "Glimpse the Stars",
 			"rarity": "special",
 			"mana_cost": "{U/B}",
 			"type": "Instant",

@@ -5,7 +5,7 @@
 			<name>FIM</name>
 			<longname>Periss: Friendship Is Magic</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-04</releasedate>
+			<releasedate>2026-09-07</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -920,7 +920,7 @@ Put a +1/+1 counter on each creature you control that attacked this turn.</text>
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Walls of Coalin // Rise Again</name>
+			<name>Walls of Coalin // Deadly Service</name>
 			<text>This land enters tapped and prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
 {T}: Add {B}.
 
@@ -933,7 +933,7 @@ Return target creature card from your graveyard to your hand.</text>
 				<side>front</side>
 				<type>Land // Sorcery</type>
 				<maintype>Land</maintype>
-				<manacost> // 3B</manacost>
+				<manacost> // 2BB</manacost>
 				<cmc>0</cmc>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -3969,7 +3969,7 @@ Whenever another creature you control enters or dies, each opponent loses 1 life
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Mane of Stars</name>
+			<name>Glimpse the Stars</name>
 			<text>You draw a card and lose 1 life.
 Flashback {2}{UB} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="special" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/219.png" num="197">FIM</set>

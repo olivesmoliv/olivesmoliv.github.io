@@ -1,4 +1,14 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+Glimpse the Stars added.
+
+Mane of Stars removed.
+
+Walls of Coalin
+
+
+VERSION 30 CHANGELOG
 ====================
 
 Midnight Feeder added.

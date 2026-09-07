@@ -1150,10 +1150,10 @@
             "artist": "assasinmonkey",
             "alias": "",
             "position": "50",
-            "card_name2": "Rise Again",
+            "card_name2": "Deadly Service",
             "color2": "B",
             "type2": "Sorcery",
-            "cost2": "{3}{B}",
+            "cost2": "{2}{B}{B}",
             "rules_text2": "Return target creature card from your graveyard to your hand.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
@@ -5090,7 +5090,7 @@
             "notes": ""
         },
         {
-            "card_name": "Mane of Stars",
+            "card_name": "Glimpse the Stars",
             "color": "UB",
             "rarity": "special",
             "type": "Instant",
@@ -5111,5 +5111,5 @@
             "notes": "!tag cantrip"
         }
     ],
-    "version": 30
+    "version": 31
 }
