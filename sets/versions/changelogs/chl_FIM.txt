@@ -1,4 +1,229 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+Frolicking Seaponies added.
+
+Imperfect Artist removed.
+
+Courageous Intervention
+
+Pegasus's Whirlwind
+
+Plagued Pony
+
+Deepgrove Gravecaller
+
+Sardonic Recluse
+
+Disguised Changeling
+
+Queen's Executioner
+
+Predatory Gravelurker
+
+Saved by the Stars
+
+Blazing Kirin
+
+Rallied Raiders
+
+Winpeak Soldier
+
+Lavish Campaigner
+
+Wayfaring Kirin
+
+Deepgrove Hunter
+
+Ancients of Growth
+
+Prowling Timberwolf
+
+Take Down
+
+Deepgrove Impersonator
+
+Swift Skyhunter
+
+Changeling Commander
+
+Illusive Peacock
+
+Hive Scout
+
+Deepgrove Hydra
+
+Evolving Wilds
+
+Cloudcliff Aerie
+
+Volatile Peak
+
+Changeling Nest
+
+Small-Town Shores
+
+Deepgrove Gully
+
+Unruly Brewer
+
+Outland Axebearer
+
+Shoreline Clash
+
+Unicorn's Reversal
+
+Crackling Lightning
+
+Skycoach Waypoint
+
+Embers of Emotion
+
+My Little Ponies
+
+Outland Yakrider
+
+Hunted Sparkholder
+
+Outskirt Scouts
+
+Windborne Kirin
+
+Death's Clutches
+
+Kira in a Strange Land
+
+Orratz, Chimeric Stitcher
+
+Rose, Exiled Kirin
+
+Coalin Archivist
+
+Unaware Employee
+
+On Ice
+
+Mirthful Mailpony
+cost: {2}{U} => {4}{U}
+rules_text: Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Flying => 
+Flying
+This creature enters prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i]
+pt: 1/2 => 3/4
+
+Touch of the Void
+rules_text: This spell costs {2} less to cast if you sacrificed a nonland permanent this turn.
+Destroy target creature. => This spell costs {2} less to cast if you sacrificed a nonland permanent this turn.
+Destroy target creature or planeswalker.
+
+United Trio
+
+Aerial Ambush
+
+Graveyard Raiser
+
+Coalin Scout
+
+Blazing Wurm
+
+Savage Descent
+
+Cricket, Wayfaring Changeling
+
+Amber, on Fiery Wings
+
+Insatiable Hivequeen
+
+Sisters of Sun and Moon
+
+Savvy Shopper
+
+Small World
+
+Ancient Study
+
+Windrider Elemental
+
+Brilliant Blade
+
+Queensworn Saboteur
+
+Mare Admirers
+
+Sanguinary Scourge
+
+The Fabled Visitor
+
+Inspired Trailblazer
+
+Quartz of the Mirror Pool
+
+A New Generation
+
+Love Collects No Tax
+
+Trotivore
+
+Gold, Perissian Queen
+
+Timberborne Stallion
+
+Thunderbolt Unicorn
+
+Winpeak Defense
+
+Pony
+
+Nightmare
+
+Elemental
+
+Unicorn
+
+Elemental
+
+Fish
+
+Bird Illusion
+
+Black Lotus
+
+Everywhere
+
+Clue
+
+Merfolk
+
+Spider
+
+Unicorn Archer
+
+Pony Skeleton
+
+Treasure
+
+Kirin
+
+Ox
+
+Banner
+
+Pegasus
+
+Rabbit
+
+Tenderblossom
+
+Zebra
+
+Emblem
+
+Midnight Feeder
+
+Glimpse the Stars
+
+
+VERSION 31 CHANGELOG
 ====================
 
 Glimpse the Stars added.
