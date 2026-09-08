@@ -2339,10 +2339,10 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -2617,9 +2617,8 @@ Target creature you control gets +2/+0 until end of turn.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Unicorn&apos;s Reversal</name>
-			<text>Target creature gets +2/+2 until end of turn. 
-Create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<name>Unicorn&apos;s Burst</name>
+			<text>Target creature gets +4/+4 until end of turn. If it&apos;s attacking a battle, it gains trample over battles until end of turn. (It can deal excess combat damage to the protector of battles it&apos;s attacking.)</text>
 			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/143.png" num="125">FIM</set>
 			<prop>
 				<layout>normal</layout>
@@ -2809,7 +2808,7 @@ Target creature gets -2/-2 until end of turn. If this spell was kicked, that cre
 		</card>
 		<card>
 			<name>Orratz, Chimeric Stitcher // Recondition</name>
-			<text>[+1]: Create a Treasure token. Target player loses 1 life.
+			<text>[+1]: Create a Treasure token. Each player loses 1 life.
 [-3]: Each opponent sacrifices a creature. Orratz becomes prepared.
 
 ---
@@ -2821,7 +2820,7 @@ Draw X cards.</text>
 				<side>front</side>
 				<type>Legendary Planeswalker — Orratz // Sorcery</type>
 				<maintype>Planeswalker</maintype>
-				<manacost>2B // X1U</manacost>
+				<manacost>2B // XUU</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>UB</coloridentity>

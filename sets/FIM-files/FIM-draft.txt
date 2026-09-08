@@ -1263,8 +1263,8 @@
 		{
 			"name": "Take Down",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Sorcery",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
 			"collector_number": "123",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/127.png"
@@ -1421,7 +1421,7 @@
 			}
 		},
 		{
-			"name": "Unicorn's Reversal",
+			"name": "Unicorn's Burst",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
@@ -2369,7 +2369,7 @@
 	8 Unruly Brewer
 	8 Outland Axebearer
 	8 Shoreline Clash
-	8 Unicorn's Reversal
+	8 Unicorn's Burst
 	8 Crackling Lightning
 	8 Embers of Emotion
 	8 My Little Ponies
@@ -2438,7 +2438,7 @@
 	8 Unruly Brewer
 	8 Outland Axebearer
 	8 Shoreline Clash
-	8 Unicorn's Reversal
+	8 Unicorn's Burst
 	8 Crackling Lightning
 	8 Embers of Emotion
 	8 My Little Ponies
@@ -2597,7 +2597,7 @@
 	12 Unruly Brewer
 	12 Outland Axebearer
 	12 Shoreline Clash
-	12 Unicorn's Reversal
+	12 Unicorn's Burst
 	12 Crackling Lightning
 	6 Skycoach Waypoint
 	12 Embers of Emotion
@@ -2788,7 +2788,7 @@
 	6 Unruly Brewer
 	6 Outland Axebearer
 	6 Shoreline Clash
-	6 Unicorn's Reversal
+	6 Unicorn's Burst
 	6 Crackling Lightning
 	15 Skycoach Waypoint
 	6 Embers of Emotion

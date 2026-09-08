@@ -1,4 +1,24 @@
-﻿VERSION 33 CHANGELOG
+﻿VERSION 34 CHANGELOG
+====================
+
+Unicorn's Burst added.
+
+Unicorn's Reversal removed.
+
+Take Down
+type: Sorcery => Instant
+cost: {1}{G} => {2}{G}
+
+Orratz, Chimeric Stitcher
+rules_text: [+1]: Create a Treasure token. Target player loses 1 life.
+[-3]: Each opponent sacrifices a creature. Orratz becomes prepared. => [+1]: Create a Treasure token. Each player loses 1 life.
+[-3]: Each opponent sacrifices a creature. Orratz becomes prepared.
+special_text: [+1]: Create a Treasure token. Target player loses 1 life.
+[-3]: Each opponent sacrifices a creature. Orratz becomes prepared. => [+1]: Create a Treasure token. Each player loses 1 life.
+[-3]: Each opponent sacrifices a creature. Orratz becomes prepared.
+
+
+VERSION 33 CHANGELOG
 ====================
 
 
