@@ -1,4 +1,16 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 33 CHANGELOG
+====================
+
+
+
+Mirthful Mailpony
+rules_text: 
+Flying
+This creature enters prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i] => Flying
+This creature enters prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i]
+
+
+VERSION 32 CHANGELOG
 ====================
 
 Frolicking Seaponies added.
