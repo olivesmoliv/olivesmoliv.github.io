@@ -1,4 +1,28 @@
-﻿VERSION 34 CHANGELOG
+﻿VERSION 35 CHANGELOG
+====================
+
+
+
+Thing From Another World
+
+Sonic Rainboom
+
+Easygoing Mountaineers
+
+Kira in a Strange Land
+type: Legendary Planeswalker — K-14 => Legendary Planeswalker — Kira
+
+Orratz, Chimeric Stitcher
+cost: {2}{B} => {1}{B}{B}
+rules_text: [+1]: Create a Treasure token. Each player loses 1 life.
+[-3]: Each opponent sacrifices a creature. Orratz becomes prepared. => [+1]: Create a Treasure token. Each opponent loses 1 life and you gain 1 life.
+[-3]: Each opponent sacrifices a creature. Orratz becomes prepared.
+special_text: [+1]: Create a Treasure token. Each player loses 1 life.
+[-3]: Each opponent sacrifices a creature. Orratz becomes prepared. => [+1]: Create a Treasure token. Each opponent loses 1 life and you gain 1 life.
+[-3]: Each opponent sacrifices a creature. Orratz becomes prepared.
+
+
+VERSION 34 CHANGELOG
 ====================
 
 Unicorn's Burst added.

@@ -5,7 +5,7 @@
 			<name>FIM</name>
 			<longname>Periss: Friendship Is Magic</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-08</releasedate>
+			<releasedate>2026-09-11</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2796,7 +2796,7 @@ Target creature gets -2/-2 until end of turn. If this spell was kicked, that cre
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Planeswalker — K-14</type>
+				<type>Legendary Planeswalker — Kira</type>
 				<maintype>Planeswalker</maintype>
 				<manacost>2WB</manacost>
 				<cmc>4</cmc>
@@ -2808,22 +2808,22 @@ Target creature gets -2/-2 until end of turn. If this spell was kicked, that cre
 		</card>
 		<card>
 			<name>Orratz, Chimeric Stitcher // Recondition</name>
-			<text>[+1]: Create a Treasure token. Each player loses 1 life.
+			<text>[+1]: Create a Treasure token. Each opponent loses 1 life and you gain 1 life.
 [-3]: Each opponent sacrifices a creature. Orratz becomes prepared.
 
 ---
 
-Draw X cards.</text>
+You draw X cards and you lose X life.</text>
 			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/154.png" num="68">FIM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
 				<type>Legendary Planeswalker — Orratz // Sorcery</type>
 				<maintype>Planeswalker</maintype>
-				<manacost>2B // XUU</manacost>
+				<manacost>1BB // XBB</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
-				<coloridentity>UB</coloridentity>
+				<coloridentity>B</coloridentity>
 				<loyalty>4</loyalty>
 			</prop>
 			<tablerow>3</tablerow>

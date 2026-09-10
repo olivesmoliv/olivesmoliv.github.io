@@ -554,7 +554,7 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag card-engine"
         },
         {
             "card_name": "Wooded Chimera",
@@ -872,7 +872,7 @@
             "alias": "",
             "position": "39",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Jasper, Renowned Archeologist",
@@ -1325,7 +1325,7 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag aggro-threat"
         },
         {
             "card_name": "Twintail Pathfinder",
@@ -3587,7 +3587,7 @@
             "card_name": "Kira in a Strange Land",
             "color": "WB",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2014 K-14",
+            "type": "Legendary Planeswalker \u2014 Kira",
             "number": 140,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
@@ -3610,12 +3610,12 @@
             "rarity": "mythic",
             "type": "Legendary Planeswalker \u2014 Orratz",
             "number": 68,
-            "color_identity": "UB",
-            "cost": "{2}{B}",
-            "rules_text": "[+1]: Create a Treasure token. Each player loses 1 life.\n[-3]: Each opponent sacrifices a creature. Orratz becomes prepared.",
+            "color_identity": "B",
+            "cost": "{1}{B}{B}",
+            "rules_text": "[+1]: Create a Treasure token. Each opponent loses 1 life and you gain 1 life.\n[-3]: Each opponent sacrifices a creature. Orratz becomes prepared.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[+1]: Create a Treasure token. Each player loses 1 life.\n[-3]: Each opponent sacrifices a creature. Orratz becomes prepared.",
+            "special_text": "[+1]: Create a Treasure token. Each opponent loses 1 life and you gain 1 life.\n[-3]: Each opponent sacrifices a creature. Orratz becomes prepared.",
             "shape": "adventure",
             "set": "FIM",
             "loyalty": "4",
@@ -3623,10 +3623,10 @@
             "alias": "",
             "position": "154",
             "card_name2": "Recondition",
-            "color2": "U",
+            "color2": "B",
             "type2": "Sorcery",
-            "cost2": "{X}{U}{U}",
-            "rules_text2": "Draw X cards.",
+            "cost2": "{X}{B}{B}",
+            "rules_text2": "You draw X cards and you lose X life.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -5111,5 +5111,5 @@
             "notes": ""
         }
     ],
-    "version": 34
+    "version": 35
 }

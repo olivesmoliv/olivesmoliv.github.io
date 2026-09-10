@@ -1524,7 +1524,7 @@
 			"name": "Kira in a Strange Land",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Planeswalker — K-14",
+			"type": "Legendary Planeswalker — Kira",
 			"collector_number": "140",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/153.png"
@@ -1533,7 +1533,7 @@
 		{
 			"name": "Orratz, Chimeric Stitcher",
 			"rarity": "mythic",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Planeswalker — Orratz",
 			"collector_number": "68",
 			"image_uris": {
