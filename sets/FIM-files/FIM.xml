@@ -1284,8 +1284,8 @@ Whenever you sacrifice a nonland permanent, each opponent loses 1 life and you g
 		</card>
 		<card>
 			<name>Dispose</name>
-			<text>Destroy target creature.
-{1}{B}, Exile Dispose from your graveyard: Create a 1/1 white Pony creature token. Activate only as a sorcery.</text>
+			<text>Kicker {1}{B} (You may pay an additional {1}{B} as you cast this spell.)
+Destroy target creature. If this spell was kicked, create a 1/1 white Pony creature token.</text>
 			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/70.png" num="62">FIM</set>
 			<prop>
 				<layout>normal</layout>

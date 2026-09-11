@@ -5455,7 +5455,7 @@
             "number": 62,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Destroy target creature.\n{1}{B}, Exile Dispose from your graveyard: Create a 1/1 white Pony creature token. Activate only as a sorcery.",
+            "rules_text": "Kicker {1}{B} [i](You may pay an additional {1}{B} as you cast this spell.)[/i]\nDestroy target creature. If this spell was kicked, create a 1/1 white Pony creature token.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",

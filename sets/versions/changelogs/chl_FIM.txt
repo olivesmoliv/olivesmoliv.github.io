@@ -1,4 +1,15 @@
-﻿VERSION 36 CHANGELOG
+﻿VERSION 37 CHANGELOG
+====================
+
+
+
+Dispose
+rules_text: Destroy target creature.
+{1}{B}, Exile Dispose from your graveyard: Create a 1/1 white Pony creature token. Activate only as a sorcery. => Kicker {1}{B} [i](You may pay an additional {1}{B} as you cast this spell.)[/i]
+Destroy target creature. If this spell was kicked, create a 1/1 white Pony creature token.
+
+
+VERSION 36 CHANGELOG
 ====================
 
 
