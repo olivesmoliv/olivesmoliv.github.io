@@ -5,7 +5,7 @@
 			<name>FIM</name>
 			<longname>Periss: Friendship Is Magic</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-11</releasedate>
+			<releasedate>2026-09-12</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -617,7 +617,7 @@ Whenever enchanted creature deals damage to an opponent, you may draw a card.</t
 		<card>
 			<name>Obsessive Stalker</name>
 			<text>Menace
-Unite — Whenever this creature attacks, it deals 2 damage to you unless if a token entered under your control this turn.</text>
+Unite — Whenever this creature attacks, it deals 2 damage to you unless a token entered under your control this turn.</text>
 			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/34.png" num="66">FIM</set>
 			<prop>
 				<layout>normal</layout>
@@ -1284,15 +1284,16 @@ Whenever you sacrifice a nonland permanent, each opponent loses 1 life and you g
 		</card>
 		<card>
 			<name>Dispose</name>
-			<text>Destroy target creature. Create a 1/1 white Pony creature token.</text>
+			<text>Destroy target creature.
+{1}{B}, Exile Dispose from your graveyard: Create a 1/1 white Pony creature token. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/70.png" num="62">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3B</manacost>
-				<cmc>4</cmc>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -2927,15 +2928,14 @@ Draw a card, then discard a card.</text>
 		</card>
 		<card>
 			<name>Touch of the Void</name>
-			<text>This spell costs {2} less to cast if you sacrificed a nonland permanent this turn.
-Destroy target creature or planeswalker.</text>
+			<text>Exile target creature. If it had mana value 3 or less, its controller loses 2 life.</text>
 			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/160.png" num="77">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>3B</manacost>
+				<manacost>2BB</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>

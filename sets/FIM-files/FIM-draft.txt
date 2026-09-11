@@ -693,7 +693,7 @@
 		{
 			"name": "Dispose",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
 			"collector_number": "62",
 			"image_uris": {
@@ -1593,7 +1593,7 @@
 		{
 			"name": "Touch of the Void",
 			"rarity": "common",
-			"mana_cost": "{3}{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
 			"collector_number": "77",
 			"image_uris": {

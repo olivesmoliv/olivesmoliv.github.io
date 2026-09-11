@@ -1,4 +1,37 @@
-﻿VERSION 35 CHANGELOG
+﻿VERSION 36 CHANGELOG
+====================
+
+
+
+Happy Camper
+
+Obsessive Stalker
+rules_text: Menace
+[i]Unite — [/i]Whenever this creature attacks, it deals 2 damage to you unless if a token entered under your control this turn. => Menace
+[i]Unite — [/i]Whenever this creature attacks, it deals 2 damage to you unless a token entered under your control this turn.
+
+Sink
+
+Dispose
+cost: {3}{B} => {2}{B}
+rules_text: Destroy target creature. Create a 1/1 white Pony creature token. => Destroy target creature.
+{1}{B}, Exile Dispose from your graveyard: Create a 1/1 white Pony creature token. Activate only as a sorcery.
+
+Sunsear Dragon
+
+Dauntless General
+
+Crystal Tree
+
+Courageous Intervention
+
+Touch of the Void
+cost: {3}{B} => {2}{B}{B}
+rules_text: This spell costs {2} less to cast if you sacrificed a nonland permanent this turn.
+Destroy target creature or planeswalker. => Exile target creature. If it had mana value 3 or less, its controller loses 2 life.
+
+
+VERSION 35 CHANGELOG
 ====================
 
 
