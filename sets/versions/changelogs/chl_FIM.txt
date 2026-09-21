@@ -1,4 +1,39 @@
-﻿VERSION 37 CHANGELOG
+﻿VERSION 38 CHANGELOG
+====================
+
+Curiosity added.
+Crest of Amity added.
+
+
+Scorching Prescence
+rules_text: [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. => [i](As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)[/i]
+When this Problem enters or is defeated, if it's your main phase or combat phase, there is an additional combat phase after this phase. At the beginning of each combat this turn, untap each creature you control.
+
+The Living Spark
+
+Fateful Absence
+rules_text: Destroy target creature or planeswalker. Its controller creates a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Destroy target creature or planeswalker. Its controller investigates. [i](They create a colorless Clue artifact token with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+Yak Festival
+
+The Sparkstone
+rules_text: The Sparkstone has all loyalty abilities of all other planeswalkers on the battlefield.
+{T}: Add one mana of any color. => The Sparkstone has all loyalty abilities of planeswalkers you control.
+{T}: Add one mana of any color.
+
+Sunforged Paladin
+rules_text: Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Whenever this creature deals combat damage to a player, put a +1/+1 counter on it. => Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Whenever this creature deals combat damage to a player or noncreature permanent, put a +1/+1 counter on it.
+
+Timberborne Stallion
+type: Creature — Pony => Creature — Pony Wolf
+
+Emblem
+
+
+VERSION 37 CHANGELOG
 ====================
 
 

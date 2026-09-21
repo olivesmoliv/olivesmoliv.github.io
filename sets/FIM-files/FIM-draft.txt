@@ -1854,7 +1854,7 @@
 			"name": "Timberborne Stallion",
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
-			"type": "Creature — Pony",
+			"type": "Creature — Pony Wolf",
 			"collector_number": "152",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/186.png"
@@ -1895,7 +1895,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Nightmare",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/190.png"
 			}
@@ -1905,7 +1905,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/191.png"
 			}
@@ -1915,7 +1915,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Unicorn",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/192.png"
 			}
@@ -1925,7 +1925,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/193.png"
 			}
@@ -1935,7 +1935,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Fish",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/194.png"
 			}
@@ -1955,7 +1955,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/196.png"
 			}
@@ -1965,7 +1965,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Land",
-			"collector_number": "22",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/197.png"
 			}
@@ -1975,7 +1975,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/198.png"
 			}
@@ -1985,7 +1985,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Merfolk",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/199.png"
 			}
@@ -1995,7 +1995,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spider",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/200.png"
 			}
@@ -2005,7 +2005,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Unicorn Archer",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/201.png"
 			}
@@ -2015,7 +2015,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Pony Skeleton",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/202.png"
 			}
@@ -2025,7 +2025,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "21",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/203.png"
 			}
@@ -2035,7 +2035,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Kirin",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/204.png"
 			}
@@ -2045,7 +2045,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Ox",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/205.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/206.png"
 			}
@@ -2065,7 +2065,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Pegasus",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/207.png"
 			}
@@ -2085,7 +2085,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/209.png"
 			}
@@ -2095,7 +2095,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Zebra",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/210.png"
 			}
@@ -2105,7 +2105,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem",
-			"collector_number": "23",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/211.png"
 			}
@@ -2188,6 +2188,26 @@
 			"collector_number": "36",
 			"image_uris": {
 				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/219.png"
+			}
+		},
+		{
+			"name": "Curiosity",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/220.png"
+			}
+		},
+		{
+			"name": "Crest of Amity",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://olivesmoliv.github.io/sets/FIM-files/img/221.png"
 			}
 		}
 	]

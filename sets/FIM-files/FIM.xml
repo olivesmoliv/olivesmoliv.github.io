@@ -5,7 +5,7 @@
 			<name>FIM</name>
 			<longname>Periss: Friendship Is Magic</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-12</releasedate>
+			<releasedate>2026-09-22</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -30,7 +30,7 @@ When this Problem enters or is defeated, create a 2/2 blue Unicorn creature toke
 		<card>
 			<name>Scorching Prescence</name>
 			<text>(As a Problem enters, choose an opponent to defend it while you can attack it. You may remove a defense counter after your draw step.)
-When this Problem enters or is defeated, untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
+When this Problem enters or is defeated, if it&apos;s your main phase or combat phase, there is an additional combat phase after this phase. At the beginning of each combat this turn, untap each creature you control.</text>
 			<set rarity="mythic" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/1.png" num="97">FIM</set>
 			<prop>
 				<layout>battle</layout>
@@ -521,6 +521,7 @@ Landfall — Whenever a land you control enters, create a Black Lotus token. (It
 				<loyalty>0</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
+			<related>Sparkemblem</related>
 		</card>
 		<card>
 			<name>Happy Camper</name>
@@ -559,7 +560,7 @@ Other creatures you control get +1/+1.</text>
 		</card>
 		<card>
 			<name>Fateful Absence</name>
-			<text>Destroy target creature or planeswalker. Its controller creates a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<text>Destroy target creature or planeswalker. Its controller investigates. (They create a colorless Clue artifact token with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
 			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/31.png" num="12">FIM</set>
 			<prop>
 				<layout>normal</layout>
@@ -768,7 +769,7 @@ At the beginning of combat on your turn, if you&apos;ve put a counter on a creat
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Yak Festival // Yak&apos;s Banner</name>
+			<name>Yak Festival // Crest of Amity</name>
 			<text>Whenever you attack, create a 2/2 green Ox creature token that&apos;s tapped and attacking and this enchantment becomes prepared. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
 
 ---
@@ -1019,7 +1020,7 @@ Create two 1/1 white Pony creature tokens.</text>
 		</card>
 		<card>
 			<name>The Sparkstone</name>
-			<text>The Sparkstone has all loyalty abilities of all other planeswalkers on the battlefield.
+			<text>The Sparkstone has all loyalty abilities of planeswalkers you control.
 {T}: Add one mana of any color.</text>
 			<set rarity="rare" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/55.png" num="178">FIM</set>
 			<prop>
@@ -1070,7 +1071,7 @@ Whenever this creature becomes the target of a spell or ability you control for 
 		<card>
 			<name>Sunforged Paladin</name>
 			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
-Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.</text>
+Whenever this creature deals combat damage to a player or noncreature permanent, put a +1/+1 counter on it.</text>
 			<set rarity="uncommon" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/58.png" num="26">FIM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3416,7 +3417,7 @@ Reveal the top five cards of your library. You may put a creature or land card f
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
-				<type>Creature — Pony // Instant</type>
+				<type>Creature — Pony Wolf // Instant</type>
 				<maintype>Creature</maintype>
 				<manacost>BG // BG</manacost>
 				<cmc>2</cmc>
@@ -3481,7 +3482,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Nightmare FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/190.png" num="8">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/190.png" num="9">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3499,7 +3500,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Elemental FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/191.png" num="10">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/191.png" num="11">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3517,7 +3518,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Unicorn FIM</name>
 			<text>Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/192.png" num="6">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/192.png" num="7">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3535,7 +3536,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Elemental FIM</name>
 			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/193.png" num="7">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/193.png" num="8">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3553,7 +3554,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Fish FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/194.png" num="4">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/194.png" num="5">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3590,7 +3591,7 @@ Double all damage this creature would deal.</text>
 			<name>Black Lotus FIM</name>
 			<text>{T}, Sacrifice this artifact: Add three mana of any one color.
 (This token&apos;s mana cost is {0}.)</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/196.png" num="19">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/196.png" num="20">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3605,7 +3606,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Everywhere FIM</name>
 			<text>This land is a Plains, Island, Swamp, Mountain, and Forest. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/197.png" num="22">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/197.png" num="24">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3620,7 +3621,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Clue FIM</name>
 			<text>{2}, Sacrifice this token: Draw a card.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/198.png" num="20">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/198.png" num="21">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3635,7 +3636,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Merfolk FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/199.png" num="5">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/199.png" num="6">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3653,7 +3654,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Spider FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/200.png" num="16">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/200.png" num="17">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3671,7 +3672,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Unicorn Archer FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/201.png" num="12">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/201.png" num="13">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3689,7 +3690,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Pony Skeleton FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/202.png" num="9">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/202.png" num="10">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3707,7 +3708,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Treasure FIM</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/203.png" num="21">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/203.png" num="23">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3722,7 +3723,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Kirin FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/204.png" num="14">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/204.png" num="15">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3740,7 +3741,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Ox FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/205.png" num="11">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/205.png" num="12">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3758,7 +3759,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Banner FIM</name>
 			<text>Attacking creatures you control get +1/+0.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/206.png" num="18">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/206.png" num="19">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3773,7 +3774,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Pegasus FIM</name>
 			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/207.png" num="15">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/207.png" num="16">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3809,7 +3810,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Tenderblossom FIM</name>
 			<text>At the beginning of your upkeep, you lose 1 life and create a 1/1 black and white Pegasus creature token with flying.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/209.png" num="17">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/209.png" num="18">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3826,7 +3827,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Zebra FIM</name>
 			<text></text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/210.png" num="13">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/210.png" num="14">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3844,7 +3845,7 @@ Double all damage this creature would deal.</text>
 		<card>
 			<name>Emblem FIM</name>
 			<text>Noncreature spells you cast cost {1} less to cast.</text>
-			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/211.png" num="23">FIM</set>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/211.png" num="25">FIM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3982,6 +3983,42 @@ Flashback {2}{UB} (You may cast this card from your graveyard for its flashback 
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Curiosity FIM</name>
+			<text>Enchant creature
+Whenever enchanted creature deals damage to an opponent, you may draw a card.
+(This token&apos;s mana cost is {U}.)</text>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/220.png" num="4">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Crest of Amity FIM</name>
+			<text>As this artifact enters, choose a creature type.
+Creatures you control of the chosen type get +1/+1.
+(This token&apos;s mana cost is {3}.)</text>
+			<set rarity="common" picurl="https://olivesmoliv.github.io/sets/FIM-files/img/221.png" num="22">FIM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

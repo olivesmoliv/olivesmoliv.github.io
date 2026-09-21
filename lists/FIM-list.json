@@ -1708,7 +1708,7 @@
     "a->token",
     {
         "card_name": "Banner",
-        "number": 18,
+        "number": 19,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1716,7 +1716,7 @@
     },
     {
         "card_name": "Black Lotus",
-        "number": 19,
+        "number": 20,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1724,15 +1724,23 @@
     },
     {
         "card_name": "Clue",
-        "number": 20,
+        "number": 21,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
         "position": "198"
     },
     {
+        "card_name": "Crest of Amity",
+        "number": 22,
+        "shape": "token",
+        "set": "FIM",
+        "rotated": false,
+        "position": "221"
+    },
+    {
         "card_name": "Treasure",
-        "number": 21,
+        "number": 23,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1740,7 +1748,7 @@
     },
     {
         "card_name": "Everywhere",
-        "number": 22,
+        "number": 24,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1748,7 +1756,7 @@
     },
     {
         "card_name": "Emblem",
-        "number": 23,
+        "number": 25,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1779,8 +1787,16 @@
         "position": "195"
     },
     {
-        "card_name": "Fish",
+        "card_name": "Curiosity",
         "number": 4,
+        "shape": "token",
+        "set": "FIM",
+        "rotated": false,
+        "position": "220"
+    },
+    {
+        "card_name": "Fish",
+        "number": 5,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1788,7 +1804,7 @@
     },
     {
         "card_name": "Merfolk",
-        "number": 5,
+        "number": 6,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1796,7 +1812,7 @@
     },
     {
         "card_name": "Unicorn",
-        "number": 6,
+        "number": 7,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1804,7 +1820,7 @@
     },
     {
         "card_name": "Elemental",
-        "number": 7,
+        "number": 8,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1812,7 +1828,7 @@
     },
     {
         "card_name": "Nightmare",
-        "number": 8,
+        "number": 9,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1820,7 +1836,7 @@
     },
     {
         "card_name": "Pony Skeleton",
-        "number": 9,
+        "number": 10,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1828,7 +1844,7 @@
     },
     {
         "card_name": "Elemental",
-        "number": 10,
+        "number": 11,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1836,7 +1852,7 @@
     },
     {
         "card_name": "Ox",
-        "number": 11,
+        "number": 12,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1844,7 +1860,7 @@
     },
     {
         "card_name": "Unicorn Archer",
-        "number": 12,
+        "number": 13,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1852,7 +1868,7 @@
     },
     {
         "card_name": "Zebra",
-        "number": 13,
+        "number": 14,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1860,7 +1876,7 @@
     },
     {
         "card_name": "Kirin",
-        "number": 14,
+        "number": 15,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1868,7 +1884,7 @@
     },
     {
         "card_name": "Pegasus",
-        "number": 15,
+        "number": 16,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1876,7 +1892,7 @@
     },
     {
         "card_name": "Spider",
-        "number": 16,
+        "number": 17,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
@@ -1884,17 +1900,11 @@
     },
     {
         "card_name": "Tenderblossom",
-        "number": 17,
+        "number": 18,
         "shape": "token",
         "set": "FIM",
         "rotated": false,
         "position": "209"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
