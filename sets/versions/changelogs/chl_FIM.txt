@@ -1,4 +1,13 @@
-﻿VERSION 38 CHANGELOG
+﻿VERSION 39 CHANGELOG
+====================
+
+
+
+Mare Admirers
+pt: 2/1 => 1/3
+
+
+VERSION 38 CHANGELOG
 ====================
 
 Curiosity added.

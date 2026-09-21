@@ -4169,7 +4169,7 @@
             "cost": "{1}{U}",
             "rules_text": "Whenever this creature becomes tapped, you may discard a card. If you do, it becomes prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/1",
+            "pt": "1/3",
             "special_text": "",
             "shape": "adventure",
             "set": "FIM",
