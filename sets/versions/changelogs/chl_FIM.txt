@@ -1,4 +1,60 @@
-﻿VERSION 39 CHANGELOG
+﻿VERSION 40 CHANGELOG
+====================
+
+
+
+Forbidden Bond
+cost: {R} => {1}{R}
+
+Lorecaster Mage
+rules_text: When this creature enters, you may exile target instant or sorcery card with mana value 3 or less from a graveyard as one of this creature prepared spells. Then it becomes prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i] => As this creature enters, you may exile target instant or sorcery card with mana value 3 or less from a graveyard as one of this creature prepared spells. Then it becomes prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i]
+
+Lotus Tender
+
+Rainbowhorn Kirin
+cost: {3}{W} => {2}{W}{W}
+rules_text: Backup 2 [i](When this creature enters, put two +1/+1 counters on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Other creatures you control get +1/+1. => Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Other creatures you control get +1/+1.
+
+Jasper, Renowned Archeologist
+
+Auxiliary Phoenix
+
+Jungling
+
+Calm or Chaos
+rules_text: Choose one —
+• Draw two cards, then discard a card unless you sacrifice a nonland permanent.
+• Destroy target artifact. Between Calm and Chaos deals 2 damage to that artifact's controller. => Choose one —
+• Draw two cards, then discard a card unless you sacrifice a nonland permanent.
+• Destroy target artifact. Calm or Chaos deals 2 damage to that artifact's controller.
+
+Blazing Defense
+cost: {U}{R} => {1}{U}{R}
+
+Orratz, Chimeric Stitcher
+rules_text: [+1]: Create a Treasure token. Each opponent loses 1 life and you gain 1 life.
+[-3]: Each opponent sacrifices a creature. Orratz becomes prepared. => [+1]: Each opponent loses 1 life and you gain 1 life.
+[-3]: Each opponent sacrifices a creature. Orratz becomes prepared.
+special_text: [+1]: Create a Treasure token. Each opponent loses 1 life and you gain 1 life.
+[-3]: Each opponent sacrifices a creature. Orratz becomes prepared. => [+1]: Each opponent loses 1 life and you gain 1 life.
+[-3]: Each opponent sacrifices a creature. Orratz becomes prepared.
+loyalty: 4 => 3
+
+Mirthful Mailpony
+pt: 3/4 => 4/3
+
+Gold, Perissian Queen
+rules_text: Whenever you attack, if there are six or more different creature types among attacking creatures, create a colorless artifact token named Banner with “Attacking creatures you control get +1/+0.”
+{R}, Sacrifice an artifact: Draw a card. Activate only once each turn. => Whenever you attack, if there are six or more different creature types among attacking creatures, you may create Banner, a legendary colorless artifact token with “Attacking creatures you control get +1/+0.”
+{R}, Sacrifice an artifact: Draw a card. Activate only once each turn.
+
+Banner
+type: Token Artifact => Legendary Token Artifact
+
+
+VERSION 39 CHANGELOG
 ====================
 
 
