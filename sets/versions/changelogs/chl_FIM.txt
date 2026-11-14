@@ -1,4 +1,407 @@
-﻿VERSION 40 CHANGELOG
+﻿VERSION 41 CHANGELOG
+====================
+
+Deepgrove Dredger added.
+Cloudhome Soarer added.
+Scorching Kirin added.
+Aerial Skewer added.
+Fresh Horizons added.
+Touch of Shadow added.
+United Duo added.
+Blazing Chimera added.
+Amber, Speed Demon added.
+Queensworn Advisor added.
+Clifftop Retreat added.
+Hinterland Harbor added.
+Isolated Chapel added.
+Sulfur Falls added.
+Woodland Cemetery added.
+Spellbinding Medallion added.
+Gallivanting added.
+Brilliant Radiance added.
+Reflective Philosopher added.
+Scouring Lamenter added.
+Decadent Gambler added.
+Creature Research added.
+Queensworn Champion added.
+Bear added.
+
+The Living Spark removed.
+Fateful Absence removed.
+Weaver, Sparkchaser removed.
+Jasper, Renowned Archeologist removed.
+The Sparkstone removed.
+Leaping Pegasus removed.
+Ancients of Wind removed.
+Blazing Kirin removed.
+Take Down removed.
+Cloudcliff Aerie removed.
+Volatile Peak removed.
+Changeling Nest removed.
+Small-Town Shores removed.
+Deepgrove Gully removed.
+Skycoach Waypoint removed.
+Touch of the Void removed.
+United Trio removed.
+Blazing Wurm removed.
+Cricket, Wayfaring Changeling removed.
+Amber, on Fiery Wings removed.
+Windrider Elemental removed.
+Brilliant Blade removed.
+Queensworn Saboteur removed.
+Emblem removed.
+
+Kirin Exile
+
+Thing From Another World
+
+Happy Camper
+
+Rainbowhorn Kirin
+
+Spirited Tracker
+
+Inquisitive Seapony
+
+Obsessive Stalker
+
+Darkhoof Stallion
+
+Caress of Dreams
+
+The Oncoming Storm
+
+Sonic Rainboom
+
+Auxiliary Phoenix
+
+Yak Festival
+
+Peripatetic Zebra
+
+Jungling
+
+Questing Chimera
+
+Distant Expeditioner
+rules_text: When this creature enters, if it was cast, search your library for a battle card, put it onto the battlefield, then shuffle. This creature deals 33 damage to it. => When this creature enters, if it was cast, search your library for a battle card with mana value 5 or less, put it onto the battlefield, then shuffle. This creature deals 33 damage to it.
+
+Rimebound Reindeer
+rules_text: Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent. If you cast that spell from anywhere other than your hand, add {U} or {R}. [i](Prepared spells are cast from exile.)[/i] => Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent. Then if that spell was cast from anywhere other than your hand, you may copy it. You may choose new targets for the copy. Do this only once each turn.
+
+Queensworn Tinkerer
+
+Cloudhome
+
+Walls of Coalin
+
+Submerged City
+
+Deepgrove Woods
+
+Winpeak Heights
+
+Calm or Chaos
+
+Easygoing Mountaineers
+
+Twintail Pathfinder
+
+Sunforged Paladin
+
+Sparkstone Studier
+
+Path to Everywhere
+
+Friendship is Magic
+
+Calmwater Sailor
+
+Starbird Channeler
+
+Sink
+
+Imprisoned in the Moon
+
+Obsessive Tracking
+
+Snarling Timberwolf
+
+Guardian Cerberus
+
+Dispose
+
+Queensworn Archaeologist
+
+Splatterhoof Kirin
+
+Lavaborne Unicorn
+
+Dragonhome Unicorn
+
+Sunsear Dragon
+
+Rose's Fury
+
+Hunted Heir
+
+Galloping Unicorn
+
+Plantbound Pony
+
+Collossal Timberwolf
+
+Queensworn Elites
+
+Sociable Seapony
+
+Blazing Defense
+
+Cynical Hiveleader
+
+Ravenous Gator
+
+Dauntless General
+
+Curious Changeling
+
+Naive Changeling
+
+Busy Birdcaller
+pt: 2/1 => 2/2
+
+Deepsea Pioneer
+
+Cordial Shifter
+
+Dancing Longma
+
+Animated Earth
+
+Ironclad Soldier
+
+Royal Horseshoe
+
+Crystal Tree
+
+Palace Detainer
+
+Perfect Pair
+
+Outland Yakrider
+type: Creature — Pony Warrior => Creature — Pony Druid
+cost: {2}{G} => {2}{W}
+rules_text: Reach
+[i]Unite — [/i]Whenever this creature attacks, if a token entered under your control this turn, put a +1/+1 counter on it. => [i]Unite — [/i]This creature has lifelink as long a token entered under your control this turn.
+pt: 2/2 => 3/3
+
+Proud Pony
+
+Arcane Awakening
+
+Endless Iteration
+
+Banishing Light
+
+Aspiring Adventurer
+
+Outland Stormcaller
+
+Nomadic Sorcerer
+
+Cloudhome Tourist
+
+Deepsea Delver
+
+Courageous Intervention
+
+Pegasus's Whirlwind
+
+Plagued Pony
+
+Deepgrove Gravecaller
+type: Creature — Pony Warlock => Creature — Pony Wizard
+
+Sardonic Recluse
+
+Disguised Changeling
+
+Queen's Executioner
+
+Predatory Gravelurker
+
+Saved by the Stars
+
+Rallied Raiders
+
+Winpeak Soldier
+
+Lavish Campaigner
+
+Wayfaring Kirin
+
+Deepgrove Hunter
+
+Ancients of Growth
+
+Prowling Timberwolf
+
+Deepgrove Impersonator
+
+Swift Skyhunter
+
+Changeling Commander
+
+Illusive Peacock
+
+Hive Scout
+
+Deepgrove Hydra
+
+Evolving Wilds
+
+Unruly Brewer
+
+Outland Axebearer
+
+Shoreline Clash
+
+Unicorn's Burst
+
+Crackling Lightning
+
+Embers of Emotion
+
+My Little Ponies
+
+Hunted Sparkholder
+
+Outskirt Scouts
+
+Windborne Kirin
+
+Death's Clutches
+
+Kira in a Strange Land
+
+Orratz, Chimeric Stitcher
+
+Rose, Exiled Kirin
+
+Coalin Archivist
+
+Unaware Employee
+
+On Ice
+
+Mirthful Mailpony
+
+Aerial Ambush
+
+Graveyard Raiser
+type: Creature — Unicorn Warlock => Creature — Unicorn Wizard
+
+Coalin Scout
+
+Savage Descent
+
+Insatiable Hivequeen
+
+Sisters of Sun and Moon
+
+Savvy Shopper
+
+Small World
+
+Ancient Study
+
+Mare Admirers
+
+Sanguinary Scourge
+
+The Fabled Visitor
+pt: 2/1 => 1/3
+
+Inspired Trailblazer
+
+Quartz of the Mirror Pool
+
+A New Generation
+
+Love Collects No Tax
+
+Trotivore
+
+Gold, Perissian Queen
+
+Timberborne Stallion
+
+Thunderbolt Unicorn
+
+Winpeak Defense
+
+Pony
+
+Nightmare
+
+Elemental
+
+Unicorn
+
+Elemental
+
+Fish
+
+Bird Illusion
+
+Black Lotus
+
+Everywhere
+
+Clue
+
+Merfolk
+
+Spider
+
+Unicorn Archer
+
+Pony Skeleton
+
+Treasure
+
+Kirin
+
+Ox
+
+Banner
+
+Pegasus
+
+Rabbit
+
+Tenderblossom
+
+Zebra
+
+Midnight Feeder
+
+Glimpse the Stars
+
+Frolicking Seaponies
+
+Curiosity
+
+Crest of Amity
+
+Outland Tamer
+type: Creature — Pony Druid => Creature — Pony
+cost: {2}{W} => {2}{G}
+rules_text: [i]Unite — [/i]This creature has lifelink as long a token entered under your control this turn. => When this creature dies, create a 3/3 green Bear creature token.
+pt: 3/3 => 2/1
+
+
+VERSION 40 CHANGELOG
 ====================
 
 
