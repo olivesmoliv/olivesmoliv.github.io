@@ -1,4 +1,408 @@
-﻿VERSION 41 CHANGELOG
+﻿VERSION 42 CHANGELOG
+====================
+
+[Rename] Studier added.
+Hunted Heir (Reart) added.
+Shadowy Impersonator added.
+Rename added.
+Endeavoring Perfectionist added.
+Cloudcliff Aerie added.
+Changeling Hive added.
+Deepgrove Gully added.
+Volcanic Peaks added.
+Small-town Shores added.
+Entwined Spelldancers added.
+
+Sparkstone Studier removed.
+Starbird Channeler removed.
+Hunted Heir removed.
+Deepgrove Impersonator removed.
+Hunted Sparkholder removed.
+Unaware Employee removed.
+Bird Illusion removed.
+Clifftop Retreat removed.
+Hinterland Harbor removed.
+Isolated Chapel removed.
+Sulfur Falls removed.
+Woodland Cemetery removed.
+
+Sister of the Sun
+
+Sister of the Moon
+
+Cedar, Kirin Sovereign
+
+Lorecaster Mage
+
+Thing From Another World
+
+Wooded Chimera
+
+Lotus Tender
+
+Happy Camper
+
+Rainbowhorn Kirin
+
+Spirited Tracker
+
+Inquisitive Seapony
+
+Obsessive Stalker
+
+Darkhoof Stallion
+
+Deepgrove Dredger
+type: Creature — Pony Wizard => Creature — Pony
+rules_text: When this creature enters, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Whenever you sacrifice another permanent, target opponent loses 3 life unless that player sacrifices a nonland permanent of their choice or discards a card. => Menace
+Whenever this creature enters, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Whenever you sacrifice another permanent, target opponent loses 3 life unless that player sacrifices a nonland permanent of their choice or discards a card.
+
+Caress of Dreams
+
+The Oncoming Storm
+
+Sonic Rainboom
+
+Auxiliary Phoenix
+
+Yak Festival
+
+Peripatetic Zebra
+
+Jungling
+
+Questing Chimera
+
+Distant Expeditioner
+
+Rimebound Reindeer
+
+Queensworn Tinkerer
+
+Cloudhome
+
+Walls of Coalin
+
+Submerged City
+
+Deepgrove Woods
+
+Winpeak Heights
+
+Calm or Chaos
+
+Easygoing Mountaineers
+
+Twintail Pathfinder
+
+Sunforged Paladin
+
+Path to Everywhere
+
+Friendship is Magic
+
+Calmwater Sailor
+
+Sink
+
+Imprisoned in the Moon
+
+Obsessive Tracking
+
+Snarling Timberwolf
+
+Guardian Cerberus
+
+Dispose
+
+Queensworn Archaeologist
+
+Splatterhoof Kirin
+
+Lavaborne Unicorn
+
+Dragonhome Unicorn
+
+Sunsear Dragon
+
+Rose's Fury
+
+Galloping Unicorn
+
+Plantbound Pony
+
+Collossal Timberwolf
+
+Queensworn Elites
+
+Sociable Seapony
+
+Blazing Defense
+
+Cynical Hiveleader
+
+Ravenous Gator
+
+Dauntless General
+
+Curious Changeling
+
+Naive Changeling
+
+Busy Birdcaller
+
+Deepsea Pioneer
+
+Cordial Shifter
+
+Dancing Longma
+
+Animated Earth
+
+Ironclad Soldier
+
+Royal Horseshoe
+
+Crystal Tree
+
+Palace Detainer
+
+Perfect Pair
+
+Outland Yakrider
+
+Cloudhome Soarer
+
+Proud Pony
+
+Arcane Awakening
+
+Endless Iteration
+
+Banishing Light
+
+Aspiring Adventurer
+
+Outland Stormcaller
+
+Nomadic Sorcerer
+
+Cloudhome Tourist
+
+Deepsea Delver
+
+Courageous Intervention
+
+Pegasus's Whirlwind
+
+Plagued Pony
+
+Deepgrove Gravecaller
+
+Sardonic Recluse
+
+Disguised Changeling
+
+Queen's Executioner
+
+Predatory Gravelurker
+
+Saved by the Stars
+
+Scorching Kirin
+
+Rallied Raiders
+
+Winpeak Soldier
+
+Lavish Campaigner
+
+Wayfaring Kirin
+
+Deepgrove Hunter
+
+Ancients of Growth
+
+Prowling Timberwolf
+
+Aerial Skewer
+
+Swift Skyhunter
+
+Changeling Commander
+
+Illusive Peacock
+
+Hive Scout
+
+Deepgrove Hydra
+
+Evolving Wilds
+
+Unruly Brewer
+
+Outland Axebearer
+
+Shoreline Clash
+
+Unicorn's Burst
+
+Crackling Lightning
+
+Fresh Horizons
+
+Embers of Emotion
+
+My Little Ponies
+
+Outskirt Scouts
+
+Windborne Kirin
+
+Death's Clutches
+
+Kira in a Strange Land
+
+Orratz, Chimeric Stitcher
+
+Rose, Exiled Kirin
+
+Coalin Archivist
+
+On Ice
+
+Mirthful Mailpony
+
+Touch of Shadow
+
+United Duo
+
+Aerial Ambush
+
+Graveyard Raiser
+
+Coalin Scout
+
+Blazing Chimera
+
+Savage Descent
+
+Amber, Speed Demon
+
+Insatiable Hivequeen
+
+Sisters of Sun and Moon
+
+Savvy Shopper
+
+Small World
+
+Ancient Study
+
+Queensworn Advisor
+
+Mare Admirers
+
+Sanguinary Scourge
+
+The Fabled Visitor
+
+Inspired Trailblazer
+
+Quartz of the Mirror Pool
+
+A New Generation
+
+Love Collects No Tax
+
+Trotivore
+
+Gold, Perissian Queen
+
+Timberborne Stallion
+
+Thunderbolt Unicorn
+
+Winpeak Defense
+
+Pony
+
+Nightmare
+
+Elemental
+
+Unicorn
+
+Elemental
+
+Fish
+
+Black Lotus
+
+Everywhere
+
+Clue
+
+Merfolk
+
+Spider
+
+Unicorn Archer
+
+Pony Skeleton
+
+Treasure
+
+Kirin
+
+Ox
+
+Banner
+
+Pegasus
+
+Rabbit
+
+Tenderblossom
+
+Zebra
+
+Midnight Feeder
+
+Glimpse the Stars
+
+Frolicking Seaponies
+
+Curiosity
+
+Crest of Amity
+
+Spellbinding Medallion
+
+Gallivanting
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, add one mana of any color. If this is the second time this ability has resolved this turn, draw a card.
+{W}{U}{B}{R}{G}: Create three 2/2 green Pony creature tokens. => [i][i]Landfall[/i] — [/i]Whenever a land you control enters, put a +1/+1 counter on up to one target creature if this is the first time this ability has resolved this turn. Otherwise, draw a card.
+
+Brilliant Radiance
+
+Reflective Philosopher
+
+Scouring Lamenter
+
+Outland Tamer
+
+Decadent Gambler
+
+Creature Research
+
+Queensworn Champion
+
+Bear
+
+
+VERSION 41 CHANGELOG
 ====================
 
 Deepgrove Dredger added.
